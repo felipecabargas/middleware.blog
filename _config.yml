@@ -1,7 +1,8 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:year/:month/:title
-paginate: 5
+paginate: 10
+paginate_path: "/page/:num"
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
