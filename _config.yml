@@ -1,12 +1,12 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:categories/:year/:month/:day/:title
-
+permalink: /:year/:month/:title
+paginate: 5
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
 # https://help.github.com/articles/migrating-your-pages-site-from-maruku
-markdown: kramdown
+markdown: rdiscount
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
@@ -33,7 +33,6 @@ production_url : http://blog.cabargas.com
 #
 JB :
   version : 0.3.0
-
   # All links will be namespaced by BASE_PATH if defined.
   # Links in your website should always be prefixed with {{BASE_PATH}}
   # however this value will be dynamically changed depending on your deployment situation.
