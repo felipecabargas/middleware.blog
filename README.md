@@ -1,37 +1,49 @@
-# Jekyll-Bootstrap-3
+**felipecabargas.github.com**
+---
+This repo contains my [IT blog](http://blog.cabargas.com).
 
-Easily publish Bootstrap 3 powered Jekyll sites.  
-Fork of the well known jekyll-bootstrap (v0.3.0). Original project is [here](https://github.com/plusjade/jekyll-bootstrap).  
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages.  
+Is based in [Jekyll](http://jekyllrb.com) & [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
-## Usage
+**Development notes**
+---
+In order to use this repo you need to install the following dependencies:
 
-### 1. Create a Repo
-- Go to <https://github.com> and create a new repository named *USERNAME.github.com*  
++ Ruby 2.1
++ Jekyll 2.3.0
++ RDiscount
 
-### 2. Install Jekyll-Bootstrap-3  
-<pre>
-  <code>
-    $ git clone https://github.com/dbtek/jekyll-bootstrap-3 USERNAME.github.com
-    $ cd USERNAME.github.com
-    $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.com.git
-    $ git push origin master  
-  </code>
-</pre>  
-### 3. Enjoy !
-- After giving 10 mins to GitHub of course.  
+In order to install the necessary gems just run:
 
-For original project's usage and documentation please see: <http://jekyllbootstrap.com>  
+	gem install jekyll
+	gem install rdiscount
+
+To start the server with auto-regeneration capacities:
+
+	jekyll serve --watch
+
+**Deployment notes**
+---
+1. Create a repo named username.github.io
+2. Put the contents on this repo inside your local repo folder
+3. Remove all posts
+
+		cd _posts/ && rm *
+
+4. Add your templates and posts, then commit your changes
 
 
-### Themes
+		git push origin master
 
-Quickly install and use lovely themes with Jekyll Bootstrap 3. Visit [theme gallery](http://jekyllbootstrap3.tk/preview/).
+	**GitHub will automatically deploy your changes.**
 
-## License
+5. Enjoy!
 
+**About**
+---
+2012-2014 &copy; Contenido bajo licencia CC-BY-NC
+
+*Enjoy jekyll. Blog like a hacker.*
+
+**License**
+---
 [MIT](http://opensource.org/licenses/MIT)
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/jekyll-bootstrap-3/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
