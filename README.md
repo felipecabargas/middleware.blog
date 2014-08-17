@@ -2,7 +2,7 @@
 ---
 This repo contains my [IT blog](http://blog.cabargas.com).
 
-Is based in [Jekyll](http://jekyllrb.com) & [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Written on top of [Jekyll](http://jekyllrb.com) & [Jekyll Bootstrap 3](http://jekyllbootstrap3.tk/)
 
 **Development notes**
 ---
