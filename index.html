@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Dbyll
+title: Felipe Cabargas - pase y lea sin compromiso
 tagline:
 ---
 {% include JB/setup %}
 
 {% for post in paginator.posts %}
-{% if post.hidden != true %}
 <article class="home" style="margin-top:40px">
 
   <span class="post-date">
@@ -39,7 +38,6 @@ tagline:
   </div>
 
 </article>
-{% endif %}
 {% endfor %}
 <hr/>
 
@@ -72,5 +70,5 @@ tagline:
     <a>Older &rarr;</a>
   </li>
   {% endif %}
-  
+
 </ul>
