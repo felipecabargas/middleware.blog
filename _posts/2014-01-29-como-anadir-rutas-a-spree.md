@@ -43,7 +43,7 @@ A pesar de esto, al intentar testear cualquier elemento que contenga rutas con R
 
 Esto se debe a que estas rutas están **dibujadas** dentro de **Spree** y no dentro de Application::Routes por lo cual deben ser llamadas usando el prefijo **spree.**, por ejemplo en una vista:
 
-~~~ ruby
+~~~ erb
 <%= link_to 'Show', spree.admin_items_path(@item), class: "button" %>
 <%= link_to 'Back', spree.admin_items_path, class: "button" %>
 ~~~
