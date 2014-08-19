@@ -16,30 +16,30 @@ La primera opcion era renombrar el modelo y así resources lo haría por mi pero
 
 Rake me arrojaba paths de esta forma ( *rake routes* ):
 
-{% highlight ruby   %}
+~~~ ruby
 location_members GET /location/:id/members(.:format) members#index
-{% endhighlight %}
+~~~
 
 y yo las quería así:
 
-{% highlight ruby   %}
+~~~ ruby
 location_point_of_sales GET /location/:id/pos(.:format) members#index
-{% endhighlight %}
+~~~
 
 Para lograrlo abrimos *routes.rb* encontramos el resource del modelo en cuestión y lo cambiamos desde:
 
-{% highlight ruby   %}
+~~~ ruby
 resources :locations do
   resources :members
 end
-{% endhighlight %}
+~~~
 
 a:
 
-{% highlight ruby   %}
+~~~ ruby
 resources :locations do
   resources :members, :as => "point_of_sales", :path => "pos"
 end
-{% endhighlight %}
+~~~
 
 Con esta sencilla línea de código nos ahorramos muchísimo tiempo de renaming y evitamos inconsistencias entre archivos. Espero que les sirva

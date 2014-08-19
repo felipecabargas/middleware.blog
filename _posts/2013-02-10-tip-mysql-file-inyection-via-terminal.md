@@ -17,9 +17,9 @@ Es en estos casos que los respaldos de las consultas SQL en archivos *.sql son f
 
 Así, es como llegamos a el siguiente comando, que permite importarlos de manera más fácil y cómoda:
 
-{% highlight bash   %}
+~~~ bash
 felipe@afcm-linux $ mysql -u root -p database < path/to/file.sql
-{% endhighlight %}
+~~~
 
 Simplemente basta con reemplazar el user (root) la base de datos objetivo (database) y la ruta hacia el archivo.sql
 

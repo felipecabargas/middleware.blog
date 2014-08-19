@@ -18,7 +18,7 @@ post_format: [ ]
 
 I used this method with the following hardware and software:
 
-{% highlight text %}
+~~~
 - Moto X (XT1058) Movistar.en.CL original with LOCKED bootloader
 - MacBook Air with MDM (Motorola Device Manager) installed
 - 4.2.2 ROM file: fastboot-ghost_retbr-user-4.2.2-13.9.0Q2.X-116-LCX-35-36-release-keys-cid12-Brasil-BR.tar.gz (EXTRACTED ON DOWNLOADS FOLDER)
@@ -26,7 +26,7 @@ I used this method with the following hardware and software:
 
 THE FILES BELOW WERE UPLOADED BY SOMEONE ELSE.
 SO DON'T BLAME ME IF THE LINKS ARE NOT WORKING OR YOU BRICK YOUR PHONE.
-{% endhighlight %}
+~~~
 
 The process is pretty simple:
 
@@ -45,11 +45,11 @@ The whole process takes about 20 minutes and I preserved my info and apps but a 
 2. Connect your Moto X to your PC vía USB.
 3. In Linux & OS X go to Terminal and enter the following commands:
 
-   {% highlight bash %}
+   ~~~ bash
    cd Downloads/fastboot-ghost_retbr-user-4.2.2-13.9.0Q2.X-116-LCX-35-36-release-keys-cid12-Brasil-BR/
    bash flashall.sh
-   {% endhighlight %}
-  
+   ~~~
+
    (In Windows open the Files Explorer go to the extracted folder and execute flashall.bat)
 
 **Wait until it finish.**

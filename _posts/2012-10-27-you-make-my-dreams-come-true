@@ -11,14 +11,14 @@ post_format: [ ]
 ---
 [![][1]][1]
 
-Hola gente, les vengo a decir incoherencias de madrugada. 
+Hola gente, les vengo a decir incoherencias de madrugada.
 
 AVISO DE UTILIDAD PÚBLICA: Si quiere mantener sus neuronas intactas deténgase aquí.
 
-{% highlight bash   %}
+~~~ bash
 juanpintoduran@life $ '(500) Days of Summer' = Una película satírica del amor occidental
 > true
-{% endhighlight %}
+~~~
 
 Pero para mí es también el recuento de algo extraño pero único, de algo inolvidable.
 

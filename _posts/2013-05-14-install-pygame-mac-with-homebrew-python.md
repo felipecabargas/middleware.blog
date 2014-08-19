@@ -23,32 +23,32 @@ Existen 10 o más instaladores, más de 10 taps y sin duda más de una respuesta
 
 Manos a la obra. Abran un terminal e ingresen los siguientes comandos:
 
-{% highlight bash %}
+~~~ bash
 curl -O http://www.pygame.org/ftp/pygame-1.9.1release.tar.gz
 tar -xzf pygame-1.9.1release.tar.gz
 cd pygame-1.9.1release/
 python config.py
-{% endhighlight %}
+~~~
 
 En el archivo 'Setup' buscamos las entradas con SDL, FONT, IMAGE y MIXER y las reemplazamos por las siguientes (estan juntas):
 
-{% highlight python %}
-SDL = -I/usr/local/include/SDL -L/usr/local/lib -lSDL 
+~~~python
+SDL = -I/usr/local/include/SDL -L/usr/local/lib -lSDL
 FONT = -lSDL_ttf
 IMAGE = -lSDL_image
 MIXER = -lSDL_mixer
-{% endhighlight %}
+~~~
 
 Pueden también descomentar funciones extra que quieren que se compilen quitando los # de las líneas correspondientes
 
 Ahora de vuelta en la terminal reemplazaremos un archivo con este otro (cambian dos ocurrencias pero les ahorro el trabajo):
 
-{% highlight bash %}
+~~~ bash
 cd src/
 sudo curl -O http://www.cabargas.com/files/scale_mmx64.c
 cd ..
 sudo python setup.py install
-{% endhighlight %}
+~~~
 
 Tras todo esto ya deberían poder hacer import del módulo 'pygame' normalmente. Pueden remover el directorio pygame-1.9.1release.
 

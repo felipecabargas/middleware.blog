@@ -6,7 +6,7 @@ layout: post
 categories:
   - Hacking
 tags:
-  - Ruby 
+  - Ruby
   - Ruby on Rails
 post_format: [ ]
 ---
@@ -23,34 +23,34 @@ Luego se debe ir a la referencia básica y el "Hello World" de la creación de g
 
 De ahí ya podemos saltar a la terminal y el editor de texto (en mi caso la gema es rate-it así que pondré los comandos que yo usé):
 
-{% highlight bash %}
-mkdir rate-it && mkdir rate-it/lib && cd rate-it && touch rate-it.gemspec 
+~~~ bash
+mkdir rate-it && mkdir rate-it/lib && cd rate-it && touch rate-it.gemspec
 cd lib && touch rate-it.rb
-{% endhighlight %}
+~~~
 
 Estas sencillas líneas generarán el siguiente directorio:
 
-{% highlight text %}
+~~~
 tree
    ├── rate-it.gemspec
    └── lib
          └── rate-it.rb
-{% endhighlight %}
+~~~
 
 El archivo **rate-it.gemspec** corresponde a las variables de configuración de la gema y contiene el nombre, versión, autor, licencia, dependencias y ramas de archivos que deben considerarse. En tanto el archivo **lib/rate-it.rb** corresponde al archivo que contiene las funciones de la gema.
 
 Pero eso no sirve de mucho, mi idea es una gema que funcione de la siguiente manera:
 
 #####Gemfile
-{% highlight ruby %}
+~~~ ruby
 gem 'rate-it', '1.0'
-{% endhighlight %}
+~~~
 
 Guardamos e instalamos la gema (si lo hacen se instalará, ya está disponible arriba aunque no contiene código dicha versión)
 
-{% highlight bash %}
+~~~ bash
 bundle install && rails g rate-it:install
-{% endhighlight %}
+~~~
 
 y que eso generase todas las migraciones, vistas, assets, controladores y el modelo de los ratings.
 
@@ -60,7 +60,7 @@ En otro minuto explicaré en detalle como construir un generator.
 
 Así que nuevamente a agregar archivos (no explicaré esto en detalle pero les dejaré el tree para que sepan más o menos como va cada cosa)
 
-{% highlight text %}
+~~~
 tree
   ├── rate-it.gemspec
   └── lib
@@ -71,12 +71,12 @@ tree
        │          ├── views #views for rates
        │          │    ├── new.html.erb
        │          │    ├── edit.html.erb
-       │          │    └── show.html.erb                           
+       │          │    └── show.html.erb
        │          ├── AddTableRates.rb #this is a migration
        │          ├── average_rate.rb #injects a method to helpers
        │          └── rating.css.scss #stylesheet
        └── rate-it.rb
-{% endhighlight %}
+~~~
 
 Así y tras mucho rato de investigación y lectura, tenemos una gema básica con importaciones básicas, y ahora ya puedo preocuparme de incluir funcionalidad.
 

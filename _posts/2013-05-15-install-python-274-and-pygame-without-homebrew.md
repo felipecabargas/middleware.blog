@@ -23,32 +23,27 @@ Durante el proceso sin embargo es necesario repetir algunos procesos de los que 
 
 Tras instalar todo ejecuten los siguientes comandos:
 
-{% highlight bash   %}
-cd /Library/Frameworks/SDL.framework/Headers
-ln -s SDL ./
-export CC='/usr/bin/gcc'
-export CFLAGS='-isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -I/opt/X11/include -arch i386'
-export LDFLAGS='-arch i386'
-export ARCHFLAGS='-arch i386'
-{% endhighlight %}
+  cd /Library/Frameworks/SDL.framework/Headers
+  ln -s SDL ./
+  export CC='/usr/bin/gcc'
+  export CFLAGS='-isysroot  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk   -I/opt/X11/include -arch i386'
+  export LDFLAGS='-arch i386'
+  export ARCHFLAGS='-arch i386'
+
 
 Ahora para instalar PyGame (requerido):
 
-{% highlight bash   %}
-curl -O http://www.pygame.org/ftp/pygame-1.9.1release.tar.gz
-tar -xzf pygame-1.9.1release.tar.gz
-cd pygame-1.9.1release/
-python config.py
-python setup.py build
-python setup.py install
-{% endhighlight %}
+  curl -O http://www.pygame.org/ftp/pygame-1.9.1release.tar.gz
+  tar -xzf pygame-1.9.1release.tar.gz
+  cd pygame-1.9.1release/
+  python config.py
+  python setup.py build
+  python setup.py install
 
 Para instalar PyObjC (requerido):
 
-{% highlight bash   %}
-env CC=clang easy_install -U pyobjc-core
-env CC=clang easy_install -U pyobjc
-{% endhighlight %}
+  env CC=clang easy_install -U pyobjc-core
+  env CC=clang easy_install -U pyobjc
 
 Tras todo esto ya deberían poder hacer import del módulo 'pygame' normalmente. Pueden remover el directorio pygame-1.9.1release.
 

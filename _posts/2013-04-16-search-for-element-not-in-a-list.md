@@ -18,7 +18,7 @@ Para la [tarea de la Tortuga][1] de mi curso de [Programación de Computadores d
 
 Al final resulta que necesitabamos saber si un caracter del string era o no "C" o "V" y por lo tanto revisabamos el string desde el índice 1 hasta el -2 (o el len()-1 de la cadena), aquí pongo el código simplificado como ejemplo:
 
-{% highlight python   %}
+~~~python
 torre = raw_input("Ingrese una torre:")
 bloques = len(torre)
 techo = False
@@ -31,11 +31,11 @@ for indice in range(1,bloques-1):
 
 if (techo == True):
     print "Torre mal ingresada"
-{% endhighlight %}
+~~~
 
 Como verán lo que básicamente utilizamos fue ver si el caracter está en una lista de python, lo que es en el fondo el objetivo de este post, así que si quieren chequear la existencia de un elemento dentro de una lista se usa:
 
-{% highlight python   %}
+~~~python
 ingreso = raw_input('Ingrese una letra de la A a la C:')
 lista = ['A','B','C']
 
@@ -44,7 +44,7 @@ if ingreso not in lista:
 else:
     print ingreso
 
-{% endhighlight %}
+~~~
 
  [1]: http://progra.usm.cl/apunte/tareas/2013-1/tarea-1.html
  [2]: http://progra.usm.cl/

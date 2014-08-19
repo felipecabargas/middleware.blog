@@ -19,52 +19,52 @@ Primero que los problemas para instalar ‘sqlite3′ y despues que ‘bundler�
 
 1) Si Ruby no está instalado
 
-{% highlight bash %}
+~~~ bash
 sudo yum install ruby
-{% endhighlight %}
+~~~
 
 2) Instalando RVM
 
-{% highlight bash %}
+~~~ bash
 bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
-{% endhighlight %}
+~~~
 
 3) Ahora hay que recargar los perfiles de la consola
 
-{% highlight bash %}
+~~~ bash
 source ~/.bash_profile && source ~/.bashrc
-{% endhighlight %}
+~~~
 
 4.1) Ejecutamos los requerimientos de RVM (Atentos!)
 
-{% highlight bash %}
+~~~ bash
 rvm requirements
-{% endhighlight %}
+~~~
 
 4.2) Te saldrá algo como “Additional Dependencies:” y una serie de cosas a instalar (dehecho dice “yum install”) sólo copia eso y se instalarán las dependencias ![:)][1]
 
 5) Instalando Ruby
 
-{% highlight bash %}
+~~~ bash
 rvm get head && rvm reload && rvm install 1.9.3
-{% endhighlight %}
+~~~
 
 6) Creando el Gemset por defecto
 
-{% highlight bash %}
+~~~ bash
 rvm use 1.9.3@myGemSet --create --default
-{% endhighlight %}
+~~~
 
 7) Instalar Rails
 
-{% highlight bash %}
+~~~ bash
 gem install rails
-{% endhighlight %}
+~~~
 
 Finalmente sólo instalar SQLite3 y ya podrás crear proyectos con Rails
 
-{% highlight bash %}
+~~~ bash
 sudo yum install sqlite-devel
-{% endhighlight %}
+~~~
 
 Espero que este HOW-TO te haya sido útil, recuerda cualquier duda en los comentarios o a mi email felipe@cabargas.com

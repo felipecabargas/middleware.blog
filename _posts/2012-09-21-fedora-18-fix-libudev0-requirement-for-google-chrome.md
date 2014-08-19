@@ -16,9 +16,9 @@ post_format: [ ]
 
 Si eres uno de los usuarios de Fedora 18 que usa Chrome o Chromium como navegador, seguramente te encontrarás con que el navegador no inicia y muestra este error (al ejecutarlo por consola):
 
-{% highlight text   %}
+~~~
 /usr/bin/google-chrome: error while loading shared libraries: libudev.so.0: cannot open shared object file: No such file or directory
-{% endhighlight %}
+~~~
 
 Esto se debe a un cambio que se está produciendo entre udev y systemctl en las nuevas versiones de la disto.
 
@@ -26,9 +26,9 @@ Lo bueno es que se soluciona creando un link simbólico... para esto primero deb
 
 Tras encontrar el archivo sólo crearemos un enlace simbólico a la dirección ya requerida (con permisos de root):
 
-{% highlight text   %}
+~~~
 ln -sf /usr/lib64/libudev.so.1.0.X /usr/lib64/libudev.so.0
-{% endhighlight %}
+~~~
 
 Recuerden reemplazar la X del archivo por la de vuestra versión (actualmente es la 1.0.4).
 

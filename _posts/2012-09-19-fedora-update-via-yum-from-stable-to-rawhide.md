@@ -22,44 +22,44 @@ Esa fecha llegó ayer 18, cuando se liberó el Alpha de Fedora 18 y esta vez por
 
 Para esto instalaremos un paquete y correremos un par de comandos (nada del otro mundo) con permisos de ROOT (sudo):
 
-{% highlight text   %}
+~~~
 yum install fedora-release-rawhide
-{% endhighlight %}
+~~~
 
 El programa resolverá dependencias y lo instalará (son 20KB :P)
 
 Tras esto, corremos el siguiente comando (también con permisos de root):
 
-{% highlight text   %}
+~~~
 yum --releasever=rawhide distro-sync
-{% endhighlight %}
+~~~
 
 Si el programa falla (dando errores 404), se debe a la habilitación de repositorios de terceros (como es mi caso) y que deben deshabilitarse, para esto, en la terminal:
 
-{% highlight text   %}
+~~~
 cd /etc/yum.repos.d/
 ls
-{% endhighlight %}
+~~~
 
 y veremos una lista de todos nuestros repos; en los que no se llaman "fedora*", tendremos que editar la siguiente línea:
 
-{% highlight text   %}
+~~~
 enabled=1
-{% endhighlight %}
+~~~
 
 para que quede así:
 
-{% highlight text   %}
+~~~
 enabled=0
-{% endhighlight %}
+~~~
 
 De no existir la línea "enabled=1", tienes que agregar la ya descrita con el "0" para deshabilitarlo.
 
 Si tienen habilitados los famosos repositorios de [RPMFusion][2] no les servirán de nada tras actualizar (deberán habilitar los de Rawhide - comandos para instalación de esos repos en el link-) así que los borraremos para evitar tener tantos con el comando:
 
-{% highlight text   %}
+~~~
 sudo rm /etc/yum.repos.d/rpmfusion*
-{% endhighlight %}
+~~~
 
 Tras esto, instalación de paquetes nuevos y voilá (bueno, con paciencia y buena conexión a internet demora un rato extenso)... Fedora 18 en sus PC's :)
 
