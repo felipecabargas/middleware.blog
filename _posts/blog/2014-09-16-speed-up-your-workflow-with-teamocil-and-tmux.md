@@ -11,8 +11,6 @@ tags:
   - mac
 ---
 
-[![][1]][1]
-
 This week I started using [tmux](http://tmux.sourceforge.net/) & [vim](http://www.vim.org/) on top of ZSH as my default editor. I was looking for the right time to drop the mouse use, and I fell in love with vim+tmux after seeing a lot of screencasts and speechs about the great power of using a command-line based editor.
 
 So, when that was installed on my Macbook, I wondered "now what?"... because, for changing <kbd>⌘</kbd>+<kbd>S</kbd> for <kbd>ESC</kbd>+<kbd>:</kbd>+<kbd>w</kbd>+<kbd>q</kbd> is not a good reason.
@@ -60,7 +58,6 @@ When that's ok, you can run your session with the command:
 	
 As you can see, that creates a new *tmux* session with the given name and executes all the stuff defined previously.
 
-[![][2]][2]
 
 I hope you guys learned something on this little article, and I'm also pleased to tell you that I'm publishing all my dotfiles on GitHub, for you to download. Also, I published my custom terminal themes & color palettes so feel free to use them.
 
