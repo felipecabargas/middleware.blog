@@ -5,8 +5,8 @@ locale: en_US
 description: Ruby Lover & Pixel Jedi.
 logo: logo.png
 search: true
-url: 
-
+url: http://blog.cabargas.com
+production_url : http://blog.cabargas.com
 
 # Jekyll configuration
 
@@ -46,7 +46,7 @@ owner:
   tumblr: #username
   google:
     plus: #username
-    analytics:
+    analytics: 'UA-5897138-2'
     verify:
     ad-client:
     ad-slot: 
