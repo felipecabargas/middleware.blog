@@ -5,8 +5,8 @@ locale: en_US
 description: Ruby Lover & Pixel Jedi.
 logo: logo.png
 search: true
-url: http://blog.cabargas.com
-production_url : http://blog.cabargas.com
+url: http://blog.nondrivendevelopment.com
+production_url : http://blog.nondrivendevelopment.com
 
 # Jekyll configuration
 
@@ -34,7 +34,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Felipe Cabargas
   avatar: image-me.jpg
-  email: felipe@cabargas.com
+  email: felipe.cabargas@cabargas.me
   disqus-shortname:
   twitter: juanpintoduran
   facebook: fcabargas
