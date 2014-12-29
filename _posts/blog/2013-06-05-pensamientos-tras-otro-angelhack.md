@@ -46,4 +46,4 @@ Gran hackathon, muchas cosas por revisar antes de la próxima edición pero no p
 
 Igualmente eso sí, extraño una hackathon donde el HACK sea el importante, porque hasta hoy podría llamarse AngelHustling y calzaría perfecto. Nos falta eso.
 
- [1]: http://cabargas.com/images/angelhack.png
+ [1]: http://cabargas.me/images/angelhack.png

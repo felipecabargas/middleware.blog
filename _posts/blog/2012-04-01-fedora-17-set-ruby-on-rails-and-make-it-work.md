@@ -67,4 +67,4 @@ Finalmente sólo instalar SQLite3 y ya podrás crear proyectos con Rails
 sudo yum install sqlite-devel
 ~~~
 
-Espero que este HOW-TO te haya sido útil, recuerda cualquier duda en los comentarios o a mi email felipe@cabargas.com
+Espero que este HOW-TO te haya sido útil, recuerda cualquier duda en los comentarios o a mi email felipe@cabargas.me

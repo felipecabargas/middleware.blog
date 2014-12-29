@@ -29,7 +29,7 @@ Aquí pueden ver algunas tomas de pantalla:
 
 Para estar al tanto ingresa a:
 
-**[http://www.cabargas.com/centaurus][4]**
+**[http://www.cabargas.me/centaurus][4]**
 
 Para descargarlo directamente puedes ingresar al repositorio de GitHub o ejecutar el siguiente comando:
 
@@ -43,7 +43,7 @@ Si no tienes git instalado está en los repositorios de Ubuntu y Fedora:
 Ojalá lo disfruten… y si quieres desarrollar… Just Fork Me !
 
 
- [2]: http://cabargas.com/images/centaurus.png
- [3]: http://cabargas.com/images/google.png
- [4]: http://www.cabargas.com/centaurus
+ [2]: http://cabargas.me/images/centaurus.png
+ [3]: http://cabargas.me/images/google.png
+ [4]: http://www.cabargas.me/centaurus
  

@@ -49,8 +49,8 @@ Si quieres tomar más Screenshots, simplemente presiona ‘Refresh’ y se refre
 
 
 
- [2]: http://cabargas.com/images/apps.png
- [3]: http://cabargas.com/images/desarrollo.png
- [4]: http://cabargas.com/images/depuration.png
- [5]: http://cabargas.com/images/Screenshot-from-2012-07-22-203748.png
- [6]: http://cabargas.com/images/Screenshot-from-2012-07-22-203807.png
+ [2]: http://cabargas.me/images/apps.png
+ [3]: http://cabargas.me/images/desarrollo.png
+ [4]: http://cabargas.me/images/depuration.png
+ [5]: http://cabargas.me/images/Screenshot-from-2012-07-22-203748.png
+ [6]: http://cabargas.me/images/Screenshot-from-2012-07-22-203807.png

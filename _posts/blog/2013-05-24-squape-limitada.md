@@ -44,10 +44,10 @@ Pero basta de lo que me pasa, mucho tiempo habrá para exponer eso. Ahora lo que
 
 Bienvenidos sean todos a visitarnos en [SQUAPE.com][7] (no hay descuentos para amigos y familiares).
 
-[1]: http://cabargas.com/images/squape2011.jpg
-[2]: http://blog.cabargas.com/2013/02/edoome-trabajar-en-un-startup/
+[1]: http://cabargas.me/images/squape2011.jpg
+[2]: http://blog.cabargas.me/2013/02/edoome-trabajar-en-un-startup/
 [3]: http://monoentrenado.com
-[4]: http://cabargas.com/images/pachi.jpeg
-[5]: http://cabargas.com/images/squape2013.jpeg
+[4]: http://cabargas.me/images/pachi.jpeg
+[5]: http://cabargas.me/images/squape2013.jpeg
 [6]: http://andesbeat.com/2011/12/19/squape-the-more-we-get-together-the-happier-well-be/
 [7]: http://www.squape.com

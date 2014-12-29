@@ -45,11 +45,11 @@ Ahora de vuelta en la terminal reemplazaremos un archivo con este otro (cambian 
 
 ~~~ bash
 cd src/
-sudo curl -O http://www.cabargas.com/files/scale_mmx64.c
+sudo curl -O http://www.cabargas.me/files/scale_mmx64.c
 cd ..
 sudo python setup.py install
 ~~~
 
 Tras todo esto ya deberían poder hacer import del módulo 'pygame' normalmente. Pueden remover el directorio pygame-1.9.1release.
 
-[1]: http://cabargas.com/images/pygame.png
+[1]: http://cabargas.me/images/pygame.png

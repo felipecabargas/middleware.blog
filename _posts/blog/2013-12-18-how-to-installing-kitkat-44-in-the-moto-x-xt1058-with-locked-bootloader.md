@@ -62,6 +62,6 @@ The whole process takes about 20 minutes and I preserved my info and apps but a 
 4. Accept all and wait
 5. You're now using KitKat without losing your Warranty.
 
- [1]: http://cabargas.com/images/kitkat.png
+ [1]: http://cabargas.me/images/kitkat.png
  [2]: https://docs.google.com/file/d/0By-LEiKdlBMwcXRRY1EtS0F6b2M/edit
  [3]: https://docs.google.com/file/d/0B3jLajZtiO8kclluMXBscGpzanc/edit

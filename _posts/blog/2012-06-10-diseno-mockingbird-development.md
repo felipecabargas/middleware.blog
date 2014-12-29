@@ -34,7 +34,7 @@ Y con un par más de ajustes obtuve también nuestro ícono corporativo ^-^:
  
  [1]: https://twitter.com/#!/_patojimenez
  [2]: https://twitter.com/#!/Marcianisto
- [4]: http://cabargas.com/images/wing-fast-takeoff-Mockingbird.png
- [5]: http://cabargas.com/images/mockingbird-300dpi.png
- [6]: http://cabargas.com/images/banner3.png
- [7]: http://cabargas.com/images/icon.png
+ [4]: http://cabargas.me/images/wing-fast-takeoff-Mockingbird.png
+ [5]: http://cabargas.me/images/mockingbird-300dpi.png
+ [6]: http://cabargas.me/images/banner3.png
+ [7]: http://cabargas.me/images/icon.png

@@ -35,5 +35,5 @@ Espero que vayamos aprendiendo un poco todos con quienes lean este post, y cualq
 **EDIT:** Acabo de arreglar el tema de las categorías, ya no se verán tantas pero se entiende el mote de como se hace.
 
  [1]: https://github.com/benbalter/wordpress-to-jekyll-exporter
- [2]: http://blog.cabargas.com/categories.html
- [3]: http://cabargas.com/images/jekyll-dia1.png
+ [2]: http://blog.cabargas.me/categories.html
+ [3]: http://cabargas.me/images/jekyll-dia1.png

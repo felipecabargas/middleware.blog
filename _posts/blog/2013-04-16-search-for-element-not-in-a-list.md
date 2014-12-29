@@ -49,5 +49,5 @@ else:
  [1]: http://progra.usm.cl/apunte/tareas/2013-1/tarea-1.html
  [2]: http://progra.usm.cl/
  [3]: http://github.com/franciscomadariaga
- [4]: http://cabargas.com/images/tortuga.png
+ [4]: http://cabargas.me/images/tortuga.png
  [5]: http://github.com/nanorambuena

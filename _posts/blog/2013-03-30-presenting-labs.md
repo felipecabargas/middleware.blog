@@ -14,7 +14,7 @@ post_format: [ ]
 
 [![][1]][1]
 
-Desde hoy está disponible [labs.cabargas.com][2] mi nueva plataforma para compartir ideas de diseño de interfaces, etc. Será algo así como un portafolio digital para mantener el blog como debe ser... Enseñando código y dando tips, y no mezclarlo con las pegas realizadas.
+Desde hoy está disponible [labs.cabargas.me][2] mi nueva plataforma para compartir ideas de diseño de interfaces, etc. Será algo así como un portafolio digital para mantener el blog como debe ser... Enseñando código y dando tips, y no mezclarlo con las pegas realizadas.
 
 Así que aparte de ser un link más que adjuntar a mi [LinkedIn][3] espero se convierta en un lugar del cual sacar ideas para UI/UX de los que pierden su tiempo en este blog.
 
@@ -22,6 +22,6 @@ Junto a eso no monetizaré dicho lugar y lo trataré de mantener todo lo simple 
 
 Un abrazo y (si tiene tiempo) péguese una vuelta por allá. Queda cordialmente invitado.
 
- [1]: http://cabargas.com/images/labs.png
- [2]: http://labs.cabargas.com
+ [1]: http://cabargas.me/images/labs.png
+ [2]: http://labs.cabargas.me
  [3]: http://cl.linkedin.com/in/cabargas

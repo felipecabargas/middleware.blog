@@ -50,9 +50,9 @@ Insisto en mi argumento eterno de que una tablet no es un PC touch y por tanto n
 
 En definitiva, conveniente, alcanzable en precio (200 lucas chilenas -poco más de 400 USD-) y eficaz en las tareas que al menos yo le exijo cumplir a una tableta.
 
-  [1]: http://cabargas.com/images/ipadmini.png
-  [2]: http://cabargas.com/images/siri.png
-  [3]: http://cabargas.com/images/lightning.jpg
-  [4]: http://cabargas.com/images/ipadbox.jpg
-  [5]: http://cabargas.com/images/cameratest.jpg
-  [6]: http://cabargas.com/images/deadtrigger.png
+  [1]: http://cabargas.me/images/ipadmini.png
+  [2]: http://cabargas.me/images/siri.png
+  [3]: http://cabargas.me/images/lightning.jpg
+  [4]: http://cabargas.me/images/ipadbox.jpg
+  [5]: http://cabargas.me/images/cameratest.jpg
+  [6]: http://cabargas.me/images/deadtrigger.png

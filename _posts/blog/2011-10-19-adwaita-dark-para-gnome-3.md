@@ -47,7 +47,7 @@ Edit → Profiles → Edit → Colours | Apply ‘Grey over Black’ Schema.
 Espero que este tema les sea útil para personalizar su escritorio en GNOME 3
 
  
- [1]: http://cabargas.com/images/adwaita-black.png
- [2]: http://cabargas.com/images/adwaita-black2.png
- [3]: http://cabargas.com/images/adwaita-black3.png
- [4]: http://cabargas.com/proyectos/gnome-shell/themes/Adwaita-Dark.tar.gz
+ [1]: http://cabargas.me/images/adwaita-black.png
+ [2]: http://cabargas.me/images/adwaita-black2.png
+ [3]: http://cabargas.me/images/adwaita-black3.png
+ [4]: http://cabargas.me/proyectos/gnome-shell/themes/Adwaita-Dark.tar.gz

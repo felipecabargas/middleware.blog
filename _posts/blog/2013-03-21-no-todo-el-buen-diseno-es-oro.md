@@ -33,5 +33,5 @@ Si por el contrario tu sitio es más bien basado en tráfico que en usuarios, en
 
 Para finalizar y mi consejo para cualquier sitio **mejora los tiempos de carga/respuesta**!!! es importantísimo. Ya verás como el maldito 'bounce rate' disminuye considerablemente.
 
- [1]: http://cabargas.com/images/diseno.png
+ [1]: http://cabargas.me/images/diseno.png
  [2]: http://www.chileautos.cl

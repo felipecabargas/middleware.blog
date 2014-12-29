@@ -19,9 +19,9 @@ La cosa está así... si bien es sencillo, trendy y herramientas como el FlatUI 
 
 Se trata de dar a los bordes del logo o caracter una sombra acompañada de un marco en un tono flat y el resultado es a mi gusto espectacular.
 
-Sin más preámbulos les presento el nuevo ícono de CABARGAS.com, espero sus comentarios, criticas y sugerencias en mi mail (trabajo en re-habilitar los comentarios en el blog):
+Sin más preámbulos les presento el nuevo ícono de cabargas.me, espero sus comentarios, criticas y sugerencias en mi mail (trabajo en re-habilitar los comentarios en el blog):
 
 [![][2]][2]
 
 [1]: http://designmodo.com/wp-content/uploads/2013/07/Long-Shadows-in-CSS3.jpg
-[2]: http://cabargas.com/newlogo.png
+[2]: http://cabargas.me/newlogo.png
