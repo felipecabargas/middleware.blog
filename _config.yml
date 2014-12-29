@@ -5,7 +5,7 @@ locale: en_US
 description: A journey of passion & missing semicolons.
 logo: ndd-logo.png
 search: true
-url: http://localhost:4000
+url: http://blog.nondrivendevelopment.com
 production_url : http://blog.nondrivendevelopment.com
 
 # Jekyll configuration
