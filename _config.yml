@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Felipe Cabargas
+title: Non Driven Development
 locale: en_US
-description: Ruby Lover & Pixel Jedi.
-logo: logo.png
+description: A journey of passion & missing semicolons.
+logo: ndd-logo.png
 search: true
-url: http://blog.nondrivendevelopment.com
+url: http://localhost:4000
 production_url : http://blog.nondrivendevelopment.com
 
 # Jekyll configuration
