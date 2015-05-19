@@ -11,7 +11,7 @@ tags:
 post_format: [ ]
 ---
 
-*Sin mujeres | Sin millones | Sin Cadillac 🎵*
+Sin mujeres | Sin millones | Sin Cadillac 🎵
 
 In the last 5 years, Chile has become the LatAm country to do business; the StartUp Chile program is well known and respected globally and all the propaganda seems to show a developed country that embraces innovation at its best.
 
@@ -21,10 +21,10 @@ Why? One reason is that the program wanted so much to be known that is wide open
 
 But the main reason to me is the mindset, what do I mean for that? The chileans, we are the problem... Well, not we, but some of us. 
 
-This whole "entrepeneur" bubble (the ones with LinkedIn active profiles, the ones that made a BBQ each week in the "Sanhattan") just touched a part of the society that already lives on a bubble, this are the ones who had access to education, to funds and to contacts.
+This whole "entrepeneur" bubble just touched a part of the society that already lives on a bubble (the ones with LinkedIn active profiles, the ones that made a BBQ each week in the "Sanhattan") , this are the ones who had access to education, to funds and to contacts.
 
 That's why StartUp Chile sometimes is really similar to a club of the chosen ones, because they take in consideration the "Address Book" more than the project itself, and you leave a lot of dedicated (but common) people off the party.
 
-This is acceptable in so many ways in our society, but should not be even possible in this one, we are talking about a government program, one that should bring balance to the society, one that for once at all brings innovation to that kid in the edge of Santiago, in the most far region of our long piece of earth, the one that needs to have the chance to dream.
+This is acceptable in so many ways in our society, but should not be even possible in this one, we are talking about a government program, one that should bring balance to the society, one that for once at all brings innovation to that kid in the edge of Santiago, or in the most far region of our long piece of earth, the one that needs to have the chance to dream.
 
-But don't worry, is not that bad, at least we are the tigers of South America.
+But don't worry, is not that bad, at least we are the tigers of South America *(?)*.
