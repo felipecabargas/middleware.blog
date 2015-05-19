@@ -28,3 +28,5 @@ That's why StartUp Chile sometimes is really similar to a club of the chosen one
 This is acceptable in so many ways in our society, but should not be even possible in this one, we are talking about a government program, one that should bring balance to the society, one that for once at all brings innovation to that kid in the edge of Santiago, or in the most far region of our long piece of earth, the one that needs to have the chance to dream.
 
 But don't worry, is not that bad, at least we are the tigers of South America *(?)*.
+
+![](http://www.magicalears.com/clipart/Winnie%20the%20Pooh%20and%20Friends/Tigger/tigger005.gif)
