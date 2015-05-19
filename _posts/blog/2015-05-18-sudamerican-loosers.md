@@ -1,6 +1,6 @@
 ---
 author: juanpintoduran
-title: Sudamerican Rockers? Sudamerican Loosers.
+title: Sudamerican Rockers? Sudamerican Losers.
 excerpt:
 layout: post
 categories:
