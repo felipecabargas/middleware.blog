@@ -2,10 +2,8 @@ pages:
   stage: deploy
   image: ruby:2.1
   script:
-  - gem install jekyll
-  - gem install redcarpet
-  - gem install i18n
-  - gem install json
+  - gem install bundler
+  - bundle install
   - jekyll build -d public
   artifacts:
     paths:
