@@ -51,3 +51,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
+
+keep_files: [
+  '.well-known/acme-challenge'
+]
