@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Non Driven Development</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://blog.nondrivendevelopment.com/feed.xml" />
+<link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com" />
+<updated>2016-04-08T18:31:34-03:00</updated>
+<id>http://blog.nondrivendevelopment.com/</id>
+<author>
+  <name>Felipe Cabargas</name>
+  <uri>http://blog.nondrivendevelopment.com/</uri>
+  <email>felipe.cabargas@cabargas.me</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Comunidades, una actualización necesaria.]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2016/02/comunidades" />
+  <id>http://blog.nondrivendevelopment.com/2016/02/comunidades</id>
+  <published>2016-02-22T00:00:00-03:00</published>
+  <updated>2016-02-22T00:00:00-03:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Por Octubre de 2015 escribí “&lt;a href=&quot;http://blog.nondrivendevelopment.com/2015/10/comunidad-sin-lugares-comunes/&quot;&gt;Comunidad sin lugares comunes&lt;/a&gt;” y sigo manteniendo lo ahí dicho. Pero cómo la &lt;em&gt;Parte 2&lt;/em&gt; nunca se publicó, creo que es momento de volver a revisar las posiciones de ese artículo y taclear de paso las opciones que tenemos como comunidad de desarrolladores.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(tldr; al final de la página)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Para hacer esto primero partamos por lo fundamental:&lt;/p&gt;
+
+&lt;h2 id=&quot;problemas-de-las-comunidades-de-desarrolladores-en-chile&quot;&gt;Problemas de las comunidades de desarrolladores en Chile:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Competencia.&lt;/li&gt;
+  &lt;li&gt;Intereses Personales.&lt;/li&gt;
+  &lt;li&gt;Chaqueteo.&lt;/li&gt;
+  &lt;li&gt;Centralismo.&lt;/li&gt;
+  &lt;li&gt;(Mala) Educación.&lt;/li&gt;
+  &lt;li&gt;Oportunidades.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;competencia&quot;&gt;Competencia&lt;/h4&gt;
+
+&lt;p&gt;Los teóricos más conservadores dirán que siempre la competencia es buena. Aumenta el nivel del progreso y por tanto el bienestar de los individuos. Pero en este caso, en las comunidades, la competencia no hace nada de bien.&lt;/p&gt;
+
+&lt;p&gt;Arrogarse el título de “Comunidad de Desarrolladores de Chile”, no tiene ningún sentido, menos cuando 2 o 3 lo hacen.&lt;/p&gt;
+
+&lt;h4 id=&quot;intereses-personales&quot;&gt;Intereses Personales&lt;/h4&gt;
+
+&lt;p&gt;Esto se refuerza aún más con los caudillajes, estos dueños del foro que moderan, imponen formas y dejan al resto de la comunidad como generadores de contenido para promocionarse como &lt;em&gt;Growth-Hackers&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;No nos hace bien. Y ojo que con esto no estoy desconociendo la necesidad de moderadores y encargados de mantener a la comunidad funcionando, pero es cosa de sentarse 5 minutos a leer nuestras comunidades para notar que distamos mucho de la realidad de las comunidades tanto de proyectos Open Source como las de otras localidades.&lt;/p&gt;
+
+&lt;h4 id=&quot;chaqueteo&quot;&gt;Chaqueteo&lt;/h4&gt;
+
+&lt;p&gt;Esto es lo más doloroso. En las comunidades técnicas todo post de baja dificultad que se postea con orgullo es rápidamente tirado al suelo por los &lt;em&gt;iluminados&lt;/em&gt; que creen que todo el resto son &lt;em&gt;niños rata&lt;/em&gt; y se dedican al destructivismo sistemático en vez de generar conocimiento compartido.&lt;/p&gt;
+
+&lt;h4 id=&quot;centralismo&quot;&gt;Centralismo&lt;/h4&gt;
+
+&lt;p&gt;El otro problema, derivado de la geografía, la educación y el quehacer de la capital chilena, es que Santiago es Chile (o al menos intenta serlo). La comunidad se reduce a una serie de eventos para y por santiaguinos que si bien es algo lógico en primera etapa por una mera cuestión de proporciones, es algo que hoy por hoy, a casi un año de funcionamiento efectivo de las comunidades hay que solucionar: Las regiones existen.&lt;/p&gt;
+
+&lt;h4 id=&quot;mala-educacin&quot;&gt;(Mala) Educación&lt;/h4&gt;
+
+&lt;p&gt;El problema educacional es grave, la mayoría (derivado también de problemas sistemáticos más grandes de la idiosincracia chilena) no toma libros, no lee publicaciones y ni siquiera sueña con elaborar una. Nos limitamos a seguir la tendencia extranjera y trabajar en el framework de moda en vez de generar tendencia.&lt;/p&gt;
+
+&lt;h4 id=&quot;oportunidades&quot;&gt;Oportunidades&lt;/h4&gt;
+
+&lt;p&gt;Somos un país aislado, somos un país pequeño, en eterno camino a eso que le dicen “desarrollo”. Probablemente estamos mejor que el resto de la región, pero para nuestra generación es muy difícil penetrar la barrera fronteriza. La mayoría de los desarrolladores no sabe inglés, una cuestión que parece tan pequeña pero que nos impide documentarnos mejor, traer libros de afuera (donde el costo es bastante menor). La desventaja de no saber el idioma en el que trabajas es simplemente la mayor barrera que se me pueda ocurrir. Las comunidades necesitan abrir estas puertas (y algunas lo intentan por suerte).&lt;/p&gt;
+
+&lt;h2 id=&quot;no-todo-son-problemas-ideas-para-solucionar-el-panorama&quot;&gt;No todo son problemas, ideas para solucionar el panorama:&lt;/h2&gt;
+
+&lt;p&gt;Los 6 ejemplos arriba descritos son, en mi opinión, los 6 issues más grandes que enfrentamos hoy por hoy como comunidad (por supuesto hay otros), y debemos superarlos de la manera más dolorosa posible.&lt;/p&gt;
+
+&lt;p&gt;Nuestra carrera, nuestros 2/3 del día se dedican a pensar soluciones. Por eso somos ingenieros, analistas o desarrolladores: Para identificar, encontrar soluciones e implementarlas. Así que por hoy pretendamos que esto es un problema de ingeniería y veamos que hacer. Acá les dejo un par de ideas:&lt;/p&gt;
+
+&lt;h4 id=&quot;competencia-1&quot;&gt;Competencia&lt;/h4&gt;
+
+&lt;p&gt;Las comunidades locales deben intentar trabajar juntas. En ningún caso pretendo superar los problemas personales que pudiesen existir entre individuos, cosa de ellos, pero definitivamente es tiempo de que los &lt;strong&gt;.rb&lt;/strong&gt; y los &lt;strong&gt;.js&lt;/strong&gt; se unan por un bien común. Todas las comunidades ganarían de este proceso, no sólo teórica y tecnológicamente, pero humanamente.&lt;/p&gt;
+
+&lt;h4 id=&quot;intereses-personales-1&quot;&gt;Intereses Personales&lt;/h4&gt;
+
+&lt;p&gt;Las comunidades tienen que empoderarse de sus liderazgos. Los caudillos no tienen cabida en este tipo de comunidad. Es tan simple como ver los canales de IRC de los grandes proyectos OpenSource, donde gente como Aaron Patterson y tú son tan iguales en una discusión como cualquier otro.&lt;/p&gt;
+
+&lt;p&gt;Para esto, deberían crearse los llamados “Code of Conduct” además de tener “Issues Trackers” abiertos a toda la comunidad donde las decisiones administrativas y la planificación del “Roadmap” sean de pleno conocimiento de todos los actores.&lt;/p&gt;
+
+&lt;p&gt;Encima de esto, las comunidades deberían generar documentación sobre los desafíos que dirigir una comunidad conlleva para así ayudar en la formación de otras comunidades.&lt;/p&gt;
+
+&lt;p&gt;Finalmente, los cargos dentro de las comunidades deberían ser revocables por la comunidad. Un mal administrador de un canal de comunicación puede dinamitar el trabajo de decenas de personas en pocas semanas.&lt;/p&gt;
+
+&lt;h4 id=&quot;chaqueteo-1&quot;&gt;Chaqueteo&lt;/h4&gt;
+
+&lt;p&gt;Se deberían instaurar procedimientos de amonestación a los miembros de las comunidades que no sigan el Código de Conducta, ya que no podemos permitirnos perder a gente con ganas de cambiar nuestra realidad. Obviamente estas sanciones deberían ser revisadas y votadas abiertamente por la comunidad.&lt;/p&gt;
+
+&lt;h4 id=&quot;centralismo-1&quot;&gt;Centralismo&lt;/h4&gt;
+
+&lt;p&gt;Las comunidades llamadas “de Chile” deberían hacerse cargo del título auto-impuesto y distribuir la tasa de eventos a lo largo y ancho de nuestro país y empujar la creación de comunidades locales en regiones y provincias, además de la generación de comunidades abiertas a minorías y ayudarlas a conseguir sponsors para hacer de nuestro ambiente uno inclusivo donde todos tienen herramientas.&lt;/p&gt;
+
+&lt;h4 id=&quot;educacin&quot;&gt;Educación&lt;/h4&gt;
+
+&lt;p&gt;Generar canales de discusión, limitar el contenido de orígenes dudosos y generar documentación de los eventos realizados y el contenido técnico adquirido por la comunidad de manera de dejar dicho material a disposición de una audiencia mayor.&lt;/p&gt;
+
+&lt;p&gt;Fomentar el uso de herramientas libres, sistemas operativos abiertos y la generación de contenido con licencias Open Source.&lt;/p&gt;
+
+&lt;h4 id=&quot;oportunidades-1&quot;&gt;Oportunidades&lt;/h4&gt;
+
+&lt;p&gt;Dejar lo técnico de lado a veces. Generar reuniones para enseñar idiomas, enseñar como estimar proyectos o tomar requerimientos, generar plataformas de búsqueda de empleo amigables y por sobre todo liberar lo aprendido (Hangout comunitario?) a la comunidad.&lt;/p&gt;
+
+&lt;h2 id=&quot;pensamientos-finales&quot;&gt;Pensamientos Finales:&lt;/h2&gt;
+
+&lt;p&gt;No todo lo que dije es lo mejor, no me creo un iluminado o nada por el estilo. Con este post sólo pretendo poner el tema sobre la mesa y atacar estos problemas que nos conciernen a todos: Hackers, Ingenieros, Desarrolladores, Crackers inclusive.&lt;/p&gt;
+
+&lt;p&gt;Creemos comunidad, encontremos espacios comunes. A mi me gusta el fútbol, a otros escribir historias, a otros ver series. Pero a todos, al menos eso creo, nos gusta el código.&lt;/p&gt;
+
+&lt;h6 id=&quot;tldr&quot;&gt;tldr;&lt;/h6&gt;
+
+&lt;p&gt;La comunidad se divide en vez de unirse. Generemos contenido libre y aprendamos a trabajar todos en pos de nuestro ambiente. Abramos nuestros recursos a regiones y seamos un soporte directo a las minorías que necesitan tener espacios en esta discusión.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2016/02/comunidades&quot;&gt;Comunidades, una actualización necesaria.&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on February 22, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Comunidad sin lugares comunes, Parte 1]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2015/10/comunidad-sin-lugares-comunes" />
+  <id>http://blog.nondrivendevelopment.com/2015/10/comunidad-sin-lugares-comunes</id>
+  <published>2015-10-05T00:00:00-03:00</published>
+  <updated>2015-10-05T00:00:00-03:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;##Parte 1 - The Chilean Way&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://s3-media4.fl.yelpcdn.com/bphoto/eJItqr-St5zVpmlaA-k1Zw/348s.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Como decía ese comercial de TyC: &lt;em&gt;“Es cultural”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;What’s missing isn’t the ideas… it’s the will to execute them.&lt;/em&gt; ~ Seth Godin&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;No hay interés alguno por cambiarlo. Ni en el transporte, ni la educación, ni la salud y menos el software. Es un país a medias.&lt;/p&gt;
+
+&lt;p&gt;###Somos lo que Deportes Player es a Nike, lo que Casa Royal a BestBuy, lo que el maestro chasquilla a Mario y Luigi.&lt;/p&gt;
+
+&lt;p&gt;Y es que en este síndrome de hacer todo a medias los que hacemos software quedamos cortados por la misma tijera que el resto. Cosa de ver las páginas/repositorios personales de algunos colegas para aclarar la cruenta realidad del &lt;em&gt;state-of-the-art&lt;/em&gt; criollo.&lt;/p&gt;
+
+&lt;p&gt;Y aquí entran las “comunidades”, las más-o-menos nombradas comunidades. Ese último intento desesperado del software chileno por forzar lazos de unidad y co-creación altruista y colectiva de conocimiento…&lt;/p&gt;
+
+&lt;p&gt;Lamentablemente, todos esos pseudo-esfuerzos se traducen al final del día en un centro de madres de los 70’s contra el Industrial/Comercial y que poco aporta a una discusión seria en el campo.&lt;/p&gt;
+
+&lt;p&gt;Intereses personales, ignorancia y DEMASIADA gente le hacen mal a la discusión. Cómo sabrán soy partidario de discusiones abiertas e inclusivas, pero nuestro panorama asoma tan fraccionado como las versiones de Android y eso nunca es bueno: &lt;em&gt;Analistas programadores, Licenciados en Ciencias de la Computación, Ingenieros en Computación, Ingenieros en Informática, Ingenieros Civiles en Computación/Informática, Ingenieros Civiles Industriales con mención en algo relacionado, entusiastas, autodidactas y programadores de StackOverflow&lt;/em&gt; nos revolcamos en marañas de información y discusiones en que todos creemos ser mejores que el resto.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://imgs.xkcd.com/comics/real_programmers.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;###La educación tanto formal como informal sobre TI (y en especial sobre desarrollo de software) nos ha vuelto tan competitivos como es posible y eso nos impide pensar como grupo.&lt;/p&gt;
+
+&lt;p&gt;No podemos permitirnos ese lujo más, la necesidad de especialistas que &lt;em&gt;realmente sepan&lt;/em&gt; nos hace imperiosa la tarea de dejar individualismos, unir esfuerzos, botar oportunidades de negocio entre colegas y apoyarnos de una vez por todas para sacarnos del fondo de la lista. Porque como empecé diciendo, hacemos todo a medias, incluído el software.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2015/10/comunidad-sin-lugares-comunes&quot;&gt;Comunidad sin lugares comunes, Parte 1&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on October 05, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[UI needs to be UX]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2015/05/ui-is-ux" />
+  <id>http://blog.nondrivendevelopment.com/2015/05/ui-is-ux</id>
+  <published>2015-05-18T00:00:00-03:00</published>
+  <updated>2015-05-18T00:00:00-03:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;In the past 6 months I’ve been re-designing &lt;a href=&quot;http://www.flythegap.com&quot;&gt;Flythegap&lt;/a&gt; platform. It has not been easy: as a design person (I’m not a designer) I always appreciated beauty over functionality, if I go over the last few years I found myself searching the web for Behance popular projects, complex yet beautiful UIs in Dribbble &amp;amp; the craziest things that you can imagine done in pure CSS.&lt;/p&gt;
+
+&lt;p&gt;But at the end of the road, when I was starting to develop the first sketches for our platform, they got a everyday more complex. And there is the problem: the developer mindset. All of us, as IT geeks never think that our users are not advanced users.&lt;/p&gt;
+
+&lt;p&gt;Luckily &lt;a href=&quot;https://twitter.com/MarcoBuonvino&quot;&gt;Marco Buonvino&lt;/a&gt; is part of our team. He is our UX Jedi Master, and we developed a great work relationship, that helped me understand that not all that shines is gold, not even in the design world. From there on we’ve been simplifying the UI, testing it and IMHO we’re achieving a really great product.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cabargas.me/images/ftg-cb.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;How? By understanding that &lt;em&gt;good&lt;/em&gt; UI &lt;strong&gt;equals&lt;/strong&gt; UX. No because you think is great users understand it. It may be the copy, it may be the placement, it may be the colors, it may be the product itself.
+b
+A good round of User Testing can even change your MVP roadmap, or your business model. In fact, the user tests showed us what features were unnecessary and which ones we never thought about but were crucial for the business.&lt;/p&gt;
+
+&lt;p&gt;My recommendation for all of you reading this is that sometimes you need to stop thinking that your frontend is just the way to show your data model, because it’s the opposite, your backend is just the way to ensure your users to find what they need, &lt;strong&gt;WHERE&lt;/strong&gt; they expect it to be.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2015/05/ui-is-ux&quot;&gt;UI needs to be UX&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on May 18, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Sudamerican Rockers? Sudamerican Losers.]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2015/05/sudamerican-loosers" />
+  <id>http://blog.nondrivendevelopment.com/2015/05/sudamerican-loosers</id>
+  <published>2015-05-18T00:00:00-03:00</published>
+  <updated>2015-05-18T00:00:00-03:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sin mujeres&lt;/td&gt;
+      &lt;td&gt;Sin millones&lt;/td&gt;
+      &lt;td&gt; Sin Cadillac 🎵&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;In the last 5 years, Chile has become the LatAm country to do business; the StartUp Chile program is well known and respected globally and all the propaganda seems to show a developed country that embraces innovation at its best.&lt;/p&gt;
+
+&lt;p&gt;But is this real? I’ve been working with startups from Generation 1 of the SUP Chile Program, and let’s face it: 90% of them leave absolutely nothing back to the country.&lt;/p&gt;
+
+&lt;p&gt;Why? One reason is that the program wanted so much to be known that is wide open and the funds &amp;amp; requirements for foreigners are limited to accountability and not to social exchange.&lt;/p&gt;
+
+&lt;p&gt;But the main reason to me is the mindset, what do I mean for that? The chileans, we are the problem… Well, not we, but some of us.&lt;/p&gt;
+
+&lt;p&gt;This whole “entrepeneur” bubble just touched a part of the society that already lives on a bubble (the ones with LinkedIn active profiles, the ones that made a BBQ each week in the “Sanhattan”) , this are the ones who had access to education, to funds and to contacts.&lt;/p&gt;
+
+&lt;p&gt;That’s why StartUp Chile sometimes is really similar to a club of the chosen ones, because they take in consideration the “Address Book” more than the project itself, and you leave a lot of dedicated (but common) people off the party.&lt;/p&gt;
+
+&lt;p&gt;This is acceptable in so many ways in our society, but should not be even possible in this one, we are talking about a government program, one that should bring balance to the society, one that for once at all brings innovation to that kid in the edge of Santiago, or in the most far region of our long piece of earth, the one that needs to have the chance to dream.&lt;/p&gt;
+
+&lt;p&gt;But don’t worry, is not that bad, at least we are the tigers of South America &lt;em&gt;(?)&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.magicalears.com/clipart/Winnie%20the%20Pooh%20and%20Friends/Tigger/tigger005.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2015/05/sudamerican-loosers&quot;&gt;Sudamerican Rockers? Sudamerican Losers.&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on May 18, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Why NonDrivenDevelopment.com?]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2014/12/why-ndd-dot-com" />
+  <id>http://blog.nondrivendevelopment.com/2014/12/why-ndd-dot-com</id>
+  <published>2014-12-29T00:00:00-03:00</published>
+  <updated>2014-12-29T00:00:00-03:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;h3 id=&quot;rip-cabargascom-2010-2014&quot;&gt;R.I.P. CABARGAS.com 2010-2014&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;I lost CABARGAS.com domain after the auto-renewal process failed. Now a f*cking scammer has the domain, and I don’t want to pay them a lot of money to get it back.&lt;/p&gt;
+
+&lt;p&gt;Everything that were on cabargas.com now is live on &lt;a href=&quot;http://cabargas.me&quot;&gt;cabargas.me&lt;/a&gt; with &lt;em&gt;the only exception&lt;/em&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=-J7J_IWUhls&quot;&gt;🎵&lt;/a&gt; of this blog. I moved it to a domain that I wanted to use for some time. So, this is &lt;strong&gt;NonDrivenDevelopment.com&lt;/strong&gt;, here you find all my IT stuff, all the TDD nightmares, some git &lt;a href=&quot;https://www.youtube.com/watch?v=dYBjVTMUQY0&quot;&gt;pro-tips&lt;/a&gt;, the Django challenges that I have right now (and the Ruby ones as always).&lt;/p&gt;
+
+&lt;p&gt;As the title states, I want this blog to be a journey across the pains of being a developer, to help others to avoid some &lt;em&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=sQw65XZ9Tm8&quot;&gt;n00b&lt;/a&gt;&lt;/em&gt; mistakes (no, I will not write about missing semicolons, it’s called a metaphor).&lt;/p&gt;
+
+&lt;p&gt;Thanks for visiting!&lt;/p&gt;
+
+&lt;p&gt;P.S.: As a side-effect of the domain death my new public email is &lt;em&gt;contact@cabargas.me&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2014/12/why-ndd-dot-com&quot;&gt;Why NonDrivenDevelopment.com?&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on December 29, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[A little explanation on Spring]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2014/12/a-little-explanation-on-spring" />
+  <id>http://blog.nondrivendevelopment.com/2014/12/a-little-explanation-on-spring</id>
+  <published>2014-12-01T00:00:00-03:00</published>
+  <updated>2014-12-01T00:00:00-03:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;#Spring Sucks&lt;/p&gt;
+
+&lt;p&gt;Desde &lt;strong&gt;Rails 4.1&lt;/strong&gt;, el preloader &lt;a href=&quot;https://github.com/rails/spring&quot;&gt;Spring&lt;/a&gt; está incluída por defecto en el framework con el fin de hacer más rápido el desarrollo, ya que mantiene a la aplicación corriendo en background y no se tiene que iniciar con cada ejecución de tests, rake tasks o migraciones.&lt;/p&gt;
+
+&lt;p&gt;Lamentablemente hemos experimentado algunos “problemas” derivados del uso de spring, y acá documentamos algunos de ellos y como “solucionarlos” o “evadirlos”:&lt;/p&gt;
+
+&lt;h2 id=&quot;a-little-explanation&quot;&gt;A little explanation&lt;/h2&gt;
+
+&lt;p&gt;En rails 4.1 los ejecutables de &lt;code&gt;rails&lt;/code&gt;, &lt;code&gt;bundler&lt;/code&gt;, &lt;code&gt;rake&lt;/code&gt; y &lt;code&gt;spring&lt;/code&gt; que se encuentran dentro de la carpeta &lt;code&gt;bin/&lt;/code&gt; de tu proyecto vienen &lt;code&gt;springficados&lt;/code&gt; por defecto, lo que significa que cada vez que ejecutas uno de los comandos de esos ejecutables, la aplicación se pre-carga vía spring.&lt;/p&gt;
+
+&lt;p&gt;##Troubleshoot&lt;/p&gt;
+
+&lt;h2 id=&quot;rake-dbcreate&quot;&gt;&lt;strong&gt;rake db:create&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Como spring hace preload de la aplicación antes de &lt;code&gt;rake&lt;/code&gt;, al correr este comando se produce un error circular &lt;code&gt;database xxxxxxx not found&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Para evitarlo tenemos 2 opciones:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;bin/rake db:create
+bundle exec rake db:create
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;La primera es (&lt;code&gt;bin/ejecutable&lt;/code&gt;), de hecho, la nueva forma de hacerlo según el &lt;em&gt;manual&lt;/em&gt; y es la recomendada a todos los efectos ya que es la única forma de asegurarse que &lt;em&gt;spring&lt;/em&gt; ejecute los comandos en la aplicación que estamos trabajando (&lt;a href=&quot;http://stackoverflow.com/a/23251853/2205353&quot;&gt;Referencia&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&quot;dont-use-spring&quot;&gt;Don’t use Spring:&lt;/h2&gt;
+
+&lt;p&gt;Para decirle a tu ejecutable que no use spring, se le puede pasar &lt;code&gt;DISABLE_SPRING=1&lt;/code&gt;, así:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;rails generators&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;pre&gt;&lt;code&gt;  DISABLE_SPRING=1 bin/rails g generator
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;rails server or console&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;pre&gt;&lt;code&gt;  DISABLE_SPRING=1 bin/rails s
+  DISABLE_SPRING=1 bin/rails c
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;rake&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;pre&gt;&lt;code&gt;  DISABLE_SPRING=1 bin/rake task
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;turn-off-spring&quot;&gt;Turn off Spring:&lt;/h2&gt;
+
+&lt;p&gt;Para saber que procesos se están ejecutando:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;ps aux |grep spring
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;y luego:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;kill -9 pid
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&quot;spring-removal-from-existing-project&quot;&gt;Spring Removal from existing project:&lt;/h2&gt;
+
+&lt;p&gt;Si estás igual de cansado que nosotros de spring, puedes hacer &lt;em&gt;unspring&lt;/em&gt; de los ejecutables de tu proyecto corriendo:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;bin/spring binstub --remove --all
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&quot;start-new-projects-without-spring&quot;&gt;Start New Projects without Spring:&lt;/h2&gt;
+
+&lt;p&gt;Ahora bien, si prefieres iniciar tus proyectos sin &lt;code&gt;spring&lt;/code&gt; eso es posible ejecutando:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;rails new --skip-spring	
+&lt;/code&gt;&lt;/pre&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2014/12/a-little-explanation-on-spring&quot;&gt;A little explanation on Spring&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on December 01, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[When is PHP a good alternative?]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2014/10/when-is-php-good" />
+  <id>http://blog.nondrivendevelopment.com/2014/10/when-is-php-good</id>
+  <published>2014-10-17T00:00:00-03:00</published>
+  <updated>2014-10-17T00:00:00-03:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;h1&gt;Never.&lt;/h1&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2014/10/when-is-php-good&quot;&gt;When is PHP a good alternative?&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on October 17, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Teamocil: speeding up your Tmux workflow ]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2014/09/speed-up-your-workflow-with-teamocil-and-tmux" />
+  <id>http://blog.nondrivendevelopment.com/2014/09/speed-up-your-workflow-with-teamocil-and-tmux</id>
+  <published>2014-09-16T00:00:00-03:00</published>
+  <updated>2014-09-16T00:00:00-03:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;This week I started using &lt;a href=&quot;http://tmux.sourceforge.net/&quot;&gt;tmux&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://www.vim.org/&quot;&gt;vim&lt;/a&gt; on top of ZSH as my default editor. I was looking for the right time to drop the mouse use, and I fell in love with vim+tmux after seeing a lot of screencasts and speechs about the great power of using a command-line based editor.&lt;/p&gt;
+
+&lt;p&gt;So, when that was installed on my Macbook, I wondered “now what?”… because, for changing &lt;kbd&gt;⌘&lt;/kbd&gt;+&lt;kbd&gt;S&lt;/kbd&gt; for &lt;kbd&gt;ESC&lt;/kbd&gt;+&lt;kbd&gt;:&lt;/kbd&gt;+&lt;kbd&gt;w&lt;/kbd&gt;+&lt;kbd&gt;q&lt;/kbd&gt; is not a good reason.&lt;/p&gt;
+
+&lt;p&gt;So at the moment that I finally discovered the benefits of &lt;strong&gt;vim&lt;/strong&gt; but then I realized that &lt;strong&gt;tmux&lt;/strong&gt; was there only because I readed they were good friends.&lt;/p&gt;
+
+&lt;p&gt;And then, appeared &lt;a href=&quot;https://github.com/remiprev/teamocil&quot;&gt;&lt;strong&gt;teamocil&lt;/strong&gt;&lt;/a&gt;, an awesome RubyGem (take that Python) that creates tmux sessions by only running 1 simple line.&lt;/p&gt;
+
+&lt;p&gt;In order to create a session file (it uses YAML syntax), you have 2 options:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;vim ~/.teamocil/session-name.yaml
+teamocil --edit session-name
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then, you can use a layout like the next one inside of that file (see &lt;a href=&quot;http://www.teamocil.com/&quot;&gt;Teamocil Docs&lt;/a&gt; for more info, this is just an example):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;name: reciclario
+ 	windows:
+  - name: git
+    root: ~/Hacking/Rails/reciclario
+    panes:
+       - ggpull
+
+  - name: rails server
+    root: ~/Hacking/Rails/reciclario
+    panes:
+       - commands:
+            - bundle install
+            - rake db:migrate
+            - bin/rails server
+
+  - name: rails console
+    root: ~/Hacking/Rails/reciclario
+    panes:
+        - bin/rails console
+
+  - name: vim
+    root: ~/Hacking/Rails/reciclario
+    focus: true
+    panes:
+        - vim
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;When that’s ok, you can run your session with the command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;teamocil session-name
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;As you can see, that creates a new &lt;em&gt;tmux&lt;/em&gt; session with the given name and executes all the stuff defined previously.&lt;/p&gt;
+
+&lt;p&gt;I hope you guys learned something on this little article, and I’m also pleased to tell you that I’m publishing all my dotfiles on GitHub, for you to download. Also, I published my custom terminal themes &amp;amp; color palettes so feel free to use them.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2014/09/speed-up-your-workflow-with-teamocil-and-tmux&quot;&gt;Teamocil: speeding up your Tmux workflow &lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on September 16, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Mac Sketches for everyone (!)]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2014/03/mac-sketches" />
+  <id>http://blog.nondrivendevelopment.com/2014/03/mac-sketches</id>
+  <published>2014-03-02T00:00:00-03:00</published>
+  <updated>2014-03-02T00:00:00-03:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://cabargas.me/images/MacSketches@2x.png&quot;&gt;&lt;img src=&quot;http://cabargas.me/images/MacSketches@2x.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;#####DESCRIPTION&lt;/h2&gt;
+&lt;p&gt;As a Mac ‘Fanboy’ (I hate that word) I always use Mac images and icons within my projects, but sometimes I want something simple, flat and 0% intrusive in the design.&lt;/p&gt;
+
+&lt;p&gt;So I made this. A simple template in sketch, exportable to AI, SVG and all common formats for the 3 Mac models that you see in the image:&lt;/p&gt;
+
+&lt;p&gt;Now I present &lt;em&gt;Mac Sketches&lt;/em&gt;, featuring:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3 versions: Regular, Outline &amp;amp; Bold.&lt;/li&gt;
+  &lt;li&gt;All 3 versions contains 3 Mac models (more upcoming): Macbook 13”, Macbook 11” and Mac Mini.&lt;/li&gt;
+  &lt;li&gt;Full JPG, PNG &amp;amp; SVG versions.&lt;/li&gt;
+  &lt;li&gt;All versions includes a @2x file to use the sketches in Retina Display compatible apps &amp;amp; websites.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.dropbox.com/s/uu0mrkdvgbltud1/MacSketches.zip&quot;&gt;DOWNLOAD NOW&lt;/a&gt;&lt;/strong&gt; (Contains JPG, PNG, SVG &amp;amp; Sketch versions)&lt;/p&gt;
+
+&lt;h2 id=&quot;disclaimer&quot;&gt;#####DISCLAIMER&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;If you want to use it, they are being released under a &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA license&lt;/a&gt; so it’s free, even for commercial uses.&lt;/li&gt;
+  &lt;li&gt;If you have a requirement, or need the files in any format, please drop me an email to felipe@cabargas.me&lt;/li&gt;
+  &lt;li&gt;The Apple logo and Mac brand are registered trademarks of Apple Inc.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2014/03/mac-sketches&quot;&gt;Mac Sketches for everyone (!)&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on March 02, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[My 1st month with TDD or "Why TDD is a pain in the ass but you should learn and use it anyway"]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2014/02/my-frist-month-with-tdd" />
+  <id>http://blog.nondrivendevelopment.com/2014/02/my-frist-month-with-tdd</id>
+  <published>2014-02-17T00:00:00-03:00</published>
+  <updated>2014-02-17T00:00:00-03:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;This story begins with a developer, 1 month ago who didn’t write a single test in his life (Me). In it’s first day at his &lt;a href=&quot;http://acid.cl&quot;&gt;new work&lt;/a&gt;, his Project Leader gives him a tremendous brief on how use Git and Rspec. The first part of the brief is another history, but the second was just a glance of what all TDD means.&lt;/p&gt;
+
+&lt;p&gt;As you will know, &lt;em&gt;TDD&lt;/em&gt; stands for &lt;strong&gt;Test-Driven Development&lt;/strong&gt; and is a method for writing good, reusable and mainteinable code. Also, if you read the blog often (or just the sidebar) you will know that I work with &lt;strong&gt;Ruby on Rails&lt;/strong&gt;, and in this specific case, we use a Gem, called &lt;strong&gt;RSpec&lt;/strong&gt; instead of the “out-of-the-box” &lt;strong&gt;TestUnit&lt;/strong&gt; that rails brings itself.&lt;/p&gt;
+
+&lt;p&gt;At first, TDD is a pain in the ass, why? Cause TDD most fundamental basis stands in 2 statements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You should write test before coding (or later and then test commenting your code) and see it failing.&lt;/li&gt;
+  &lt;li&gt;You should test &lt;em&gt;every single feature&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It sounds pretty bad cause even testing some feature like “The header shows the current user name” should have a test, in that case, it suppose to use also a &lt;em&gt;Factory&lt;/em&gt; (provided via &lt;strong&gt;FactoryGirl&lt;/strong&gt;) and set the current user (i.e. with Devise current_user helper method), and then look for a CSS tag that provides the user name. Sounds tricky for a thing that you should never going to see again and that maybe you done a hundred times before starting this project… But it’s necessary.&lt;/p&gt;
+
+&lt;p&gt;I did not understand this at first place, it was hard for me to put my skills tested by myselft in thing that I consider trivial for an average programmer. But then my PL shows me the meaning of the test… That’s not for me, or maybe it is, but the test needs to be done cause if another programmer or me override the current_user method, or we replace Devise, or the user has no name, the test will fail and we will know where is it, and hopefully, how to fix it quickly.&lt;/p&gt;
+
+&lt;p&gt;So, with that in mind I started to write test for every-single-feature and it gets easy each day. It’s even fun to try write the perfect test without the code in the app and see it passing partially when you write the code. It saves me time when merging also, cause if all test passes in green, then my merge is a piece of cake.&lt;/p&gt;
+
+&lt;p&gt;After this first month from writing my first view test (obviously you can write test for controllers, models, helpers and initializers, and even make the test suite to take screenshots of your partials!) I can’t say anything against TDD, cause it’s awesome, it saves you time, it gives you free time on weekends and definitely makes you more as a developer and less of a simple programmer.&lt;/p&gt;
+
+&lt;p&gt;P.S.: BTW I will write another post with a simple guide to get started with TDD this week, stay tunned and download the Android app, some day I will write Push Notifications on that thing.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2014/02/my-frist-month-with-tdd&quot;&gt;My 1st month with TDD or "Why TDD is a pain in the ass but you should learn and use it anyway"&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on February 17, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[[HOW-TO] Añadir y testear rutas en un engine de rails cómo Spree]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2014/01/como-anadir-rutas-a-spree" />
+  <id>http://blog.nondrivendevelopment.com/2014/01/como-anadir-rutas-a-spree</id>
+  <published>2014-01-29T00:00:00-03:00</published>
+  <updated>2014-01-29T00:00:00-03:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Cómo siempre, para añadir nuevas rutas, se deben añadir con los correspondientes métodos al &lt;code&gt;config/routes.rb&lt;/code&gt;. En el caso de &lt;strong&gt;Spree&lt;/strong&gt; estas rutas no deben dibujarse en &lt;code&gt;Rails.application.routes&lt;/code&gt; si no que en &lt;code&gt;Spree::Core:Engine.routes&lt;/code&gt;; así, para añadir un modelo CRUD al panel de administrador de la plataforma:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;Spree::Core::Engine.routes.draw do
+  namespace :admin do
+    resources :items
+  end
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Al añadir rutas, se crearán paths dentro del namespace señalado de esta forma:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;spree  / Spree::Core::Engine
+
+Routes for Spree::Core::Engine:
+                                      admin_items GET    /admin/items(.:format)                                                      spree/admin/items#index
+                                                  POST   /admin/items(.:format)                                                      spree/admin/items#create
+                                   new_admin_item GET    /admin/items/new(.:format)                                                  spree/admin/items#new
+                                  edit_admin_item GET    /admin/items/:id/edit(.:format)                                             spree/admin/items#edit
+                                       admin_item GET    /admin/items/:id(.:format)                                                  spree/admin/items#show
+                                                  PATCH  /admin/items/:id(.:format)                                                  spree/admin/items#update
+                                                  PUT    /admin/items/:id(.:format)                                                  spree/admin/items#update
+                                                  DELETE /admin/items/:id(.:format)                                                  spree/admin/items#destroy
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;A pesar de esto, al intentar testear cualquier elemento que contenga rutas con RSpec, los test arrojarán &lt;code&gt;undefined method some_new_path&lt;/code&gt; - &lt;a href=&quot;https://gist.github.com/felipecabargas/8676836&quot;&gt;véase ejemplo aquí&lt;/a&gt; -.&lt;/p&gt;
+
+&lt;p&gt;Esto se debe a que estas rutas están &lt;strong&gt;dibujadas&lt;/strong&gt; dentro de &lt;strong&gt;Spree&lt;/strong&gt; y no dentro de Application::Routes por lo cual deben ser llamadas usando el prefijo &lt;strong&gt;spree.&lt;/strong&gt;, por ejemplo en una vista:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-erb&quot;&gt;&amp;lt;%= link_to &#39;Show&#39;, spree.admin_items_path(@item), class: &quot;button&quot; %&amp;gt;
+&amp;lt;%= link_to &#39;Back&#39;, spree.admin_items_path, class: &quot;button&quot; %&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;y en un controlador:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;if @item.save
+  redirect_to spree.admin_items_url, notice: &#39;Item was successfully updated.&#39;
+else
+  render action: &#39;new&#39;
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Para los test de routing, también encontramos el mismo problema, que puede ser fácilmente sorteado al añadir esta línea tras el &lt;code&gt;describe &quot;routing&quot; do&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;routes { Spree::Core::Engine.routes }
+&lt;/code&gt;&lt;/pre&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2014/01/como-anadir-rutas-a-spree&quot;&gt;[HOW-TO] Añadir y testear rutas en un engine de rails cómo Spree&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on January 29, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[[HOW-TO] Install Android KitKat (4.4) on the Moto X (XT1058) with locked bootloader]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2013/12/how-to-installing-kitkat-44-in-the-moto-x-xt1058-with-locked-bootloader" />
+  <id>http://blog.nondrivendevelopment.com/2013/12/how-to-installing-kitkat-44-in-the-moto-x-xt1058-with-locked-bootloader</id>
+  <published>2013-12-18T00:00:00-03:00</published>
+  <updated>2013-12-18T00:00:00-03:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://cabargas.me/images/kitkat.png&quot;&gt;&lt;img src=&quot;http://cabargas.me/images/kitkat.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;####DISCLAIMER:&lt;/p&gt;
+
+&lt;p&gt;I used this method with the following hardware and software:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;- Moto X (XT1058) Movistar.en.CL original with LOCKED bootloader
+- MacBook Air with MDM (Motorola Device Manager) installed
+- 4.2.2 ROM file: fastboot-ghost_retbr-user-4.2.2-13.9.0Q2.X-116-LCX-35-36-release-keys-cid12-Brasil-BR.tar.gz (EXTRACTED ON DOWNLOADS FOLDER)
+- 4.4.0 ROM file: Blur_Version.143.44.8.ghost_row.Brasil.en.BR.zip
+
+THE FILES BELOW WERE UPLOADED BY SOMEONE ELSE.
+SO DON&#39;T BLAME ME IF THE LINKS ARE NOT WORKING OR YOU BRICK YOUR PHONE.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The process is pretty simple:&lt;/p&gt;
+
+&lt;p&gt;First, you “convert” your Moto X to Brasil Retail version (Flashing the 4.2.2 ROM) and then you upgrade via “sdcard” to 4.4 ROM.&lt;/p&gt;
+
+&lt;p&gt;The whole process takes about 20 minutes and I preserved my info and apps but a wipe is recommended in XDA &amp;amp; MotoXBrasil forums.&lt;/p&gt;
+
+&lt;p&gt;####Downloads:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/file/d/0B3jLajZtiO8kclluMXBscGpzanc/edit&quot;&gt;4.2.2 ROM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/file/d/0By-LEiKdlBMwcXRRY1EtS0F6b2M/edit&quot;&gt;4.4.0 ROM&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;####Goint to Retail Steps:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Put your &lt;strong&gt;Moto X&lt;/strong&gt; in “fastboot” mode (With the phone OFF, press and hold the Volume Down &amp;amp; Power Button and then release de Power Button).&lt;/li&gt;
+  &lt;li&gt;Connect your Moto X to your PC vía USB.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In Linux &amp;amp; OS X go to Terminal and enter the following commands:&lt;/p&gt;
+
+    &lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;cd Downloads/fastboot-ghost_retbr-user-4.2.2-13.9.0Q2.X-116-LCX-35-36-release-keys-cid12-Brasil-BR/
+bash flashall.sh
+&lt;/code&gt;&lt;/pre&gt;
+
+    &lt;p&gt;(In Windows open the Files Explorer go to the extracted folder and execute flashall.bat)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Wait until it finish.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;####Updating to KitKat Steps:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Connect your Moto X to the computer as a media device.&lt;/li&gt;
+  &lt;li&gt;Put the Blur_Version.143.44.8.ghost_row.Brasil.en.BR.zip file under the root folder of your phone&lt;/li&gt;
+  &lt;li&gt;Go to Settings-&amp;gt;About-&amp;gt;Available Updates&lt;/li&gt;
+  &lt;li&gt;Accept all and wait&lt;/li&gt;
+  &lt;li&gt;You’re now using KitKat without losing your Warranty.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2013/12/how-to-installing-kitkat-44-in-the-moto-x-xt1058-with-locked-bootloader&quot;&gt;[HOW-TO] Install Android KitKat (4.4) on the Moto X (XT1058) with locked bootloader&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on December 18, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[[DESIGN] Nuevo ícono LongShadow]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2013/11/long-shadow-design" />
+  <id>http://blog.nondrivendevelopment.com/2013/11/long-shadow-design</id>
+  <published>2013-11-04T00:00:00-03:00</published>
+  <updated>2013-11-04T00:00:00-03:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://designmodo.com/wp-content/uploads/2013/07/Long-Shadows-in-CSS3.jpg&quot;&gt;&lt;img src=&quot;http://designmodo.com/wp-content/uploads/2013/07/Long-Shadows-in-CSS3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hace algún tiempo hablé de la influencia que tuvo, tiene y tendrá la Flat UI en el diseño digital. Y es que tras el lanzamiento de iOS 7 estuvo en boca de todos (y no por un buen uso del concepto, lo lamento Jony pero tu diseño se volvió un meme).&lt;/p&gt;
+
+&lt;p&gt;La cosa está así… si bien es sencillo, trendy y herramientas como el FlatUI pack hacen que hasta un mono que sepa de HTML + CSS pueda armar un sitio decente (o una obra de arte si sabe responsive, etc) es que los siempre existentes haters han entrado en rechazar lo plano y jugar con sombras para dar sensación de profundidad. Estoy hablando del “Long Shadow Design”, y la verdad supera todas las expectativas ya que quita esa sensación repetitiva que tenemos del Turquesa (#1abc9c) combinado al ‘asfalto mojado’ (#34495e) que tanto la web y su tedioso parallax scrolling junto a iOS 7 y el nuevo diseño de algunas app nos tienen metido en la corteza cerebral.&lt;/p&gt;
+
+&lt;p&gt;Se trata de dar a los bordes del logo o caracter una sombra acompañada de un marco en un tono flat y el resultado es a mi gusto espectacular.&lt;/p&gt;
+
+&lt;p&gt;Sin más preámbulos les presento el nuevo ícono de cabargas.me, espero sus comentarios, criticas y sugerencias en mi mail (trabajo en re-habilitar los comentarios en el blog):&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cabargas.me/newlogo.png&quot;&gt;&lt;img src=&quot;http://cabargas.me/newlogo.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2013/11/long-shadow-design&quot;&gt;[DESIGN] Nuevo ícono LongShadow&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on November 04, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[[RUBY] Creating a Gem from scratch - Day 1]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2013/08/rails-creating-a-gem-from-scratch-day-1" />
+  <id>http://blog.nondrivendevelopment.com/2013/08/rails-creating-a-gem-from-scratch-day-1</id>
+  <published>2013-08-03T00:00:00-04:00</published>
+  <updated>2013-08-03T00:00:00-04:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;em&gt;Aquí se relata cómo crear una gema desde 0, y no pretende ser una guía sino más bien una bitácora que ayude a sortear errores típicos de este proceso. Para usar Jeweler u “scaffolds” de generación siéntase libre de Googlear (!)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Ruby on Rails es grandioso, pero no tenemos idea de como muchas cosas funcionan y es tiempo de asumirlo. Quizá de este “hermoso y desconocido” mundo lo más interesante sea el sistema de gemas (gems) y en particular el ‘repo’ &lt;a href=&quot;https://rubygems.org&quot;&gt;RubyGems&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;En fin, siempre quize hacer una gema yo mismo y en particular tras mi último proyecto, una forma de simplificar a los desarrolladores la inclusión de sistemas de rating en sus sitios.&lt;/p&gt;
+
+&lt;p&gt;Para empezar obviamente y como todo en informática, hay que partir por leer. Yo empecé por las &lt;a href=&quot;http://guides.rubygems.org/&quot;&gt;guías de RubyGems&lt;/a&gt; y en específico creo que es importante partir por las recomendaciones de &lt;a href=&quot;http://guides.rubygems.org/name-your-gem/&quot;&gt;como nombrar una gema&lt;/a&gt; (es más, creo que tendré que cambiarle el nombre a la mía) ya que el uso de “-“ o “_” es más que algo de azar e influye en el comportamiento de la gema, la llamada y la denominación de las clases, etc.&lt;/p&gt;
+
+&lt;p&gt;Luego se debe ir a la referencia básica y el “Hello World” de la creación de gemas (&lt;a href=&quot;http://guides.rubygems.org/make-your-own-gem/&quot;&gt;Make Your Own Gem&lt;/a&gt;). Básicamente ahí se entiende la estructura básica de un Gem folder, la forma correcta de escribir el archivo gemspec y otros aspectos esenciales.&lt;/p&gt;
+
+&lt;p&gt;De ahí ya podemos saltar a la terminal y el editor de texto (en mi caso la gema es rate-it así que pondré los comandos que yo usé):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;mkdir rate-it &amp;amp;&amp;amp; mkdir rate-it/lib &amp;amp;&amp;amp; cd rate-it &amp;amp;&amp;amp; touch rate-it.gemspec
+cd lib &amp;amp;&amp;amp; touch rate-it.rb
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Estas sencillas líneas generarán el siguiente directorio:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;tree
+   ├── rate-it.gemspec
+   └── lib
+         └── rate-it.rb
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;El archivo &lt;strong&gt;rate-it.gemspec&lt;/strong&gt; corresponde a las variables de configuración de la gema y contiene el nombre, versión, autor, licencia, dependencias y ramas de archivos que deben considerarse. En tanto el archivo &lt;strong&gt;lib/rate-it.rb&lt;/strong&gt; corresponde al archivo que contiene las funciones de la gema.&lt;/p&gt;
+
+&lt;p&gt;Pero eso no sirve de mucho, mi idea es una gema que funcione de la siguiente manera:&lt;/p&gt;
+
+&lt;p&gt;#####Gemfile
+~~~ ruby
+gem ‘rate-it’, ‘1.0’
+~~~&lt;/p&gt;
+
+&lt;p&gt;Guardamos e instalamos la gema (si lo hacen se instalará, ya está disponible arriba aunque no contiene código dicha versión)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;bundle install &amp;amp;&amp;amp; rails g rate-it:install
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;y que eso generase todas las migraciones, vistas, assets, controladores y el modelo de los ratings.&lt;/p&gt;
+
+&lt;p&gt;Así que me puse a investigar junto con mirar el código de ‘devise’ y me entretuve un buen rato en el mundo de los &lt;a href=&quot;http://guides.rubyonrails.org/generators.html&quot;&gt;Generadores de Rails&lt;/a&gt; y así a los namespaces en los mismos, etc.&lt;/p&gt;
+
+&lt;p&gt;En otro minuto explicaré en detalle como construir un generator.&lt;/p&gt;
+
+&lt;p&gt;Así que nuevamente a agregar archivos (no explicaré esto en detalle pero les dejaré el tree para que sepan más o menos como va cada cosa)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;tree
+  ├── rate-it.gemspec
+  └── lib
+       ├── generators
+       │     ├── rate-it
+       │     │    └── install_generator.rb #also create routes
+       │     └── templates
+       │          ├── views #views for rates
+       │          │    ├── new.html.erb
+       │          │    ├── edit.html.erb
+       │          │    └── show.html.erb
+       │          ├── AddTableRates.rb #this is a migration
+       │          ├── average_rate.rb #injects a method to helpers
+       │          └── rating.css.scss #stylesheet
+       └── rate-it.rb
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Así y tras mucho rato de investigación y lectura, tenemos una gema básica con importaciones básicas, y ahora ya puedo preocuparme de incluir funcionalidad.&lt;/p&gt;
+
+&lt;p&gt;Definitivamente no es mi proyecto prioritario por ahora, pero no lo dejaré de lado y los mantendré al tanto.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2013/08/rails-creating-a-gem-from-scratch-day-1&quot;&gt;[RUBY] Creating a Gem from scratch - Day 1&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on August 03, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[[RAILS] Rename paths & routes in a resource]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2013/07/rails-rename-paths-and-routes-instead-of-renaming-model" />
+  <id>http://blog.nondrivendevelopment.com/2013/07/rails-rename-paths-and-routes-instead-of-renaming-model</id>
+  <published>2013-07-16T00:00:00-04:00</published>
+  <updated>2013-07-16T00:00:00-04:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Como parte de mi nuevo trabajo en FOSUBO - ganador del AngelHack Spring 2013 SCL - me ha tocado hacer varios cambios en el modelo de datos, y uno de esos implicaba pasar de Members a POSs en las rutas (por temas de consistencia).&lt;/p&gt;
+
+&lt;p&gt;La primera opcion era renombrar el modelo y así resources lo haría por mi pero ya se esta usando el producto y no quiero traspasar tanta información a mano. Así que lo hice en las rutas, eliminé la parte del modelo y los campos de la base de datos que no me servían y dispuse manos a la obra.&lt;/p&gt;
+
+&lt;p&gt;Rake me arrojaba paths de esta forma ( &lt;em&gt;rake routes&lt;/em&gt; ):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;location_members GET /location/:id/members(.:format) members#index
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;y yo las quería así:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;location_point_of_sales GET /location/:id/pos(.:format) members#index
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Para lograrlo abrimos &lt;em&gt;routes.rb&lt;/em&gt; encontramos el resource del modelo en cuestión y lo cambiamos desde:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;resources :locations do
+  resources :members
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;a:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;resources :locations do
+  resources :members, :as =&amp;gt; &quot;point_of_sales&quot;, :path =&amp;gt; &quot;pos&quot;
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Con esta sencilla línea de código nos ahorramos muchísimo tiempo de renaming y evitamos inconsistencias entre archivos. Espero que les sirva&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2013/07/rails-rename-paths-and-routes-instead-of-renaming-model&quot;&gt;[RAILS] Rename paths & routes in a resource&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on July 16, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[[LIFE] Pensamientos tras otro AngelHack SCL]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2013/06/pensamientos-tras-otro-angelhack" />
+  <id>http://blog.nondrivendevelopment.com/2013/06/pensamientos-tras-otro-angelhack</id>
+  <published>2013-06-05T00:00:00-04:00</published>
+  <updated>2013-06-05T00:00:00-04:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://cabargas.me/images/angelhack.png&quot;&gt;&lt;img src=&quot;http://cabargas.me/images/angelhack.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Tras un fin de semana de locos y un proyecto hermoso puedo decir: MISIÓN CUMPLIDA. No ganamos, pero sacamos adelante una plataforma hermosa visualmente y complejísima a nivel de backend.&lt;/p&gt;
+
+&lt;p&gt;Pero volvamos al título de este post: AngelHack…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;CRITICAS Y NO TAN CRÍTICAS&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;La charla de Microsoft en el workshop para hackers fue una burla. No necesito decir más.&lt;/p&gt;
+
+&lt;p&gt;Las primeras horas super complicadas para la organización, un asco la UDD en cuanto a soporte técnico durante el sábado (se arregló despues)… Lo que sí destaco de todo el embrollo y el mal rato que tuvimos que pasar es a los “Nixter boys” que hicieron lo que podían para subir los ánimos de la gente y de los gringos que puteaban como si la falta de internet fuera el fin del mundo (existe el tethering muchachos), me saco el sombrero por los hermanos Yarad y Sáez.&lt;/p&gt;
+
+&lt;p&gt;La noche del segundo día /* entiéndase desde las 00 horas del domingo en adelante, cuando ya tenía ethernet */ se hizo ETERNA…Y si agregamos lo mal educados que fueron casi TODOS los asistentes a AHSCL respecto a las pizzas y las RedBull, de verdad dejó mucho que desear. Para la próxima ojalá hayan más actividades pasado las 2 am, por último helicópteros como en 2012.&lt;/p&gt;
+
+&lt;p&gt;Luego el famoso incidente del chico con ataque de epilepsia (or whatever it was), bien lo preocupados que estuvieron TODO el equipo (los de polerón rojo - regalen uno ! -), además me sirvió pa echarme un rato en uno de los puff de Google que habían en el segundo piso.&lt;/p&gt;
+
+&lt;p&gt;En resumen, hubo varios detalles pero fue culpa de todos si algo salió mal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;ASPECTOS DESTACABLES, BUENOS Y GENIALES&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Gran jurado, de verdad… Lo que extrañé en noviembre se cumplió con creces este año. Los pitch no se convirtieron en una chacra de proyectos a medio hacer mezclados con un jurado incompetente para una fiesta de hackers tan grande como lo es AngelHack; NO, este año había un jurado internacional, gente de Google Ventures, de TechCrunch, de AngelList… Bien por ese lado.&lt;/p&gt;
+
+&lt;p&gt;Además, subió MUCHÍSIMO el nivel respecto de otras hackathon… se notó, gente conocida en Chile participó y todos con ideas que en su mercado proponían algo nuevo. Tuvimos a los mejores exponentes de la esfera emprendedora chilena.&lt;/p&gt;
+
+&lt;p&gt;Las instalaciones, los almuerzos y la acreditación… todos de lujo (nótese que dije almuerzos específicamente).&lt;/p&gt;
+
+&lt;p&gt;La cagó la música, filo si la criticaron, me mantuvo despierto que es su función y definitivamente escuchar algunos temas de la red social motiva cuando eres hacker. Haters gonna hate (f*cking hustlers).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;RESUMEN GENERAL&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Gran hackathon, muchas cosas por revisar antes de la próxima edición pero no porque el nivel actual sea malo, sino porque estamos cerca de tener una producción de clase mundial, porque hay que poner a este país en el mapa de una vez.&lt;/p&gt;
+
+&lt;p&gt;Igualmente eso sí, extraño una hackathon donde el HACK sea el importante, porque hasta hoy podría llamarse AngelHustling y calzaría perfecto. Nos falta eso.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2013/06/pensamientos-tras-otro-angelhack&quot;&gt;[LIFE] Pensamientos tras otro AngelHack SCL&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on June 05, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[[DESIGN] Flat UI y el futuro del diseño digital]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2013/06/flat-ui-y-el-futuro-del-diseno" />
+  <id>http://blog.nondrivendevelopment.com/2013/06/flat-ui-y-el-futuro-del-diseno</id>
+  <published>2013-06-05T00:00:00-04:00</published>
+  <updated>2013-06-05T00:00:00-04:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://cabargas.me/images/raffl.png&quot;&gt;&lt;img src=&quot;http://cabargas.me/images/raffl.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Todos vamos para allá. La industria se ve arrastrada por una moda que a mi personalmente me encanta: la Flat UI.&lt;/p&gt;
+
+&lt;p&gt;Esta moda de la sencillez, de la vuelta a los colores “pasteles” y los turquesa/esmeralda pronto estará en todas partes, dehecho todos los rumores indican que el gran aporte de Johnny Ive en el equipo de UI/UX de iOS ha sido ese, la introducción de elementos flat como los que vemos en Windows Phone 7/8 o algunos de los aportes de Matias Duarte en Android 4.&lt;/p&gt;
+
+&lt;p&gt;Lo interesante de que el diseño se estabilice en la zona más baja de la curva de complejidad es interesante más allá de la visión de la UI (interfaz de usuario). Por qué? Porque esto implica que la UX (experiencia de usuario) es el tópico al que ponerle interés. Cuando una de las dos partes de una fórmula no varía, la única diferencia entre el éxito y el fracaso de la fórmula es la otra parte, en este caso, la experiencia.&lt;/p&gt;
+
+&lt;p&gt;Y en esta moda, la experiencia de usuario debe ser consecuente con el diseño, las curvas de aprendizaje deben ser mínimas y sitios como Vine.co lo han demostrado. Es por esto que como FrontEnd Developer les aconsejo a todos quienes entran o están en el mundo del diseño que sigan estas vanguardias de cerca, porque dentro de dos semanas es la WWDC (iOS 7 se debería lanzar ahí) y de eso en más deberíamos vernos rodeados de Flat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cabargas.me/images/flatui.jpg&quot;&gt;&lt;img src=&quot;http://cabargas.me/images/flatui.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Atenti!&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2013/06/flat-ui-y-el-futuro-del-diseno&quot;&gt;[DESIGN] Flat UI y el futuro del diseño digital&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on June 05, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[[SQUAPE] The more we get together, the happier we’ll be!]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2013/05/squape-limitada" />
+  <id>http://blog.nondrivendevelopment.com/2013/05/squape-limitada</id>
+  <published>2013-05-24T00:00:00-04:00</published>
+  <updated>2013-05-24T00:00:00-04:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://cabargas.me/images/squape2011.jpg&quot;&gt;&lt;img src=&quot;http://cabargas.me/images/squape2011.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Con el título arriba expuesto partía Squape, por entonces eramos sólo un artículo más sobre proyectos en &lt;a href=&quot;http://andesbeat.com/2011/12/19/squape-the-more-we-get-together-the-happier-well-be/&quot;&gt;AndesBeat&lt;/a&gt;…&lt;/p&gt;
+
+&lt;p&gt;Corría Noviembre de 2011 y en el HackSantiago realizado en CoWork yo me encontraría con el que hasta el día de hoy es mi partner &lt;a href=&quot;http://monoentrenado.com&quot;&gt;Nelson Jimenez&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Junto a él y al sobrevalorado “Jojo” (just kidding, eres seco Jojo!) creamos una plataforma de arriendos según gustos que llegó a presentarse al MBA Contest 2011 de Claro ante un panel de expertos de ACTI, Claro Chile y otras compañías.&lt;/p&gt;
+
+&lt;p&gt;Con el tiempo y los proyectos (algunos más “legales” que otros) Squape quedó como algo que nos unía como grupo más que ser un producto y es así que a Nelson se le ocurrió que había que hacer las cosas en serio.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cabargas.me/images/squape2013.jpeg&quot;&gt;&lt;img src=&quot;http://cabargas.me/images/squape2013.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Gracias a la hermosa ley de creación de empresas en un día, Nelson y yo nos encontramos a menos de 24 horas de ver realizado nuestro sueño: ver fundado legalmente a “Servicios Informáticos Squape Limitada”.&lt;/p&gt;
+
+&lt;p&gt;Sin duda este paso es enorme en mi vida tanto personal como profesional, porque implica asumir nuevos desafíos y tener la fuerza para superar los varios obstáculos que aún existen para el emprendimiento y la expansión fuera de nuestras limitadas fronteras a nivel digital.&lt;/p&gt;
+
+&lt;p&gt;Pretendo decir en un tiempo más que rompimos el nicho del emprendimiento, que surgimos, que aparte de amigos sigamos siendo socios y que Squape nos traiga la satisfacción tanto económica como valórica que ambos buscamos en nuestras carreras de IT.&lt;/p&gt;
+
+&lt;p&gt;Siempre digo que el programador nace a las 4 am con sueño y una idea en la cabeza, con código enrredado por el insomnio y el hambre. Ahora creo que aparte de eso se requiere visión, un proyecto, algo con lo que sueñas hacer por el resto de tus días. Eso para mí es el código.&lt;/p&gt;
+
+&lt;p&gt;Pero basta de lo que me pasa, mucho tiempo habrá para exponer eso. Ahora lo que corresponde, los agradecimientos… Por cierto que he tenido muchos proyectos, &lt;a href=&quot;http://blog.cabargas.me/2013/02/edoome-trabajar-en-un-startup/&quot;&gt;algunos más decepcionantes&lt;/a&gt; que el resto, pero hay gente que siempre ha estado al lado mío y no quiero esperar a levantar 10k USD para agradecerles:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;A mi familia, que adoro y que me apoyó con la decisión de cambiarme de carrera (twice); ahora estudio lo que realmente amo.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;En particular a mi hermano “lè journalist”, que siempre me aporta con ideas de UI que termino usando.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A Nelson, mi partner entrañable que más allá de desaparecerse y tener un pésimo servicio telefónico de Movistar, es una excelente persona.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A mis amigos en general, al Osso por siempre pescar los links y decirme que los sitios están bien, a la Cata por decir ‘mish’ cuando en realidad no creo que entienda de que cresta le hablo y a la Pachi por SIEMPRE SIEMPRE tener una palabra de aliento y apoyarme en mis proyectos (tengo mi rollo de fotos &lt;a href=&quot;http://cabargas.me/images/pachi.jpeg&quot;&gt;siempre cerca&lt;/a&gt;).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bienvenidos sean todos a visitarnos en &lt;a href=&quot;http://www.squape.com&quot;&gt;SQUAPE.com&lt;/a&gt; (no hay descuentos para amigos y familiares).&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2013/05/squape-limitada&quot;&gt;[SQUAPE] The more we get together, the happier we’ll be!&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on May 24, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[[OS X] Verify Local Data on Transmission for Mac]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2013/05/verifying-local-data-on-transmission" />
+  <id>http://blog.nondrivendevelopment.com/2013/05/verifying-local-data-on-transmission</id>
+  <published>2013-05-18T00:00:00-04:00</published>
+  <updated>2013-05-18T00:00:00-04:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://cabargas.me/images/transmission.png&quot;&gt;&lt;img src=&quot;http://cabargas.me/images/transmission.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Transmission es quizá el mejor cliente de torrents para Mac y Linux.&lt;/p&gt;
+
+&lt;p&gt;A veces mientras descargamos “legalmente” contenido desde la web vía torrent algunos datos están corruptos y por lo tanto las descargas se pausan.&lt;/p&gt;
+
+&lt;p&gt;El mensaje de error por defecto de Transmission es ‘Verify local data’… hasta ahí todo bien, dehecho en linux basta con hacer clic derecho en el torrent y luego en ‘Verify local data’. Pero en OS X no.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cabargas.me/images/tra1.png&quot;&gt;&lt;img src=&quot;http://cabargas.me/images/tra1.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Para sortear este problema vamos a las Preferencias de Transmission (⌘,) ubicadas en el menú superior (clic sobre “Transmission”):&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cabargas.me/images/pref1.png&quot;&gt;&lt;img src=&quot;http://cabargas.me/images/pref1.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Una vez ahí, vamos a la pestaña “Remoto” y seleccionamos la opción “Activar acceso remoto”:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cabargas.me/images/tra2.png&quot;&gt;&lt;img src=&quot;http://cabargas.me/images/tra2.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Luego hacemos clic en “Ejecutar interfaz web” o abrimos http://localhost:9091/transmission/web/ en el navegador y ya sólo bastará con hacer clic derecho sobre el torrent en cuestión y presionar “Verify Local Data”.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cabargas.me/images/tra3.png&quot;&gt;&lt;img src=&quot;http://cabargas.me/images/tra3.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Espero que este tip les haya sido tan útil como a mi. Un saludo a todos.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2013/05/verifying-local-data-on-transmission&quot;&gt;[OS X] Verify Local Data on Transmission for Mac&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on May 18, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[[OS X] Install Python 2.7.4 & PyGame in Mountain Lion without Homebrew]]></title>
+  <link rel="alternate" type="text/html" href="http://blog.nondrivendevelopment.com/2013/05/install-python-274-and-pygame-without-homebrew" />
+  <id>http://blog.nondrivendevelopment.com/2013/05/install-python-274-and-pygame-without-homebrew</id>
+  <published>2013-05-15T00:00:00-04:00</published>
+  <updated>2013-05-15T00:00:00-04:00</updated>
+  <author>
+    <name>Felipe Cabargas</name>
+    <uri>http://blog.nondrivendevelopment.com</uri>
+    <email>felipe.cabargas@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://cabargas.me/images/pygame.png&quot;&gt;&lt;img src=&quot;http://cabargas.me/images/pygame.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ayer dabamos la solución para instalar PyGame 1.9.1 en Mountain Lion mediante Homebrew, hoy les traigo la alternativa más conservadora.&lt;/p&gt;
+
+&lt;p&gt;He preparado este tutorial y un archivo .dmg que hace las veces de contenedor de todos los paquetes que se deben descargar (al final de este post adjunto una lista con los instaladores incluidos y su función).&lt;/p&gt;
+
+&lt;p&gt;Durante el proceso sin embargo es necesario repetir algunos procesos de los que veíamos ayer… Lo bueno es que TODOS SE EJECUTAN TRAS LOS INSTALADORES:&lt;/p&gt;
+
+&lt;p&gt;Tras instalar todo ejecuten los siguientes comandos:&lt;/p&gt;
+
+&lt;p&gt;cd /Library/Frameworks/SDL.framework/Headers
+  ln -s SDL ./
+  export CC=’/usr/bin/gcc’
+  export CFLAGS=’-isysroot  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk   -I/opt/X11/include -arch i386’
+  export LDFLAGS=’-arch i386’
+  export ARCHFLAGS=’-arch i386’&lt;/p&gt;
+
+&lt;p&gt;Ahora para instalar PyGame (requerido):&lt;/p&gt;
+
+&lt;p&gt;curl -O http://www.pygame.org/ftp/pygame-1.9.1release.tar.gz
+  tar -xzf pygame-1.9.1release.tar.gz
+  cd pygame-1.9.1release/
+  python config.py
+  python setup.py build
+  python setup.py install&lt;/p&gt;
+
+&lt;p&gt;Para instalar PyObjC (requerido):&lt;/p&gt;
+
+&lt;p&gt;env CC=clang easy_install -U pyobjc-core
+  env CC=clang easy_install -U pyobjc&lt;/p&gt;
+
+&lt;p&gt;Tras todo esto ya deberían poder hacer import del módulo ‘pygame’ normalmente. Pueden remover el directorio pygame-1.9.1release.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.nondrivendevelopment.com/2013/05/install-python-274-and-pygame-without-homebrew&quot;&gt;[OS X] Install Python 2.7.4 & PyGame in Mountain Lion without Homebrew&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://blog.nondrivendevelopment.com&quot;&gt;Non Driven Development&lt;/a&gt; on May 15, 2013.&lt;/p&gt;</content>
+</entry>
+
+</feed>

@@ -1,0 +1,275 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Centaurus: Python, GTK+ & WebKit Simple Web Browser </title>
+<meta name="description" content="Es genial escribir esta entrada; si bien el navegador no está terminado, es un lujo poder compartir con ustedes esta versión funcional de Centaurus, el navegador que construí personalmente y que me encanta.
+
+">
+<meta name="keywords" content="centaurus, fork, git, github, gtk+, python, webkit">
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Centaurus: Python, GTK+ & WebKit Simple Web Browser">
+<meta name="twitter:description" content="Es genial escribir esta entrada; si bien el navegador no está terminado, es un lujo poder compartir con ustedes esta versión funcional de Centaurus, el navegador que construí personalmente y que me encanta.
+
+">
+<meta name="twitter:site" content="@juanpintoduran">
+<meta name="twitter:creator" content="@juanpintoduran">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://blog.nondrivendevelopment.com/images/ndd-logo.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Centaurus: Python, GTK+ & WebKit Simple Web Browser">
+<meta property="og:description" content="Es genial escribir esta entrada; si bien el navegador no está terminado, es un lujo poder compartir con ustedes esta versión funcional de Centaurus, el navegador que construí personalmente y que me encanta.
+
+">
+<meta property="og:url" content="http://blog.nondrivendevelopment.com/2011/11/centaurus-python-gtk-webkit-simple-web-browser">
+<meta property="og:site_name" content="Non Driven Development">
+
+
+
+
+
+<link rel="canonical" href="http://blog.nondrivendevelopment.com/2011/11/centaurus-python-gtk-webkit-simple-web-browser">
+<link href="http://blog.nondrivendevelopment.com/feed.xml" type="application/atom+xml" rel="alternate" title="Non Driven Development Feed">
+
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://blog.nondrivendevelopment.com/assets/css/main.css">
+<!-- Webfonts -->
+<script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+  <script src="http://blog.nondrivendevelopment.com/assets/js/vendor/html5shiv.min.js"></script>
+  <script src="http://blog.nondrivendevelopment.com/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://blog.nondrivendevelopment.com/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://blog.nondrivendevelopment.com/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://blog.nondrivendevelopment.com/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://blog.nondrivendevelopment.com/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://blog.nondrivendevelopment.com/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://blog.nondrivendevelopment.com/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://blog.nondrivendevelopment.com/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body id="post">
+
+<div class="navigation-wrapper">
+	<nav role="navigation" id="site-nav" class="animated drop">
+	    <ul>
+      
+		    
+		    <li><a href="http://blog.nondrivendevelopment.com/" >Home</a></li>
+		  
+		    
+		    <li><a href="https://blog.nondrivendevelopment.com" target="_blank">Blog</a></li>
+		  
+		    
+		    <li><a href="http://cabargas.com/me" target="_blank">About Me</a></li>
+		  
+		    
+		    <li><a href="http://cabargas.com" target="_blank">CABARGAS.com</a></li>
+		  
+        <li class="dosearch"><span><i class="fa fa-search"></i> Search</span></li>
+	    </ul>
+	</nav>
+</div><!-- /.navigation-wrapper -->
+
+<!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+
+<div class="search-wrapper">
+  <div class="search-form">
+    <input type="text" class="search-field" placeholder="Search...">
+    <button class="close-btn"><i class="fa fa-times-circle fa-2x"></i></button>
+    <ul class="search-results post-list"></ul><!-- /.search-results -->
+  </div><!-- /.search-form -->
+</div><!-- ./search-wrapper -->
+
+<header class="masthead">
+	<div class="wrap">
+        
+    		<a href="http://blog.nondrivendevelopment.com" class="site-logo" rel="home" title="Non Driven Development"><img src="http://blog.nondrivendevelopment.com/images/ndd-logo.png" width="200" height="200" alt="Non Driven Development logo" class="animated fadeInUp"></a>
+        
+        <h1 class="site-title animated fadeIn"><a href="http://blog.nondrivendevelopment.com">Non Driven Development</a></h1>
+		<h2 class="site-description animated fadeIn" itemprop="description">A journey of passion & missing semicolons.</h2>
+	</div>
+</header><!-- /.masthead -->
+
+<div class="js-menu-screen menu-screen"></div>
+
+<div id="main" role="main">
+  <article class="hentry">
+    
+    <div class="entry-wrapper">
+      <header class="entry-header">
+        <span class="entry-tags"><a href="http://blog.nondrivendevelopment.com/tags/#centaurus" title="Pages tagged centaurus">centaurus</a>&nbsp;&bull;&nbsp;<a href="http://blog.nondrivendevelopment.com/tags/#fork" title="Pages tagged fork">fork</a>&nbsp;&bull;&nbsp;<a href="http://blog.nondrivendevelopment.com/tags/#git" title="Pages tagged git">git</a>&nbsp;&bull;&nbsp;<a href="http://blog.nondrivendevelopment.com/tags/#github" title="Pages tagged github">github</a>&nbsp;&bull;&nbsp;<a href="http://blog.nondrivendevelopment.com/tags/#gtk+" title="Pages tagged gtk+">gtk+</a>&nbsp;&bull;&nbsp;<a href="http://blog.nondrivendevelopment.com/tags/#python" title="Pages tagged python">python</a>&nbsp;&bull;&nbsp;<a href="http://blog.nondrivendevelopment.com/tags/#webkit" title="Pages tagged webkit">webkit</a></span>
+        
+          <h1 class="entry-title">Centaurus: Python, GTK+ & WebKit Simple Web Browser</h1>
+        
+      </header>
+      <footer class="entry-meta">
+        
+        
+          <img src="http://blog.nondrivendevelopment.com/images/image-me.png" class="bio-photo" alt="Felipe Cabargas bio photo"></a>
+        
+        <span class="author vcard">By <span class="fn">Felipe Cabargas</span></span>
+        <span class="entry-date date published"><time datetime="2011-11-12T00:00:00-03:00"><i class="fa fa-calendar-o"></i> November 12, 2011</time></span>
+        
+        
+        
+        
+      </footer>
+      <div class="entry-content">
+        <p>Es genial escribir esta entrada; si bien el navegador no está terminado, es un lujo poder compartir con ustedes esta versión funcional de Centaurus, el navegador que construí personalmente y que me encanta.</p>
+
+<p>Construído en Python con las librerias de GTK+3 y WebKit, Centaurus es la base de un navegador web simple para plataformas Linux.</p>
+
+<p>Actualmente, es la versión 0.2 (entiendase que faltan MUCHÍSIMAS COSAS) pero me parece que compartirlo y dejarlo para que otros puedan desarrollar sin partir de 0 es lo más importante.</p>
+
+<p>Aquí pueden ver algunas tomas de pantalla:</p>
+
+<p><a href="http://cabargas.me/images/centaurus.png"><img src="http://cabargas.me/images/centaurus.png" alt="" /></a></p>
+
+<p><a href="http://cabargas.me/images/google.png"><img src="http://cabargas.me/images/google.png" alt="" /></a></p>
+
+<p>Para estar al tanto ingresa a:</p>
+
+<p><strong><a href="http://www.cabargas.me/centaurus">http://www.cabargas.me/centaurus</a></strong></p>
+
+<p>Para descargarlo directamente puedes ingresar al repositorio de GitHub o ejecutar el siguiente comando:</p>
+
+<p><code>git clone https://felipecabargas@github.com/felipecabargas/Centaurus-Web-Browser.git</code></p>
+
+<p>Si no tienes git instalado está en los repositorios de Ubuntu y Fedora:</p>
+
+<p><code>sudo apt-get install git</code><br />
+<code>sudo yum install git</code></p>
+
+<p>Ojalá lo disfruten… y si quieres desarrollar… Just Fork Me !</p>
+
+
+        
+      </div><!-- /.entry-content -->
+    </div><!-- /.entry-wrapper -->
+    <nav class="pagination" role="navigation">
+      
+        <a href="http://blog.nondrivendevelopment.com/2011/10/adwaita-dark-para-gnome-3" class="btn" title="Adwaita Dark para Gnome 3">Previous</a>
+      
+      
+        <a href="http://blog.nondrivendevelopment.com/2012/01/unresentidomenos" class="btn" title="#unresentidomenos">Next</a>
+      
+    </nav><!-- /.pagination -->
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo" class="entry-wrapper">
+    
+
+<span>&copy; 2016 Felipe Cabargas. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/so-simple/">So Simple Theme</a>.</span>
+<div class="social-icons">
+	<a href="http://twitter.com/juanpintoduran" title="Felipe Cabargas on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+	<a href="http://facebook.com/fcabargas" title="Felipe Cabargas on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+	
+	<a href="http://linkedin.com/in/cabargas" title="Felipe Cabargas on LinkedIn" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+	
+	<a href="http://instagram.com/juanpintoduran" title="Felipe Cabargas on Instagram" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>
+	<a href="http://www.flickr.com/photos/pipecabargas" title="Felipe Cabargas on Flickr" target="_blank"><i class="fa fa-flickr fa-2x"></i></a>
+	<a href="http://github.com/felipecabargas" title="Felipe Cabargas on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>
+	
+  <a href="http://blog.nondrivendevelopment.com/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
+</div><!-- /.social-icons -->
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://blog.nondrivendevelopment.com/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://blog.nondrivendevelopment.com/assets/js/scripts.min.js"></script>
+
+<!-- Jekyll Simple Search option -->
+<script>
+  $(document).ready(function() {
+      $('.search-field').jekyllSearch({
+          jsonFile: 'http://blog.nondrivendevelopment.com/search.json',
+          searchResults: '.search-results',
+          template: '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
+          fuzzy: true,
+          noResults: '<p>Nothing found.</p>'
+        });
+  });
+
+  (function( $, window, undefined ) {
+    
+     var bs = {
+          close: $(".close-btn"),
+          searchform: $(".search-form"),
+          canvas: $(".js-menu-screen"),
+          dothis: $('.dosearch')
+      };
+    
+    bs.dothis.on('click', function() {
+      $('.search-wrapper').css({ display: "block" });
+      $('body').toggleClass('no-scroll');
+      bs.searchform.toggleClass('active');
+      bs.searchform.find('input').focus();
+      bs.canvas.toggleClass('is-visible');
+    });
+    
+      bs.close.on('click', function() {
+        $('.search-wrapper').removeAttr( 'style' );
+        $('body').toggleClass('no-scroll');
+        bs.searchform.toggleClass('active');
+        bs.canvas.removeClass('is-visible');
+    });
+  })( jQuery, window );
+</script>
+
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-5897138-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+	        
+
+</body>
+</html>
