@@ -16,7 +16,7 @@ post_format: [ ]
 
 Tras un fin de semana de locos y un proyecto hermoso puedo decir: MISIÓN CUMPLIDA. No ganamos, pero sacamos adelante una plataforma hermosa visualmente y complejísima a nivel de backend.
 
-Pero volvamos al título de este post: AngelHack... 
+Pero volvamos al título de este post: AngelHack...
 
 ***CRITICAS Y NO TAN CRÍTICAS***
 
@@ -46,4 +46,4 @@ Gran hackathon, muchas cosas por revisar antes de la próxima edición pero no p
 
 Igualmente eso sí, extraño una hackathon donde el HACK sea el importante, porque hasta hoy podría llamarse AngelHustling y calzaría perfecto. Nos falta eso.
 
- [1]: http://cabargas.me/images/angelhack.png
+ [1]: http://cabargas.com/images/angelhack.png

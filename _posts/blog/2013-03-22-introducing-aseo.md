@@ -28,5 +28,5 @@ Respecto al soporte y como lo dice en el link de más arriba, ASEO estará dispo
 
 Espero les sirva. Siéntanse libres de modificarlo (porfavor con forks para hacer pull request de nuevas funciones o mejoras). Un abrazo!
 
- [1]: http://cabargas.me/images/aseo1.png
+ [1]: http://cabargas.com/images/aseo1.png
  [2]: https://github.com/felipecabargas/aseo

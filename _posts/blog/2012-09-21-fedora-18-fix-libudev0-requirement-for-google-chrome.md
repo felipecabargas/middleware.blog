@@ -34,4 +34,4 @@ Recuerden reemplazar la X del archivo por la de vuestra versión (actualmente es
 
 Y voilà... ya pueden ejecutar Google Chrome y Chromium normalmente.
 
-  [1]: http://cabargas.me/images/fedora-18-chrome.png
+  [1]: http://cabargas.com/images/fedora-18-chrome.png

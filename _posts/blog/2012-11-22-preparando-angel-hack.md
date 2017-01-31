@@ -40,4 +40,4 @@ Además de eso y en el ámbito técnico hay un par de cosas que puedes definir a
 
 Con estos puntos listos me parece que ya estamos listos para irnos a pasar un buen tiempo con un puñado de geeks de todos los rincones del país.
 
- [1]: http://cabargas.me/images/angelhack.png
+ [1]: http://cabargas.com/images/angelhack.png

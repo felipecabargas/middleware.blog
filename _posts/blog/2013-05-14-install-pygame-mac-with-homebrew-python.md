@@ -52,4 +52,4 @@ sudo python setup.py install
 
 Tras todo esto ya deberían poder hacer import del módulo 'pygame' normalmente. Pueden remover el directorio pygame-1.9.1release.
 
-[1]: http://cabargas.me/images/pygame.png
+[1]: http://cabargas.com/images/pygame.png

@@ -30,9 +30,9 @@ o por SSH en:
 
 `git@github.com:felipecabargas/mockingbirddev-web.git`
 
- 
+
  [1]: http://blog.cabargas.me/2012/06/diseno-mockingbird-development/
  [2]: http://beta.mockingbirdev.com/
- [3]: http://cabargas.me/images/homepage-today.png
- [4]: http://cabargas.me/images/teammember.png
+ [3]: http://cabargas.com/images/homepage-today.png
+ [4]: http://cabargas.com/images/teammember.png
  [5]: https://github.com/felipecabargas/mockingbirddev-web

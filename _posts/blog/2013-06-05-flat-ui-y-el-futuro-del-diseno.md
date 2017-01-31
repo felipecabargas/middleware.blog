@@ -26,5 +26,5 @@ Y en esta moda, la experiencia de usuario debe ser consecuente con el diseño, l
 
 Atenti!
 
- [1]: http://cabargas.me/images/raffl.png
- [2]: http://cabargas.me/images/flatui.jpg
+ [1]: http://cabargas.com/images/raffl.png
+ [2]: http://cabargas.com/images/flatui.jpg

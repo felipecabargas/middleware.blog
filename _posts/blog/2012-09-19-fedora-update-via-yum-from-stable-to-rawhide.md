@@ -65,5 +65,5 @@ Tras esto, instalación de paquetes nuevos y voilá (bueno, con paciencia y buen
 
 Espero que les haya sido útil como a mi; cualquier duda la responderé gustoso en los comentarios!
 
-  [1]: http://cabargas.me/images/fedora-18.png
+  [1]: http://cabargas.com/images/fedora-18.png
   [2]: http://rpmfusion.org

@@ -36,8 +36,8 @@ Luego hacemos clic en "Ejecutar interfaz web" o abrimos http://localhost:9091/tr
 
 Espero que este tip les haya sido tan útil como a mi. Un saludo a todos.
 
-[1]: http://cabargas.me/images/transmission.png
-[2]: http://cabargas.me/images/tra1.png
-[3]: http://cabargas.me/images/tra2.png
-[4]: http://cabargas.me/images/tra3.png
-[5]: http://cabargas.me/images/pref1.png
+[1]: http://cabargas.com/images/transmission.png
+[2]: http://cabargas.com/images/tra1.png
+[3]: http://cabargas.com/images/tra2.png
+[4]: http://cabargas.com/images/tra3.png
+[5]: http://cabargas.com/images/pref1.png

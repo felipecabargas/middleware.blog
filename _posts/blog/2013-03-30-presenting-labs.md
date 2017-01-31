@@ -22,6 +22,6 @@ Junto a eso no monetizaré dicho lugar y lo trataré de mantener todo lo simple 
 
 Un abrazo y (si tiene tiempo) péguese una vuelta por allá. Queda cordialmente invitado.
 
- [1]: http://cabargas.me/images/labs.png
+ [1]: http://cabargas.com/images/labs.png
  [2]: http://labs.cabargas.me
  [3]: http://cl.linkedin.com/in/cabargas

@@ -19,7 +19,7 @@ Cómo dice el dicho popular, no todo lo que brilla es oro y en el caso del dise�
 
 Durante los últimos años me he enfrentado a la atendible confusión del mercado de IT por meter en sus filas a diseñadores industriales en el sector web/móvil. Esto a mi opinión ha generado desastres con buena paleta de colores dentro de internet y no han hecho más que complejizar la tarea del desarrollador de trabajar sobre una UI (User Interface) muy elaborada sin sacrificar la UX (User Experience).
 
-Es aquí donde nosotros, los desarrolladores nos vemos enfrentados con el equipo de diseño de una marca tal y como el de la Apple II con el de Macintosh atrás en los años 80. 
+Es aquí donde nosotros, los desarrolladores nos vemos enfrentados con el equipo de diseño de una marca tal y como el de la Apple II con el de Macintosh atrás en los años 80.
 
 ¿Queremos el fracaso de Apple durante esa época? La industria tiene mala memoria: El diseño no implica éxito, el lujo no implica ventas.
 
@@ -33,5 +33,5 @@ Si por el contrario tu sitio es más bien basado en tráfico que en usuarios, en
 
 Para finalizar y mi consejo para cualquier sitio **mejora los tiempos de carga/respuesta**!!! es importantísimo. Ya verás como el maldito 'bounce rate' disminuye considerablemente.
 
- [1]: http://cabargas.me/images/diseno.png
+ [1]: http://cabargas.com/images/diseno.png
  [2]: http://www.chileautos.cl

@@ -36,4 +36,4 @@ Now I present *Mac Sketches*, featuring:
 2. If you have a requirement, or need the files in any format, please drop me an email to felipe@cabargas.me
 3. The Apple logo and Mac brand are registered trademarks of Apple Inc.
 
-[1]: http://cabargas.me/images/MacSketches@2x.png
+[1]: http://cabargas.com/images/MacSketches@2x.png

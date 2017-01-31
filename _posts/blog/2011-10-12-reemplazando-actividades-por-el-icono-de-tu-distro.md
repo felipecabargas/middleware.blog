@@ -36,12 +36,12 @@ Con la corrección a ‘start-here’ debería funcionar en todas las distros co
 
 **Para utilizarlo DEBES tener instalado Gnome Tweak Tool. **Si no lo tienes en tu sistema, simplemente usa el siguiente comando:
 
-**Fedora:**  
+**Fedora:**
 `sudo yum install gnome-tweak-tool`
 
-**Ubuntu**:  
+**Ubuntu**:
 `sudo apt-get install gnome-tweak-tool`
 
- 
- [1]: http://cabargas.me/images/gnomeshellicon.png
- [2]: http://cabargas.me/proyectos/gnome-shell/extensions/iconoactividades@felipecabargas.zip
+
+ [1]: http://cabargas.com/images/gnomeshellicon.png
+ [2]: http://cabargas.com/proyectos/gnome-shell/extensions/iconoactividades@felipecabargas.zip
