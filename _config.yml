@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Non Driven Development
+title: Felipe Cabargas's NDD
 locale: en_US
-description: A journey of passion & missing semicolons.
+description: A journey of missing semicolons.
 logo: ndd-logo.png
 search: true
-url: http://blog.nondrivendevelopment.com
-production_url : http://blog.nondrivendevelopment.com
+url: https://blog.nondrivendevelopment.com
+production_url : https://blog.nondrivendevelopment.com
 
 # Jekyll configuration
 
@@ -39,10 +39,9 @@ owner:
   twitter: juanpintoduran
   facebook: fcabargas
   github: felipecabargas
-  stackexchange: #http://stackoverflow.com/users/123456/username
+  stackexchange: http://stackoverflow.com/users/6013479/felipe-cabargas
   linkedin: cabargas
   instagram: juanpintoduran
-  flickr: pipecabargas
   tumblr: #username
   google:
     plus: #username
@@ -51,7 +50,3 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-
-keep_files: [
-  '.well-known/acme-challenge'
-]
