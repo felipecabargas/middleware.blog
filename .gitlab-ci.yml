@@ -5,7 +5,6 @@ pages:
   - gem install bundler
   - bundle install
   - jekyll build -d public
-  - cp -r _site/.well-known public
   artifacts:
     paths:
     - public
