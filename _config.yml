@@ -12,7 +12,7 @@ production_url : https://blog.nondrivendevelopment.com
 
 permalink:   /:year/:month/:title
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
