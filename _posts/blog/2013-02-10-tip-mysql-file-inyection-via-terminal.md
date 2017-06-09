@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[TIP] Importar archivos *.sql desde la terminal'
 excerpt:
 layout: post
-categories:
+category:
   - Hacking
 tags:
   - edoome

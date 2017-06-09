@@ -3,7 +3,7 @@ author: juanpintoduran
 title: Comunidad sin lugares comunes, Parte 1
 excerpt:
 layout: post
-categories:
+category:
   - UX
 tags:
   - chile

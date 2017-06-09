@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[HACKING] Renaming a Rails app'
 excerpt:
 layout: post
-categories:
+category:
   - Hacking
 tags:
   - Hackathon

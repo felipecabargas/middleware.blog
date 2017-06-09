@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[HOW-TO] Install Android KitKat (4.4) on the Moto X (XT1058) with locked bootloader'
 excerpt:
 layout: post
-categories:
+category:
   - Tutorial
 tags:
   - android

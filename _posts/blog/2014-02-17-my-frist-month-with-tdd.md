@@ -3,7 +3,7 @@ author: juanpintoduran
 title: 'My 1st month with TDD or "Why TDD is a pain in the ass but you should learn and use it anyway"'
 excerpt:
 layout: post
-categories:
+category:
   - Developer Life
 tags:
   - rails

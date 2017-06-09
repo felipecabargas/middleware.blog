@@ -3,7 +3,7 @@ author: juanpintoduran
 title: Adwaita Dark para Gnome 3
 excerpt:
 layout: post
-categories:
+category:
   - Design
 tags:
   - GNOME 3

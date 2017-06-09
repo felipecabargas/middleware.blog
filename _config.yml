@@ -1,52 +1,24 @@
 # Site wide configuration
-
 title: Felipe Cabargas's NDD
-locale: en_US
-description: A journey of missing semicolons.
-logo: ndd-logo.png
-search: true
-url: https://blog.nondrivendevelopment.com
-production_url : https://blog.nondrivendevelopment.com
+baseurl: ""
+url: "https://blog.nondrivendevelopment.com"
+favicon: "images/ndd-logo.png"
+g_analytics: UA-5897138-2
+
+# Bio
+header: Felipe Cabargas's NDD
+desc: >
+  A journey of missing semicolons.
 
 # Jekyll configuration
+theme: louie
 
 permalink:   /:year/:month/:title
+date_format: "%m/%d/%Y"
+prev-next: true
+
 markdown:    kramdown
 highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..2
-  enable_coderay: false
-
-include: [".htaccess"]
+# include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
-
-
-# Site owner
-owner:
-  name: Felipe Cabargas
-  avatar: image-me.jpg
-  email: felipe.cabargas@gmail.com
-  disqus-shortname:
-  twitter: juanpintoduran
-  facebook: fcabargas
-  github: felipecabargas
-  stackexchange: http://stackoverflow.com/users/6013479/felipe-cabargas
-  linkedin: cabargas
-  instagram: juanpintoduran
-  tumblr: #username
-  google:
-    plus: #username
-    analytics: 'UA-5897138-2'
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:

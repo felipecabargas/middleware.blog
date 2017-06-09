@@ -3,7 +3,7 @@ author: juanpintoduran
 title: Un mes al aire
 excerpt:
 layout: post
-categories:
+category:
   - Off-Topic
 tags:
   - Estadísticas

@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[HACKING] Preparando Angel Hack'
 excerpt:
 layout: post
-categories:
+category:
   - Hacking
 tags:
   - Hackathon

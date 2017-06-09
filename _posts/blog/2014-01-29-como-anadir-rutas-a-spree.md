@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[HOW-TO] Añadir y testear rutas en un engine de rails cómo Spree'
 excerpt:
 layout: post
-categories:
+category:
   - Tutorial
 tags:
   - rails

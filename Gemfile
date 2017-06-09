@@ -1,8 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
-gem 'jekyll-sitemap'
-gem 'octopress'
+gem "louie"
 
 group :test do
   gem 'html-proofer'

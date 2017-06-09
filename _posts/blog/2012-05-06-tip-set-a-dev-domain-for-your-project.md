@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[TIP] Set a “.dev” domain for your project'
 excerpt:
 layout: post
-categories:
+category:
   - Hacking
 tags:
   - domains

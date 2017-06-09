@@ -3,7 +3,7 @@ author: juanpintoduran
 title: Comunidades, una actualización necesaria.
 excerpt:
 layout: post
-categories:
+category:
   - UX
 tags:
   - chile

@@ -3,7 +3,7 @@ author: juanpintoduran
 title: 'Presenting LABS'
 excerpt:
 layout: post
-categories:
+category:
   - Hacking
 tags:
   - labs

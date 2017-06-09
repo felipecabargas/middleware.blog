@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[OS X] Verify Local Data on Transmission for Mac'
 excerpt:
 layout: post
-categories:
+category:
   - HowTo
 tags:
   - torrents

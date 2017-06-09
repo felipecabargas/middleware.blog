@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[TIP] Android: Take screenshots with the Android SDK'
 excerpt:
 layout: post
-categories:
+category:
   - Linux
 tags:
   - android

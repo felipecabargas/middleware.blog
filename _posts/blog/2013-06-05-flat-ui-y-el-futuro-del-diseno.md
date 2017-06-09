@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[DESIGN] Flat UI y el futuro del diseño digital'
 excerpt:
 layout: post
-categories:
+category:
   - Design
 tags:
   - ui

@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[Daily Tip] How to force existing column to contain data in Rails'
 excerpt:
 layout: post
-categories:
+category:
   - Tips
 tags:
   - rails

@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[Daily Tip] How to add extra fields during user registration with Devise'
 excerpt:
 layout: post
-categories:
+category:
   - Tips
 tags:
   - rails

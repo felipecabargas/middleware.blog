@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[OS X] Install Python 2.7.4 & PyGame in Mountain Lion without Homebrew'
 excerpt:
 layout: post
-categories:
+category:
   - Hacking
 tags:
   - utfsm

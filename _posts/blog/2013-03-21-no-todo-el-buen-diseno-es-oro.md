@@ -3,7 +3,7 @@ author: juanpintoduran
 title: 'No todo el buen diseño es oro'
 excerpt:
 layout: post
-categories:
+category:
   - Design
 tags:
   - ux

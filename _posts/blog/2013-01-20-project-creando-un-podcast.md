@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[PROYECTOS] Empezando un Podcast de tecnología'
 excerpt:
 layout: post
-categories:
+category:
   - Proyectos
 tags:
   - iTunes

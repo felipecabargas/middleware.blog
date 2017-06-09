@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[EDOOME] Trabajar en un Startup'
 excerpt:
 layout: post
-categories:
+category:
   - Proyectos
 tags:
   - edoome

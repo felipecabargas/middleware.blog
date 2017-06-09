@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[RUBY] Creating a Gem from scratch - Day 1'
 excerpt:
 layout: post
-categories:
+category:
   - Hacking
 tags:
   - Ruby

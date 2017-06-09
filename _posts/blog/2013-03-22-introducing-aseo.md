@@ -3,7 +3,7 @@ author: juanpintoduran
 title: 'Introducing ASEO'
 excerpt:
 layout: post
-categories:
+category:
   - Hacking
 tags:
   - aseo

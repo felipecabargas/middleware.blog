@@ -3,7 +3,7 @@ author: juanpintoduran
 title: 'Mac Sketches for everyone (!)'
 excerpt:
 layout: post
-categories:
+category:
   - Design
 tags:
   - vectors

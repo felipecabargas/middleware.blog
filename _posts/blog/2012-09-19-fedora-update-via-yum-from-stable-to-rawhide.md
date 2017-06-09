@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[Fedora] Update from Stable to Rawhide via Yum'
 excerpt:
 layout: post
-categories:
+category:
   - Linux
 tags:
   - Fedora

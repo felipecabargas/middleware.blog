@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[OS X] Install pygame on OS X with a Homebrew Python 2.7 install'
 excerpt:
 layout: post
-categories:
+category:
   - Hacking
 tags:
   - utfsm

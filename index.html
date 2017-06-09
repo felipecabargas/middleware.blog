@@ -1,11 +1,5 @@
 ---
-layout: page
-title: >
-excerpt: "A journey of missing semicolons."
+layout: default
 ---
 
-<ul class="post-list">
-{% for post in site.posts %}
-  <li><article><a href="{{ site.url }}{{ post.url }}.html">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
-{% endfor %}
-</ul>
+{% include posts_list.html %}

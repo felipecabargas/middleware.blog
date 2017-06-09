@@ -3,7 +3,7 @@ author: juanpintoduran
 title: 'Ruby on Rails: Iniciar una nueva app - Comandos útiles'
 excerpt:
 layout: post
-categories:
+category:
   - Hacking
 tags:
   - rails

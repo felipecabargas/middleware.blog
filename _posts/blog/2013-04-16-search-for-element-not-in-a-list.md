@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[PYTHON] Check existence of an element inside a list'
 excerpt:
 layout: post
-categories:
+category:
   - Hacking
 tags:
   - utfsm

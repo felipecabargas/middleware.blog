@@ -3,7 +3,7 @@ author: juanpintoduran
 title: A little explanation on Spring
 excerpt:
 layout: post
-categories:
+category:
   - Rails
   - Ruby
 tags:

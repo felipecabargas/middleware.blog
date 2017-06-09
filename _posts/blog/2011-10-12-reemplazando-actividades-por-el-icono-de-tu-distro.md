@@ -2,7 +2,7 @@
 author: juanpintoduran
 title: Reemplazando "Actividades" por el ícono de tu distro
 layout: post
-categories:
+category:
   - Linux
 tags:
   - Fedora

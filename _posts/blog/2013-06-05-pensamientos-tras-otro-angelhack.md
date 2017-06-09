@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[LIFE] Pensamientos tras otro AngelHack SCL'
 excerpt:
 layout: post
-categories:
+category:
   - Squape
 tags:
   - life

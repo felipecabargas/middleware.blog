@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[TIP] iOS: Set an icon for Safari Mobile Web Apps'
 excerpt:
 layout: post
-categories:
+category:
   - Hacking
 tags:
   - css

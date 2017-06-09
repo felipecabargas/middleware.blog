@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[RAILS] Rename paths & routes in a resource'
 excerpt:
 layout: post
-categories:
+category:
   - Hacking
 tags:
   - Ruby on Rails

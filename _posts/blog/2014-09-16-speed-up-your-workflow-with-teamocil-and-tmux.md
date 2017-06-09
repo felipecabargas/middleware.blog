@@ -2,7 +2,7 @@
 author: juanpintoduran
 title: 'Teamocil: speeding up your Tmux workflow '
 layout: post
-categories:
+category:
   - Design
 tags:
   - vectors
