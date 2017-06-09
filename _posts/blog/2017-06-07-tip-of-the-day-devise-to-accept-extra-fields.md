@@ -1,6 +1,6 @@
 ---
 author: juanpintoduran
-title: Tip-of-the-day - How to add extra fields during user registration with Devise
+title: Tip of the day #2 - How to add extra fields during user registration with Devise
 excerpt:
 layout: post
 categories:
