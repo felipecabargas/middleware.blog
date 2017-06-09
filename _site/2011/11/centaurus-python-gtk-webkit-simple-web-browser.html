@@ -1,0 +1,920 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+
+  <title>Centaurus: Python, GTK+ &amp; WebKit Simple Web Browser</title>
+  <meta name="description" content="Es genial escribir esta entrada; si bien el navegador no está terminado, es un lujo poder compartir con ustedes esta versión funcional de Centaurus, el naveg...">
+
+  
+  <link rel="icon" href="/images/ndd-logo.png" />
+  
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="https://blog.nondrivendevelopment.com/2011/11/centaurus-python-gtk-webkit-simple-web-browser">
+  <link rel="alternate" type="application/rss+xml" title="Felipe Cabargas&#39;s NDD" href="/feed.xml">
+  
+  
+</head>
+
+  <body>
+    <div class="container">
+      <div class="post">
+        <div class="bio__header">
+          <a href="https://blog.nondrivendevelopment.com/">
+            Felipe Cabargas's NDD
+          </a>
+        </div>
+
+        <div class="post__meta">
+          <div class="post__title">Centaurus: Python, GTK+ & WebKit Simple Web Browser</div>
+          <div class="post__date">
+            
+              11/12/2011
+            
+          </div>
+          <div class="post__cat">Hacking</div>
+        </div>
+
+        <div class="post__body">
+          <p>Es genial escribir esta entrada; si bien el navegador no está terminado, es un lujo poder compartir con ustedes esta versión funcional de Centaurus, el navegador que construí personalmente y que me encanta.</p>
+
+<p>Construído en Python con las librerias de GTK+3 y WebKit, Centaurus es la base de un navegador web simple para plataformas Linux.</p>
+
+<p>Actualmente, es la versión 0.2 (entiendase que faltan MUCHÍSIMAS COSAS) pero me parece que compartirlo y dejarlo para que otros puedan desarrollar sin partir de 0 es lo más importante.</p>
+
+<p>Aquí pueden ver algunas tomas de pantalla:</p>
+
+<p><a href="http://cabargas.com/images/centaurus.png"><img src="http://cabargas.com/images/centaurus.png" alt="" /></a></p>
+
+<p><a href="http://cabargas.com/images/google.png"><img src="http://cabargas.com/images/google.png" alt="" /></a></p>
+
+<p>Para estar al tanto ingresa a:</p>
+
+<p><strong><a href="http://www.cabargas.me/centaurus">http://www.cabargas.me/centaurus</a></strong></p>
+
+<p>Para descargarlo directamente puedes ingresar al repositorio de GitHub o ejecutar el siguiente comando:</p>
+
+<p><code class="highlighter-rouge">git clone https://felipecabargas@github.com/felipecabargas/Centaurus-Web-Browser.git</code></p>
+
+<p>Si no tienes git instalado está en los repositorios de Ubuntu y Fedora:</p>
+
+<p><code class="highlighter-rouge">sudo apt-get install git</code>
+<code class="highlighter-rouge">sudo yum install git</code></p>
+
+<p>Ojalá lo disfruten… y si quieres desarrollar… Just Fork Me !</p>
+
+
+        </div>
+
+        
+          <div class="post__paginate">
+            
+              <a class="post__paginate-left" href="https://blog.nondrivendevelopment.com/2011/10/adwaita-dark-para-gnome-3">Adwaita Dark para Gnome 3</a>
+            
+
+            
+              <a class="post__paginate-right" href="https://blog.nondrivendevelopment.com/2012/04/fedora-17-set-ruby-on-rails-and-make-it-work">[Fedora 17] Set Ruby on Rails and make it work</a>
+            
+          </div>
+        
+      </div>
+
+      
+  <ul class="rows">
+    <li class="row__cols">
+      <div class="row__title">
+        
+          Title
+        
+      </div>
+      <div class="row__date">
+        
+          Date
+        
+      </div>
+      <div class="row__cat">
+        
+          Category
+        
+      </div>
+    </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2017/06/tip-of-the-day-not-null-columns-ror">
+          <div class="row__title ">
+            [Daily Tip] How to force existing column to contain data in Rails
+          </div>
+          <div class="row__date ">
+            
+              06/08/2017
+            
+          </div>
+          <div class="row__cat ">
+            Tips
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2017/06/tip-of-the-day-devise-to-accept-extra-fields">
+          <div class="row__title ">
+            [Daily Tip] How to add extra fields during user registration with Devise
+          </div>
+          <div class="row__date ">
+            
+              06/07/2017
+            
+          </div>
+          <div class="row__cat ">
+            Tips
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2016/02/comunidades">
+          <div class="row__title ">
+            Comunidades, una actualización necesaria.
+          </div>
+          <div class="row__date ">
+            
+              02/22/2016
+            
+          </div>
+          <div class="row__cat ">
+            UX
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2015/10/comunidad-sin-lugares-comunes">
+          <div class="row__title ">
+            Comunidad sin lugares comunes, Parte 1
+          </div>
+          <div class="row__date ">
+            
+              10/05/2015
+            
+          </div>
+          <div class="row__cat ">
+            UX
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2014/12/a-little-explanation-on-spring">
+          <div class="row__title ">
+            A little explanation on Spring
+          </div>
+          <div class="row__date ">
+            
+              12/01/2014
+            
+          </div>
+          <div class="row__cat ">
+            RailsRuby
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2014/09/speed-up-your-workflow-with-teamocil-and-tmux">
+          <div class="row__title ">
+            Teamocil: speeding up your Tmux workflow 
+          </div>
+          <div class="row__date ">
+            
+              09/16/2014
+            
+          </div>
+          <div class="row__cat ">
+            Design
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2014/03/mac-sketches">
+          <div class="row__title ">
+            Mac Sketches for everyone (!)
+          </div>
+          <div class="row__date ">
+            
+              03/02/2014
+            
+          </div>
+          <div class="row__cat ">
+            Design
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2014/02/my-frist-month-with-tdd">
+          <div class="row__title ">
+            My 1st month with TDD or "Why TDD is a pain in the ass but you should learn and use it anyway"
+          </div>
+          <div class="row__date ">
+            
+              02/17/2014
+            
+          </div>
+          <div class="row__cat ">
+            Developer Life
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2014/01/como-anadir-rutas-a-spree">
+          <div class="row__title ">
+            [HOW-TO] Añadir y testear rutas en un engine de rails cómo Spree
+          </div>
+          <div class="row__date ">
+            
+              01/29/2014
+            
+          </div>
+          <div class="row__cat ">
+            Tutorial
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2013/12/how-to-installing-kitkat-44-in-the-moto-x-xt1058-with-locked-bootloader">
+          <div class="row__title ">
+            [HOW-TO] Install Android KitKat (4.4) on the Moto X (XT1058) with locked bootloader
+          </div>
+          <div class="row__date ">
+            
+              12/18/2013
+            
+          </div>
+          <div class="row__cat ">
+            Tutorial
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2013/08/rails-creating-a-gem-from-scratch-day-1">
+          <div class="row__title ">
+            [RUBY] Creating a Gem from scratch - Day 1
+          </div>
+          <div class="row__date ">
+            
+              08/03/2013
+            
+          </div>
+          <div class="row__cat ">
+            Hacking
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2013/07/rails-rename-paths-and-routes-instead-of-renaming-model">
+          <div class="row__title ">
+            [RAILS] Rename paths & routes in a resource
+          </div>
+          <div class="row__date ">
+            
+              07/16/2013
+            
+          </div>
+          <div class="row__cat ">
+            Hacking
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2013/06/pensamientos-tras-otro-angelhack">
+          <div class="row__title ">
+            [LIFE] Pensamientos tras otro AngelHack SCL
+          </div>
+          <div class="row__date ">
+            
+              06/05/2013
+            
+          </div>
+          <div class="row__cat ">
+            Squape
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2013/06/flat-ui-y-el-futuro-del-diseno">
+          <div class="row__title ">
+            [DESIGN] Flat UI y el futuro del diseño digital
+          </div>
+          <div class="row__date ">
+            
+              06/05/2013
+            
+          </div>
+          <div class="row__cat ">
+            Design
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2013/05/verifying-local-data-on-transmission">
+          <div class="row__title ">
+            [OS X] Verify Local Data on Transmission for Mac
+          </div>
+          <div class="row__date ">
+            
+              05/18/2013
+            
+          </div>
+          <div class="row__cat ">
+            HowTo
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2013/05/install-python-274-and-pygame-without-homebrew">
+          <div class="row__title ">
+            [OS X] Install Python 2.7.4 & PyGame in Mountain Lion without Homebrew
+          </div>
+          <div class="row__date ">
+            
+              05/15/2013
+            
+          </div>
+          <div class="row__cat ">
+            Hacking
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2013/05/install-pygame-mac-with-homebrew-python">
+          <div class="row__title ">
+            [OS X] Install pygame on OS X with a Homebrew Python 2.7 install
+          </div>
+          <div class="row__date ">
+            
+              05/14/2013
+            
+          </div>
+          <div class="row__cat ">
+            Hacking
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2013/04/search-for-element-not-in-a-list">
+          <div class="row__title ">
+            [PYTHON] Check existence of an element inside a list
+          </div>
+          <div class="row__date ">
+            
+              04/16/2013
+            
+          </div>
+          <div class="row__cat ">
+            Hacking
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2013/03/presenting-labs">
+          <div class="row__title ">
+            Presenting LABS
+          </div>
+          <div class="row__date ">
+            
+              03/30/2013
+            
+          </div>
+          <div class="row__cat ">
+            Hacking
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2013/03/introducing-aseo">
+          <div class="row__title ">
+            Introducing ASEO
+          </div>
+          <div class="row__date ">
+            
+              03/22/2013
+            
+          </div>
+          <div class="row__cat ">
+            Hacking
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2013/03/no-todo-el-buen-diseno-es-oro">
+          <div class="row__title ">
+            No todo el buen diseño es oro
+          </div>
+          <div class="row__date ">
+            
+              03/21/2013
+            
+          </div>
+          <div class="row__cat ">
+            Design
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2013/02/tip-mysql-file-inyection-via-terminal">
+          <div class="row__title ">
+            [TIP] Importar archivos *.sql desde la terminal
+          </div>
+          <div class="row__date ">
+            
+              02/10/2013
+            
+          </div>
+          <div class="row__cat ">
+            Hacking
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2013/02/edoome-trabajar-en-un-startup">
+          <div class="row__title ">
+            [EDOOME] Trabajar en un Startup
+          </div>
+          <div class="row__date ">
+            
+              02/08/2013
+            
+          </div>
+          <div class="row__cat ">
+            Proyectos
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2013/01/project-creando-un-podcast">
+          <div class="row__title ">
+            [PROYECTOS] Empezando un Podcast de tecnología
+          </div>
+          <div class="row__date ">
+            
+              01/20/2013
+            
+          </div>
+          <div class="row__cat ">
+            Proyectos
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2012/12/review-ipad-mini">
+          <div class="row__title ">
+            [REVIEW] iPad Mini
+          </div>
+          <div class="row__date ">
+            
+              12/29/2012
+            
+          </div>
+          <div class="row__cat ">
+            Review
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2012/11/rails-rename-a-rails-app">
+          <div class="row__title ">
+            [HACKING] Renaming a Rails app
+          </div>
+          <div class="row__date ">
+            
+              11/26/2012
+            
+          </div>
+          <div class="row__cat ">
+            Hacking
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2012/11/preparando-angel-hack">
+          <div class="row__title ">
+            [HACKING] Preparando Angel Hack
+          </div>
+          <div class="row__date ">
+            
+              11/22/2012
+            
+          </div>
+          <div class="row__cat ">
+            Hacking
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2012/09/fedora-18-fix-libudev0-requirement-for-google-chrome">
+          <div class="row__title ">
+            [Fedora 18] Fix "libudev.so.0" requirement for Google Chrome / Chromium
+          </div>
+          <div class="row__date ">
+            
+              09/21/2012
+            
+          </div>
+          <div class="row__cat ">
+            Linux
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2012/09/fedora-update-via-yum-from-stable-to-rawhide">
+          <div class="row__title ">
+            [Fedora] Update from Stable to Rawhide via Yum
+          </div>
+          <div class="row__date ">
+            
+              09/19/2012
+            
+          </div>
+          <div class="row__cat ">
+            Linux
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2012/08/y-nos-fuimos-a-jekyll">
+          <div class="row__title ">
+            Y nos fuimos a Jekyll
+          </div>
+          <div class="row__date ">
+            
+              08/27/2012
+            
+          </div>
+          <div class="row__cat ">
+            Jekyll
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2012/07/tip-android-take-screenshots-with-the-android-sdk">
+          <div class="row__title ">
+            [TIP] Android: Take screenshots with the Android SDK
+          </div>
+          <div class="row__date ">
+            
+              07/22/2012
+            
+          </div>
+          <div class="row__cat ">
+            Linux
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2012/07/ios-set-an-icon-for-safari-mobile-web-apps">
+          <div class="row__title ">
+            [TIP] iOS: Set an icon for Safari Mobile Web Apps
+          </div>
+          <div class="row__date ">
+            
+              07/16/2012
+            
+          </div>
+          <div class="row__cat ">
+            Hacking
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2012/07/set-up-a-service-to-start-on-boot">
+          <div class="row__title ">
+            [TIP] LINUX: Set-up a service to start on boot
+          </div>
+          <div class="row__date ">
+            
+              07/15/2012
+            
+          </div>
+          <div class="row__cat ">
+            Linux
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2012/07/heroku-configuracion-de-dns-desde-cpanel">
+          <div class="row__title ">
+            [HEROKU] Configuración de DNS desde CPANEL
+          </div>
+          <div class="row__date ">
+            
+              07/08/2012
+            
+          </div>
+          <div class="row__cat ">
+            Hacking
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2012/07/hacking-mockingbird-dev">
+          <div class="row__title ">
+            [HACKING] Mockingbird Dev
+          </div>
+          <div class="row__date ">
+            
+              07/03/2012
+            
+          </div>
+          <div class="row__cat ">
+            Hacking
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2012/07/ensayo-explotacion-laboral-en-china-y-el-compromiso-de-occidente">
+          <div class="row__title ">
+            [ENSAYO] Explotación laboral en China y el compromiso de Occidente 
+          </div>
+          <div class="row__date ">
+            
+              07/01/2012
+            
+          </div>
+          <div class="row__cat ">
+            Off-Topic
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2012/06/skype-4-0-for-linux-algo-huele-mal-y-no-es-microsoft">
+          <div class="row__title ">
+            Skype 4.0 for Linux - Algo huele mal (y no es Microsoft)
+          </div>
+          <div class="row__date ">
+            
+              06/16/2012
+            
+          </div>
+          <div class="row__cat ">
+            Linux
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2012/06/ruby-on-rails-iniciar-una-nueva-app-comandos-utiles">
+          <div class="row__title ">
+            Ruby on Rails: Iniciar una nueva app - Comandos útiles
+          </div>
+          <div class="row__date ">
+            
+              06/16/2012
+            
+          </div>
+          <div class="row__cat ">
+            Hacking
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2012/05/tip-set-a-dev-domain-for-your-project">
+          <div class="row__title ">
+            [TIP] Set a “.dev” domain for your project
+          </div>
+          <div class="row__date ">
+            
+              05/06/2012
+            
+          </div>
+          <div class="row__cat ">
+            Hacking
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2012/04/fedora-17-set-ruby-on-rails-and-make-it-work">
+          <div class="row__title ">
+            [Fedora 17] Set Ruby on Rails and make it work
+          </div>
+          <div class="row__date ">
+            
+              04/01/2012
+            
+          </div>
+          <div class="row__cat ">
+            Linux
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2011/11/centaurus-python-gtk-webkit-simple-web-browser">
+          <div class="row__title row__active">
+            Centaurus: Python, GTK+ & WebKit Simple Web Browser
+          </div>
+          <div class="row__date row__active">
+            
+              11/12/2011
+            
+          </div>
+          <div class="row__cat row__active">
+            Hacking
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2011/10/adwaita-dark-para-gnome-3">
+          <div class="row__title ">
+            Adwaita Dark para Gnome 3
+          </div>
+          <div class="row__date ">
+            
+              10/19/2011
+            
+          </div>
+          <div class="row__cat ">
+            Design
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2011/10/reemplazando-actividades-por-el-icono-de-tu-distro">
+          <div class="row__title ">
+            Reemplazando "Actividades" por el ícono de tu distro
+          </div>
+          <div class="row__date ">
+            
+              10/12/2011
+            
+          </div>
+          <div class="row__cat ">
+            Linux
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2011/10/a-partir-de-hoy-tambien-en-patatux-net">
+          <div class="row__title ">
+            A partir de hoy también en Patatux.net
+          </div>
+          <div class="row__date ">
+            
+              10/11/2011
+            
+          </div>
+          <div class="row__cat ">
+            Off-Topic
+          </div>
+        </a>
+
+        
+      </li>
+    
+      <li class="row__post">
+        <a href="https://blog.nondrivendevelopment.com/2011/10/un-mes-al-aire">
+          <div class="row__title ">
+            Un mes al aire
+          </div>
+          <div class="row__date ">
+            
+              10/10/2011
+            
+          </div>
+          <div class="row__cat ">
+            Off-Topic
+          </div>
+        </a>
+
+        
+      </li>
+    
+  </ul>
+
+    </div>
+  </body>
+
+</html>
