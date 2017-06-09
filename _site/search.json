@@ -4,7 +4,7 @@
 		  "title"      : "[Daily Tip] How to force existing column to contain data in Rails",
 		  "category"   : "Tips",
       "tags"       : "rails and development",
-		  "url"        : "https://blog.nondrivendevelopment.com/2017/06/tip-of-the-day-not-null-columns-ror",
+		  "url"        : "http://localhost:4000/2017/06/tip-of-the-day-not-null-columns-ror",
 		  "date"       : "2017-06-08 00:00:00 -0400",
 		  "shortdate"  : "June 08, 2017"
 		} ,
@@ -13,7 +13,7 @@
 		  "title"      : "[Daily Tip] How to add extra fields during user registration with Devise",
 		  "category"   : "Tips",
       "tags"       : "rails and development",
-		  "url"        : "https://blog.nondrivendevelopment.com/2017/06/tip-of-the-day-devise-to-accept-extra-fields",
+		  "url"        : "http://localhost:4000/2017/06/tip-of-the-day-devise-to-accept-extra-fields",
 		  "date"       : "2017-06-07 00:00:00 -0400",
 		  "shortdate"  : "June 07, 2017"
 		} ,
@@ -22,7 +22,7 @@
 		  "title"      : "Comunidades, una actualización necesaria.",
 		  "category"   : "UX",
       "tags"       : "chile and design",
-		  "url"        : "https://blog.nondrivendevelopment.com/2016/02/comunidades",
+		  "url"        : "http://localhost:4000/2016/02/comunidades",
 		  "date"       : "2016-02-22 00:00:00 -0300",
 		  "shortdate"  : "February 22, 2016"
 		} ,
@@ -31,7 +31,7 @@
 		  "title"      : "Comunidad sin lugares comunes, Parte 1",
 		  "category"   : "UX",
       "tags"       : "chile and design",
-		  "url"        : "https://blog.nondrivendevelopment.com/2015/10/comunidad-sin-lugares-comunes",
+		  "url"        : "http://localhost:4000/2015/10/comunidad-sin-lugares-comunes",
 		  "date"       : "2015-10-05 00:00:00 -0300",
 		  "shortdate"  : "October 05, 2015"
 		} ,
@@ -40,7 +40,7 @@
 		  "title"      : "A little explanation on Spring",
 		  "category"   : "RailsRuby",
       "tags"       : "hacking",
-		  "url"        : "https://blog.nondrivendevelopment.com/2014/12/a-little-explanation-on-spring",
+		  "url"        : "http://localhost:4000/2014/12/a-little-explanation-on-spring",
 		  "date"       : "2014-12-01 00:00:00 -0300",
 		  "shortdate"  : "December 01, 2014"
 		} ,
@@ -49,7 +49,7 @@
 		  "title"      : "Teamocil: speeding up your Tmux workflow ",
 		  "category"   : "Design",
       "tags"       : "vectors, sketch, design, and mac",
-		  "url"        : "https://blog.nondrivendevelopment.com/2014/09/speed-up-your-workflow-with-teamocil-and-tmux",
+		  "url"        : "http://localhost:4000/2014/09/speed-up-your-workflow-with-teamocil-and-tmux",
 		  "date"       : "2014-09-16 00:00:00 -0300",
 		  "shortdate"  : "September 16, 2014"
 		} ,
@@ -58,7 +58,7 @@
 		  "title"      : "Mac Sketches for everyone (!)",
 		  "category"   : "Design",
       "tags"       : "vectors, sketch, design, and mac",
-		  "url"        : "https://blog.nondrivendevelopment.com/2014/03/mac-sketches",
+		  "url"        : "http://localhost:4000/2014/03/mac-sketches",
 		  "date"       : "2014-03-02 00:00:00 -0300",
 		  "shortdate"  : "March 02, 2014"
 		} ,
@@ -67,7 +67,7 @@
 		  "title"      : "My 1st month with TDD or &quot;Why TDD is a pain in the ass but you should learn and use it anyway&quot;",
 		  "category"   : "Developer Life",
       "tags"       : "rails, ruby, tdd, and rspec",
-		  "url"        : "https://blog.nondrivendevelopment.com/2014/02/my-frist-month-with-tdd",
+		  "url"        : "http://localhost:4000/2014/02/my-frist-month-with-tdd",
 		  "date"       : "2014-02-17 00:00:00 -0300",
 		  "shortdate"  : "February 17, 2014"
 		} ,
@@ -76,7 +76,7 @@
 		  "title"      : "[HOW-TO] Añadir y testear rutas en un engine de rails cómo Spree",
 		  "category"   : "Tutorial",
       "tags"       : "rails, spree, ruby, and tdd",
-		  "url"        : "https://blog.nondrivendevelopment.com/2014/01/como-anadir-rutas-a-spree",
+		  "url"        : "http://localhost:4000/2014/01/como-anadir-rutas-a-spree",
 		  "date"       : "2014-01-29 00:00:00 -0300",
 		  "shortdate"  : "January 29, 2014"
 		} ,
@@ -85,7 +85,7 @@
 		  "title"      : "[HOW-TO] Install Android KitKat (4.4) on the Moto X (XT1058) with locked bootloader",
 		  "category"   : "Tutorial",
       "tags"       : "android, kitkat, motox, and mac",
-		  "url"        : "https://blog.nondrivendevelopment.com/2013/12/how-to-installing-kitkat-44-in-the-moto-x-xt1058-with-locked-bootloader",
+		  "url"        : "http://localhost:4000/2013/12/how-to-installing-kitkat-44-in-the-moto-x-xt1058-with-locked-bootloader",
 		  "date"       : "2013-12-18 00:00:00 -0300",
 		  "shortdate"  : "December 18, 2013"
 		} ,
@@ -94,7 +94,7 @@
 		  "title"      : "[RUBY] Creating a Gem from scratch - Day 1",
 		  "category"   : "Hacking",
       "tags"       : "Ruby and Ruby on Rails",
-		  "url"        : "https://blog.nondrivendevelopment.com/2013/08/rails-creating-a-gem-from-scratch-day-1",
+		  "url"        : "http://localhost:4000/2013/08/rails-creating-a-gem-from-scratch-day-1",
 		  "date"       : "2013-08-03 00:00:00 -0400",
 		  "shortdate"  : "August 03, 2013"
 		} ,
@@ -103,7 +103,7 @@
 		  "title"      : "[RAILS] Rename paths &amp; routes in a resource",
 		  "category"   : "Hacking",
       "tags"       : "Ruby on Rails",
-		  "url"        : "https://blog.nondrivendevelopment.com/2013/07/rails-rename-paths-and-routes-instead-of-renaming-model",
+		  "url"        : "http://localhost:4000/2013/07/rails-rename-paths-and-routes-instead-of-renaming-model",
 		  "date"       : "2013-07-16 00:00:00 -0400",
 		  "shortdate"  : "July 16, 2013"
 		} ,
@@ -112,7 +112,7 @@
 		  "title"      : "[LIFE] Pensamientos tras otro AngelHack SCL",
 		  "category"   : "Squape",
       "tags"       : "life, squape, and enterpreneurship",
-		  "url"        : "https://blog.nondrivendevelopment.com/2013/06/pensamientos-tras-otro-angelhack",
+		  "url"        : "http://localhost:4000/2013/06/pensamientos-tras-otro-angelhack",
 		  "date"       : "2013-06-05 00:00:00 -0400",
 		  "shortdate"  : "June 05, 2013"
 		} ,
@@ -121,7 +121,7 @@
 		  "title"      : "[DESIGN] Flat UI y el futuro del diseño digital",
 		  "category"   : "Design",
       "tags"       : "ui, design, and ux",
-		  "url"        : "https://blog.nondrivendevelopment.com/2013/06/flat-ui-y-el-futuro-del-diseno",
+		  "url"        : "http://localhost:4000/2013/06/flat-ui-y-el-futuro-del-diseno",
 		  "date"       : "2013-06-05 00:00:00 -0400",
 		  "shortdate"  : "June 05, 2013"
 		} ,
@@ -130,7 +130,7 @@
 		  "title"      : "[OS X] Verify Local Data on Transmission for Mac",
 		  "category"   : "HowTo",
       "tags"       : "torrents, howto, and mac",
-		  "url"        : "https://blog.nondrivendevelopment.com/2013/05/verifying-local-data-on-transmission",
+		  "url"        : "http://localhost:4000/2013/05/verifying-local-data-on-transmission",
 		  "date"       : "2013-05-18 00:00:00 -0400",
 		  "shortdate"  : "May 18, 2013"
 		} ,
@@ -139,7 +139,7 @@
 		  "title"      : "[OS X] Install Python 2.7.4 &amp; PyGame in Mountain Lion without Homebrew",
 		  "category"   : "Hacking",
       "tags"       : "utfsm, python, programacion, and mac",
-		  "url"        : "https://blog.nondrivendevelopment.com/2013/05/install-python-274-and-pygame-without-homebrew",
+		  "url"        : "http://localhost:4000/2013/05/install-python-274-and-pygame-without-homebrew",
 		  "date"       : "2013-05-15 00:00:00 -0400",
 		  "shortdate"  : "May 15, 2013"
 		} ,
@@ -148,7 +148,7 @@
 		  "title"      : "[OS X] Install pygame on OS X with a Homebrew Python 2.7 install",
 		  "category"   : "Hacking",
       "tags"       : "utfsm, python, programacion, and mac",
-		  "url"        : "https://blog.nondrivendevelopment.com/2013/05/install-pygame-mac-with-homebrew-python",
+		  "url"        : "http://localhost:4000/2013/05/install-pygame-mac-with-homebrew-python",
 		  "date"       : "2013-05-14 00:00:00 -0400",
 		  "shortdate"  : "May 14, 2013"
 		} ,
@@ -157,7 +157,7 @@
 		  "title"      : "[PYTHON] Check existence of an element inside a list",
 		  "category"   : "Hacking",
       "tags"       : "utfsm, python, and programacion",
-		  "url"        : "https://blog.nondrivendevelopment.com/2013/04/search-for-element-not-in-a-list",
+		  "url"        : "http://localhost:4000/2013/04/search-for-element-not-in-a-list",
 		  "date"       : "2013-04-16 00:00:00 -0300",
 		  "shortdate"  : "April 16, 2013"
 		} ,
@@ -166,7 +166,7 @@
 		  "title"      : "Presenting LABS",
 		  "category"   : "Hacking",
       "tags"       : "labs, python, and programacion",
-		  "url"        : "https://blog.nondrivendevelopment.com/2013/03/presenting-labs",
+		  "url"        : "http://localhost:4000/2013/03/presenting-labs",
 		  "date"       : "2013-03-30 00:00:00 -0300",
 		  "shortdate"  : "March 30, 2013"
 		} ,
@@ -175,7 +175,7 @@
 		  "title"      : "Introducing ASEO",
 		  "category"   : "Hacking",
       "tags"       : "aseo, python, and programacion",
-		  "url"        : "https://blog.nondrivendevelopment.com/2013/03/introducing-aseo",
+		  "url"        : "http://localhost:4000/2013/03/introducing-aseo",
 		  "date"       : "2013-03-22 00:00:00 -0300",
 		  "shortdate"  : "March 22, 2013"
 		} ,
@@ -184,7 +184,7 @@
 		  "title"      : "No todo el buen diseño es oro",
 		  "category"   : "Design",
       "tags"       : "ux, ui, programacion, and diseño",
-		  "url"        : "https://blog.nondrivendevelopment.com/2013/03/no-todo-el-buen-diseno-es-oro",
+		  "url"        : "http://localhost:4000/2013/03/no-todo-el-buen-diseno-es-oro",
 		  "date"       : "2013-03-21 00:00:00 -0300",
 		  "shortdate"  : "March 21, 2013"
 		} ,
@@ -193,7 +193,7 @@
 		  "title"      : "[TIP] Importar archivos *.sql desde la terminal",
 		  "category"   : "Hacking",
       "tags"       : "edoome and Trabajo",
-		  "url"        : "https://blog.nondrivendevelopment.com/2013/02/tip-mysql-file-inyection-via-terminal",
+		  "url"        : "http://localhost:4000/2013/02/tip-mysql-file-inyection-via-terminal",
 		  "date"       : "2013-02-10 00:00:00 -0300",
 		  "shortdate"  : "February 10, 2013"
 		} ,
@@ -202,7 +202,7 @@
 		  "title"      : "[EDOOME] Trabajar en un Startup",
 		  "category"   : "Proyectos",
       "tags"       : "edoome and Trabajo",
-		  "url"        : "https://blog.nondrivendevelopment.com/2013/02/edoome-trabajar-en-un-startup",
+		  "url"        : "http://localhost:4000/2013/02/edoome-trabajar-en-un-startup",
 		  "date"       : "2013-02-08 00:00:00 -0300",
 		  "shortdate"  : "February 08, 2013"
 		} ,
@@ -211,7 +211,7 @@
 		  "title"      : "[PROYECTOS] Empezando un Podcast de tecnología",
 		  "category"   : "Proyectos",
       "tags"       : "iTunes, iPad Mini, and Podcast",
-		  "url"        : "https://blog.nondrivendevelopment.com/2013/01/project-creando-un-podcast",
+		  "url"        : "http://localhost:4000/2013/01/project-creando-un-podcast",
 		  "date"       : "2013-01-20 00:00:00 -0300",
 		  "shortdate"  : "January 20, 2013"
 		} ,
@@ -220,7 +220,7 @@
 		  "title"      : "[REVIEW] iPad Mini",
 		  "category"   : "Review",
       "tags"       : "iOS, iPad Mini, and Gadgets",
-		  "url"        : "https://blog.nondrivendevelopment.com/2012/12/review-ipad-mini",
+		  "url"        : "http://localhost:4000/2012/12/review-ipad-mini",
 		  "date"       : "2012-12-29 00:00:00 -0300",
 		  "shortdate"  : "December 29, 2012"
 		} ,
@@ -229,7 +229,7 @@
 		  "title"      : "[HACKING] Renaming a Rails app",
 		  "category"   : "Hacking",
       "tags"       : "Hackathon, AngelHackSCL, and BikeTripin",
-		  "url"        : "https://blog.nondrivendevelopment.com/2012/11/rails-rename-a-rails-app",
+		  "url"        : "http://localhost:4000/2012/11/rails-rename-a-rails-app",
 		  "date"       : "2012-11-26 00:00:00 -0300",
 		  "shortdate"  : "November 26, 2012"
 		} ,
@@ -238,7 +238,7 @@
 		  "title"      : "[HACKING] Preparando Angel Hack",
 		  "category"   : "Hacking",
       "tags"       : "Hackathon and AngelHackSCL",
-		  "url"        : "https://blog.nondrivendevelopment.com/2012/11/preparando-angel-hack",
+		  "url"        : "http://localhost:4000/2012/11/preparando-angel-hack",
 		  "date"       : "2012-11-22 00:00:00 -0300",
 		  "shortdate"  : "November 22, 2012"
 		} ,
@@ -247,7 +247,7 @@
 		  "title"      : "[Fedora 18] Fix &quot;libudev.so.0&quot; requirement for Google Chrome / Chromium",
 		  "category"   : "Linux",
       "tags"       : "Fedora, Rawhide, RPMFusion, and YUM",
-		  "url"        : "https://blog.nondrivendevelopment.com/2012/09/fedora-18-fix-libudev0-requirement-for-google-chrome",
+		  "url"        : "http://localhost:4000/2012/09/fedora-18-fix-libudev0-requirement-for-google-chrome",
 		  "date"       : "2012-09-21 00:00:00 -0300",
 		  "shortdate"  : "September 21, 2012"
 		} ,
@@ -256,7 +256,7 @@
 		  "title"      : "[Fedora] Update from Stable to Rawhide via Yum",
 		  "category"   : "Linux",
       "tags"       : "Fedora, Rawhide, RPMFusion, and YUM",
-		  "url"        : "https://blog.nondrivendevelopment.com/2012/09/fedora-update-via-yum-from-stable-to-rawhide",
+		  "url"        : "http://localhost:4000/2012/09/fedora-update-via-yum-from-stable-to-rawhide",
 		  "date"       : "2012-09-19 00:00:00 -0300",
 		  "shortdate"  : "September 19, 2012"
 		} ,
@@ -265,7 +265,7 @@
 		  "title"      : "Y nos fuimos a Jekyll",
 		  "category"   : "Jekyll",
       "tags"       : "blog, jekyll, and ruby",
-		  "url"        : "https://blog.nondrivendevelopment.com/2012/08/y-nos-fuimos-a-jekyll",
+		  "url"        : "http://localhost:4000/2012/08/y-nos-fuimos-a-jekyll",
 		  "date"       : "2012-08-27 00:00:00 -0400",
 		  "shortdate"  : "August 27, 2012"
 		} ,
@@ -274,7 +274,7 @@
 		  "title"      : "[TIP] Android: Take screenshots with the Android SDK",
 		  "category"   : "Linux",
       "tags"       : "android, deploy, desarrollo, linux, programacion, and sdk",
-		  "url"        : "https://blog.nondrivendevelopment.com/2012/07/tip-android-take-screenshots-with-the-android-sdk",
+		  "url"        : "http://localhost:4000/2012/07/tip-android-take-screenshots-with-the-android-sdk",
 		  "date"       : "2012-07-22 00:00:00 -0400",
 		  "shortdate"  : "July 22, 2012"
 		} ,
@@ -283,7 +283,7 @@
 		  "title"      : "[TIP] iOS: Set an icon for Safari Mobile Web Apps",
 		  "category"   : "Hacking",
       "tags"       : "css, html, ios, mac, programacion, and rails",
-		  "url"        : "https://blog.nondrivendevelopment.com/2012/07/ios-set-an-icon-for-safari-mobile-web-apps",
+		  "url"        : "http://localhost:4000/2012/07/ios-set-an-icon-for-safari-mobile-web-apps",
 		  "date"       : "2012-07-16 00:00:00 -0400",
 		  "shortdate"  : "July 16, 2012"
 		} ,
@@ -292,7 +292,7 @@
 		  "title"      : "[TIP] LINUX: Set-up a service to start on boot",
 		  "category"   : "Linux",
       "tags"       : "apache, bash, linux, mysql, postgre, rails, servers, service start, and Terminal",
-		  "url"        : "https://blog.nondrivendevelopment.com/2012/07/set-up-a-service-to-start-on-boot",
+		  "url"        : "http://localhost:4000/2012/07/set-up-a-service-to-start-on-boot",
 		  "date"       : "2012-07-15 00:00:00 -0400",
 		  "shortdate"  : "July 15, 2012"
 		} ,
@@ -301,7 +301,7 @@
 		  "title"      : "[HEROKU] Configuración de DNS desde CPANEL",
 		  "category"   : "Hacking",
       "tags"       : "cpanel, dns, heroku, mockingbird, and rails",
-		  "url"        : "https://blog.nondrivendevelopment.com/2012/07/heroku-configuracion-de-dns-desde-cpanel",
+		  "url"        : "http://localhost:4000/2012/07/heroku-configuracion-de-dns-desde-cpanel",
 		  "date"       : "2012-07-08 00:00:00 -0400",
 		  "shortdate"  : "July 08, 2012"
 		} ,
@@ -310,7 +310,7 @@
 		  "title"      : "[HACKING] Mockingbird Dev",
 		  "category"   : "Hacking",
       "tags"       : "design, mockingbird, rails, and ruby",
-		  "url"        : "https://blog.nondrivendevelopment.com/2012/07/hacking-mockingbird-dev",
+		  "url"        : "http://localhost:4000/2012/07/hacking-mockingbird-dev",
 		  "date"       : "2012-07-03 00:00:00 -0400",
 		  "shortdate"  : "July 03, 2012"
 		} ,
@@ -319,7 +319,7 @@
 		  "title"      : "[ENSAYO] Explotación laboral en China y el compromiso de Occidente ",
 		  "category"   : "Off-Topic",
       "tags"       : "china, ensayo, explotacion, and sociologia",
-		  "url"        : "https://blog.nondrivendevelopment.com/2012/07/ensayo-explotacion-laboral-en-china-y-el-compromiso-de-occidente",
+		  "url"        : "http://localhost:4000/2012/07/ensayo-explotacion-laboral-en-china-y-el-compromiso-de-occidente",
 		  "date"       : "2012-07-01 00:00:00 -0400",
 		  "shortdate"  : "July 01, 2012"
 		} ,
@@ -328,7 +328,7 @@
 		  "title"      : "Skype 4.0 for Linux - Algo huele mal (y no es Microsoft)",
 		  "category"   : "Linux",
       "tags"       : "Fedora, linux, Linux 4, Microsoft, Skype, and UI/UX",
-		  "url"        : "https://blog.nondrivendevelopment.com/2012/06/skype-4-0-for-linux-algo-huele-mal-y-no-es-microsoft",
+		  "url"        : "http://localhost:4000/2012/06/skype-4-0-for-linux-algo-huele-mal-y-no-es-microsoft",
 		  "date"       : "2012-06-16 00:00:00 -0400",
 		  "shortdate"  : "June 16, 2012"
 		} ,
@@ -337,7 +337,7 @@
 		  "title"      : "Ruby on Rails: Iniciar una nueva app - Comandos útiles",
 		  "category"   : "Hacking",
       "tags"       : "rails, ruby, ruby on rails, and tutoriales",
-		  "url"        : "https://blog.nondrivendevelopment.com/2012/06/ruby-on-rails-iniciar-una-nueva-app-comandos-utiles",
+		  "url"        : "http://localhost:4000/2012/06/ruby-on-rails-iniciar-una-nueva-app-comandos-utiles",
 		  "date"       : "2012-06-16 00:00:00 -0400",
 		  "shortdate"  : "June 16, 2012"
 		} ,
@@ -346,7 +346,7 @@
 		  "title"      : "[TIP] Set a “.dev” domain for your project",
 		  "category"   : "Hacking",
       "tags"       : "domains, hosts, and servers",
-		  "url"        : "https://blog.nondrivendevelopment.com/2012/05/tip-set-a-dev-domain-for-your-project",
+		  "url"        : "http://localhost:4000/2012/05/tip-set-a-dev-domain-for-your-project",
 		  "date"       : "2012-05-06 00:00:00 -0400",
 		  "shortdate"  : "May 06, 2012"
 		} ,
@@ -355,7 +355,7 @@
 		  "title"      : "[Fedora 17] Set Ruby on Rails and make it work",
 		  "category"   : "Linux",
       "tags"       : "Fedora, mysql, rails, ruby on rails, and rvm",
-		  "url"        : "https://blog.nondrivendevelopment.com/2012/04/fedora-17-set-ruby-on-rails-and-make-it-work",
+		  "url"        : "http://localhost:4000/2012/04/fedora-17-set-ruby-on-rails-and-make-it-work",
 		  "date"       : "2012-04-01 00:00:00 -0300",
 		  "shortdate"  : "April 01, 2012"
 		} ,
@@ -364,7 +364,7 @@
 		  "title"      : "Centaurus: Python, GTK+ &amp; WebKit Simple Web Browser",
 		  "category"   : "Hacking",
       "tags"       : "centaurus, fork, git, github, gtk+, python, and webkit",
-		  "url"        : "https://blog.nondrivendevelopment.com/2011/11/centaurus-python-gtk-webkit-simple-web-browser",
+		  "url"        : "http://localhost:4000/2011/11/centaurus-python-gtk-webkit-simple-web-browser",
 		  "date"       : "2011-11-12 00:00:00 -0300",
 		  "shortdate"  : "November 12, 2011"
 		} ,
@@ -373,7 +373,7 @@
 		  "title"      : "Adwaita Dark para Gnome 3",
 		  "category"   : "Design",
       "tags"       : "GNOME 3, linux, temas, and Terminal",
-		  "url"        : "https://blog.nondrivendevelopment.com/2011/10/adwaita-dark-para-gnome-3",
+		  "url"        : "http://localhost:4000/2011/10/adwaita-dark-para-gnome-3",
 		  "date"       : "2011-10-19 00:00:00 -0300",
 		  "shortdate"  : "October 19, 2011"
 		} ,
@@ -382,7 +382,7 @@
 		  "title"      : "Reemplazando &quot;Actividades&quot; por el ícono de tu distro",
 		  "category"   : "Linux",
       "tags"       : "Fedora, GNOME 3, Gnome-Shell, and linux",
-		  "url"        : "https://blog.nondrivendevelopment.com/2011/10/reemplazando-actividades-por-el-icono-de-tu-distro",
+		  "url"        : "http://localhost:4000/2011/10/reemplazando-actividades-por-el-icono-de-tu-distro",
 		  "date"       : "2011-10-12 00:00:00 -0300",
 		  "shortdate"  : "October 12, 2011"
 		} ,
@@ -391,7 +391,7 @@
 		  "title"      : "A partir de hoy también en Patatux.net",
 		  "category"   : "Off-Topic",
       "tags"       : "Off-Topic",
-		  "url"        : "https://blog.nondrivendevelopment.com/2011/10/a-partir-de-hoy-tambien-en-patatux-net",
+		  "url"        : "http://localhost:4000/2011/10/a-partir-de-hoy-tambien-en-patatux-net",
 		  "date"       : "2011-10-11 00:00:00 -0300",
 		  "shortdate"  : "October 11, 2011"
 		} ,
@@ -400,7 +400,7 @@
 		  "title"      : "Un mes al aire",
 		  "category"   : "Off-Topic",
       "tags"       : "Estadísticas, Infos, and Off-Topic",
-		  "url"        : "https://blog.nondrivendevelopment.com/2011/10/un-mes-al-aire",
+		  "url"        : "http://localhost:4000/2011/10/un-mes-al-aire",
 		  "date"       : "2011-10-10 00:00:00 -0300",
 		  "shortdate"  : "October 10, 2011"
 		} 

@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Felipe Cabargas's NDD</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="https://blog.nondrivendevelopment.com/feed.xml" />
-<link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com" />
-<updated>2017-06-09T03:35:09-04:00</updated>
-<id>https://blog.nondrivendevelopment.com/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2017-06-09T03:59:18-04:00</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name></name>
-  <uri>https://blog.nondrivendevelopment.com/</uri>
+  <uri>http://localhost:4000/</uri>
   
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[[Daily Tip] How to force existing column to contain data in Rails]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2017/06/tip-of-the-day-not-null-columns-ror" />
-  <id>https://blog.nondrivendevelopment.com/2017/06/tip-of-the-day-not-null-columns-ror</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2017/06/tip-of-the-day-not-null-columns-ror" />
+  <id>http://localhost:4000/2017/06/tip-of-the-day-not-null-columns-ror</id>
   <published>2017-06-08T00:00:00-04:00</published>
   <updated>2017-06-08T00:00:00-04:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;First, create an empty migration, either by hand or using &lt;code class=&quot;highlighter-rouge&quot;&gt;bin/rails g&lt;/code&gt;. Then use the &lt;code class=&quot;highlighter-rouge&quot;&gt;change_column_null&lt;/code&gt; handle:&lt;/p&gt;
@@ -36,19 +36,19 @@
 
 &lt;p&gt;Save the changes and migrate (&lt;code class=&quot;highlighter-rouge&quot;&gt;bin/rails db:migrate&lt;/code&gt;). Voila! The target column now requires content. Remember to update existing records to reflect this validation.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2017/06/tip-of-the-day-not-null-columns-ror&quot;&gt;[Daily Tip] How to force existing column to contain data in Rails&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on June 08, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2017/06/tip-of-the-day-not-null-columns-ror&quot;&gt;[Daily Tip] How to force existing column to contain data in Rails&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on June 08, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[[Daily Tip] How to add extra fields during user registration with Devise]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2017/06/tip-of-the-day-devise-to-accept-extra-fields" />
-  <id>https://blog.nondrivendevelopment.com/2017/06/tip-of-the-day-devise-to-accept-extra-fields</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2017/06/tip-of-the-day-devise-to-accept-extra-fields" />
+  <id>http://localhost:4000/2017/06/tip-of-the-day-devise-to-accept-extra-fields</id>
   <published>2017-06-07T00:00:00-04:00</published>
   <updated>2017-06-07T00:00:00-04:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Let’s use the ‘twitter clone’ example from the rails tutorial. The Twitter registration is different, because it not only requires an &lt;code class=&quot;highlighter-rouge&quot;&gt;email&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;password&lt;/code&gt; but also a &lt;code class=&quot;highlighter-rouge&quot;&gt;username&lt;/code&gt;. Here is how you can add this extra field to your code:&lt;/p&gt;
@@ -102,19 +102,19 @@
 
 &lt;p&gt;Done! Restart your server and visit the sign up page (generally &lt;code class=&quot;highlighter-rouge&quot;&gt;/users/sign_up&lt;/code&gt;).&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2017/06/tip-of-the-day-devise-to-accept-extra-fields&quot;&gt;[Daily Tip] How to add extra fields during user registration with Devise&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on June 07, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2017/06/tip-of-the-day-devise-to-accept-extra-fields&quot;&gt;[Daily Tip] How to add extra fields during user registration with Devise&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on June 07, 2017.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Comunidades, una actualización necesaria.]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2016/02/comunidades" />
-  <id>https://blog.nondrivendevelopment.com/2016/02/comunidades</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2016/02/comunidades" />
+  <id>http://localhost:4000/2016/02/comunidades</id>
   <published>2016-02-22T00:00:00-03:00</published>
   <updated>2016-02-22T00:00:00-03:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Por Octubre de 2015 escribí “&lt;a href=&quot;http://blog.nondrivendevelopment.com/2015/10/comunidad-sin-lugares-comunes/&quot;&gt;Comunidad sin lugares comunes&lt;/a&gt;” y sigo manteniendo lo ahí dicho. Pero cómo la &lt;em&gt;Parte 2&lt;/em&gt; nunca se publicó, creo que es momento de volver a revisar las posiciones de ese artículo y taclear de paso las opciones que tenemos como comunidad de desarrolladores.&lt;/p&gt;
@@ -210,19 +210,19 @@
 
 &lt;p&gt;La comunidad se divide en vez de unirse. Generemos contenido libre y aprendamos a trabajar todos en pos de nuestro ambiente. Abramos nuestros recursos a regiones y seamos un soporte directo a las minorías que necesitan tener espacios en esta discusión.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2016/02/comunidades&quot;&gt;Comunidades, una actualización necesaria.&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on February 22, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/02/comunidades&quot;&gt;Comunidades, una actualización necesaria.&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on February 22, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Comunidad sin lugares comunes, Parte 1]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2015/10/comunidad-sin-lugares-comunes" />
-  <id>https://blog.nondrivendevelopment.com/2015/10/comunidad-sin-lugares-comunes</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/10/comunidad-sin-lugares-comunes" />
+  <id>http://localhost:4000/2015/10/comunidad-sin-lugares-comunes</id>
   <published>2015-10-05T00:00:00-03:00</published>
   <updated>2015-10-05T00:00:00-03:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;##Parte 1 - The Chilean Way&lt;/p&gt;
@@ -253,19 +253,19 @@
 
 &lt;p&gt;No podemos permitirnos ese lujo más, la necesidad de especialistas que &lt;em&gt;realmente sepan&lt;/em&gt; nos hace imperiosa la tarea de dejar individualismos, unir esfuerzos, botar oportunidades de negocio entre colegas y apoyarnos de una vez por todas para sacarnos del fondo de la lista. Porque como empecé diciendo, hacemos todo a medias, incluído el software.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2015/10/comunidad-sin-lugares-comunes&quot;&gt;Comunidad sin lugares comunes, Parte 1&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on October 05, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/10/comunidad-sin-lugares-comunes&quot;&gt;Comunidad sin lugares comunes, Parte 1&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on October 05, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[A little explanation on Spring]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2014/12/a-little-explanation-on-spring" />
-  <id>https://blog.nondrivendevelopment.com/2014/12/a-little-explanation-on-spring</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2014/12/a-little-explanation-on-spring" />
+  <id>http://localhost:4000/2014/12/a-little-explanation-on-spring</id>
   <published>2014-12-01T00:00:00-03:00</published>
   <updated>2014-12-01T00:00:00-03:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;#Spring Sucks&lt;/p&gt;
@@ -352,19 +352,19 @@ bundle exec rake db:create
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2014/12/a-little-explanation-on-spring&quot;&gt;A little explanation on Spring&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on December 01, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2014/12/a-little-explanation-on-spring&quot;&gt;A little explanation on Spring&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on December 01, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Teamocil: speeding up your Tmux workflow ]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2014/09/speed-up-your-workflow-with-teamocil-and-tmux" />
-  <id>https://blog.nondrivendevelopment.com/2014/09/speed-up-your-workflow-with-teamocil-and-tmux</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2014/09/speed-up-your-workflow-with-teamocil-and-tmux" />
+  <id>http://localhost:4000/2014/09/speed-up-your-workflow-with-teamocil-and-tmux</id>
   <published>2014-09-16T00:00:00-03:00</published>
   <updated>2014-09-16T00:00:00-03:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;This week I started using &lt;a href=&quot;http://tmux.sourceforge.net/&quot;&gt;tmux&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://www.vim.org/&quot;&gt;vim&lt;/a&gt; on top of ZSH as my default editor. I was looking for the right time to drop the mouse use, and I fell in love with vim+tmux after seeing a lot of screencasts and speechs about the great power of using a command-line based editor.&lt;/p&gt;
@@ -423,19 +423,19 @@ teamocil --edit session-name
 &lt;p&gt;I hope you guys learned something on this little article, and I’m also pleased to tell you that I’m publishing all my dotfiles on GitHub, for you to download. Also, I published my custom terminal themes &amp;amp; color palettes so feel free to use them.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2014/09/speed-up-your-workflow-with-teamocil-and-tmux&quot;&gt;Teamocil: speeding up your Tmux workflow &lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on September 16, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2014/09/speed-up-your-workflow-with-teamocil-and-tmux&quot;&gt;Teamocil: speeding up your Tmux workflow &lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on September 16, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Mac Sketches for everyone (!)]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2014/03/mac-sketches" />
-  <id>https://blog.nondrivendevelopment.com/2014/03/mac-sketches</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2014/03/mac-sketches" />
+  <id>http://localhost:4000/2014/03/mac-sketches</id>
   <published>2014-03-02T00:00:00-03:00</published>
   <updated>2014-03-02T00:00:00-03:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://cabargas.com/images/MacSketches@2x.png&quot;&gt;&lt;img src=&quot;http://cabargas.com/images/MacSketches@2x.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -464,19 +464,19 @@ teamocil --edit session-name
 &lt;/ol&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2014/03/mac-sketches&quot;&gt;Mac Sketches for everyone (!)&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on March 02, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2014/03/mac-sketches&quot;&gt;Mac Sketches for everyone (!)&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on March 02, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[My 1st month with TDD or "Why TDD is a pain in the ass but you should learn and use it anyway"]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2014/02/my-frist-month-with-tdd" />
-  <id>https://blog.nondrivendevelopment.com/2014/02/my-frist-month-with-tdd</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2014/02/my-frist-month-with-tdd" />
+  <id>http://localhost:4000/2014/02/my-frist-month-with-tdd</id>
   <published>2014-02-17T00:00:00-03:00</published>
   <updated>2014-02-17T00:00:00-03:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;This story begins with a developer, 1 month ago who didn’t write a single test in his life (Me). In it’s first day at his &lt;a href=&quot;http://acid.cl&quot;&gt;new work&lt;/a&gt;, his Project Leader gives him a tremendous brief on how use Git and Rspec. The first part of the brief is another history, but the second was just a glance of what all TDD means.&lt;/p&gt;
@@ -500,19 +500,19 @@ teamocil --edit session-name
 
 &lt;p&gt;P.S.: BTW I will write another post with a simple guide to get started with TDD this week, stay tunned and download the Android app, some day I will write Push Notifications on that thing.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2014/02/my-frist-month-with-tdd&quot;&gt;My 1st month with TDD or "Why TDD is a pain in the ass but you should learn and use it anyway"&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on February 17, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2014/02/my-frist-month-with-tdd&quot;&gt;My 1st month with TDD or "Why TDD is a pain in the ass but you should learn and use it anyway"&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on February 17, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[[HOW-TO] Añadir y testear rutas en un engine de rails cómo Spree]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2014/01/como-anadir-rutas-a-spree" />
-  <id>https://blog.nondrivendevelopment.com/2014/01/como-anadir-rutas-a-spree</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2014/01/como-anadir-rutas-a-spree" />
+  <id>http://localhost:4000/2014/01/como-anadir-rutas-a-spree</id>
   <published>2014-01-29T00:00:00-03:00</published>
   <updated>2014-01-29T00:00:00-03:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Cómo siempre, para añadir nuevas rutas, se deben añadir con los correspondientes métodos al &lt;code class=&quot;highlighter-rouge&quot;&gt;config/routes.rb&lt;/code&gt;. En el caso de &lt;strong&gt;Spree&lt;/strong&gt; estas rutas no deben dibujarse en &lt;code class=&quot;highlighter-rouge&quot;&gt;Rails.application.routes&lt;/code&gt; si no que en &lt;code class=&quot;highlighter-rouge&quot;&gt;Spree::Core:Engine.routes&lt;/code&gt;; así, para añadir un modelo CRUD al panel de administrador de la plataforma:&lt;/p&gt;
@@ -567,19 +567,19 @@ Routes &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;Spree::Core::Engine:
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2014/01/como-anadir-rutas-a-spree&quot;&gt;[HOW-TO] Añadir y testear rutas en un engine de rails cómo Spree&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on January 29, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2014/01/como-anadir-rutas-a-spree&quot;&gt;[HOW-TO] Añadir y testear rutas en un engine de rails cómo Spree&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on January 29, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[[HOW-TO] Install Android KitKat (4.4) on the Moto X (XT1058) with locked bootloader]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2013/12/how-to-installing-kitkat-44-in-the-moto-x-xt1058-with-locked-bootloader" />
-  <id>https://blog.nondrivendevelopment.com/2013/12/how-to-installing-kitkat-44-in-the-moto-x-xt1058-with-locked-bootloader</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/12/how-to-installing-kitkat-44-in-the-moto-x-xt1058-with-locked-bootloader" />
+  <id>http://localhost:4000/2013/12/how-to-installing-kitkat-44-in-the-moto-x-xt1058-with-locked-bootloader</id>
   <published>2013-12-18T00:00:00-03:00</published>
   <updated>2013-12-18T00:00:00-03:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://cabargas.com/images/kitkat.png&quot;&gt;&lt;img src=&quot;http://cabargas.com/images/kitkat.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -641,19 +641,19 @@ bash flashall.sh
 &lt;/ol&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2013/12/how-to-installing-kitkat-44-in-the-moto-x-xt1058-with-locked-bootloader&quot;&gt;[HOW-TO] Install Android KitKat (4.4) on the Moto X (XT1058) with locked bootloader&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on December 18, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/12/how-to-installing-kitkat-44-in-the-moto-x-xt1058-with-locked-bootloader&quot;&gt;[HOW-TO] Install Android KitKat (4.4) on the Moto X (XT1058) with locked bootloader&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on December 18, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[[RUBY] Creating a Gem from scratch - Day 1]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2013/08/rails-creating-a-gem-from-scratch-day-1" />
-  <id>https://blog.nondrivendevelopment.com/2013/08/rails-creating-a-gem-from-scratch-day-1</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/08/rails-creating-a-gem-from-scratch-day-1" />
+  <id>http://localhost:4000/2013/08/rails-creating-a-gem-from-scratch-day-1</id>
   <published>2013-08-03T00:00:00-04:00</published>
   <updated>2013-08-03T00:00:00-04:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;Aquí se relata cómo crear una gema desde 0, y no pretende ser una guía sino más bien una bitácora que ayude a sortear errores típicos de este proceso. Para usar Jeweler u “scaffolds” de generación siéntase libre de Googlear (!)&lt;/em&gt;&lt;/p&gt;
@@ -728,19 +728,19 @@ bash flashall.sh
 &lt;p&gt;Definitivamente no es mi proyecto prioritario por ahora, pero no lo dejaré de lado y los mantendré al tanto.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2013/08/rails-creating-a-gem-from-scratch-day-1&quot;&gt;[RUBY] Creating a Gem from scratch - Day 1&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on August 03, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/08/rails-creating-a-gem-from-scratch-day-1&quot;&gt;[RUBY] Creating a Gem from scratch - Day 1&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on August 03, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[[RAILS] Rename paths & routes in a resource]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2013/07/rails-rename-paths-and-routes-instead-of-renaming-model" />
-  <id>https://blog.nondrivendevelopment.com/2013/07/rails-rename-paths-and-routes-instead-of-renaming-model</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/07/rails-rename-paths-and-routes-instead-of-renaming-model" />
+  <id>http://localhost:4000/2013/07/rails-rename-paths-and-routes-instead-of-renaming-model</id>
   <published>2013-07-16T00:00:00-04:00</published>
   <updated>2013-07-16T00:00:00-04:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Como parte de mi nuevo trabajo en FOSUBO - ganador del AngelHack Spring 2013 SCL - me ha tocado hacer varios cambios en el modelo de datos, y uno de esos implicaba pasar de Members a POSs en las rutas (por temas de consistencia).&lt;/p&gt;
@@ -777,19 +777,19 @@ bash flashall.sh
 
 &lt;p&gt;Con esta sencilla línea de código nos ahorramos muchísimo tiempo de renaming y evitamos inconsistencias entre archivos. Espero que les sirva&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2013/07/rails-rename-paths-and-routes-instead-of-renaming-model&quot;&gt;[RAILS] Rename paths & routes in a resource&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on July 16, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/07/rails-rename-paths-and-routes-instead-of-renaming-model&quot;&gt;[RAILS] Rename paths & routes in a resource&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on July 16, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[[LIFE] Pensamientos tras otro AngelHack SCL]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2013/06/pensamientos-tras-otro-angelhack" />
-  <id>https://blog.nondrivendevelopment.com/2013/06/pensamientos-tras-otro-angelhack</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/06/pensamientos-tras-otro-angelhack" />
+  <id>http://localhost:4000/2013/06/pensamientos-tras-otro-angelhack</id>
   <published>2013-06-05T00:00:00-04:00</published>
   <updated>2013-06-05T00:00:00-04:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://cabargas.com/images/angelhack.png&quot;&gt;&lt;img src=&quot;http://cabargas.com/images/angelhack.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -827,19 +827,19 @@ bash flashall.sh
 &lt;p&gt;Igualmente eso sí, extraño una hackathon donde el HACK sea el importante, porque hasta hoy podría llamarse AngelHustling y calzaría perfecto. Nos falta eso.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2013/06/pensamientos-tras-otro-angelhack&quot;&gt;[LIFE] Pensamientos tras otro AngelHack SCL&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on June 05, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/06/pensamientos-tras-otro-angelhack&quot;&gt;[LIFE] Pensamientos tras otro AngelHack SCL&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on June 05, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[[DESIGN] Flat UI y el futuro del diseño digital]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2013/06/flat-ui-y-el-futuro-del-diseno" />
-  <id>https://blog.nondrivendevelopment.com/2013/06/flat-ui-y-el-futuro-del-diseno</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/06/flat-ui-y-el-futuro-del-diseno" />
+  <id>http://localhost:4000/2013/06/flat-ui-y-el-futuro-del-diseno</id>
   <published>2013-06-05T00:00:00-04:00</published>
   <updated>2013-06-05T00:00:00-04:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://cabargas.com/images/raffl.png&quot;&gt;&lt;img src=&quot;http://cabargas.com/images/raffl.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -857,19 +857,19 @@ bash flashall.sh
 &lt;p&gt;Atenti!&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2013/06/flat-ui-y-el-futuro-del-diseno&quot;&gt;[DESIGN] Flat UI y el futuro del diseño digital&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on June 05, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/06/flat-ui-y-el-futuro-del-diseno&quot;&gt;[DESIGN] Flat UI y el futuro del diseño digital&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on June 05, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[[OS X] Verify Local Data on Transmission for Mac]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2013/05/verifying-local-data-on-transmission" />
-  <id>https://blog.nondrivendevelopment.com/2013/05/verifying-local-data-on-transmission</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/05/verifying-local-data-on-transmission" />
+  <id>http://localhost:4000/2013/05/verifying-local-data-on-transmission</id>
   <published>2013-05-18T00:00:00-04:00</published>
   <updated>2013-05-18T00:00:00-04:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://cabargas.com/images/transmission.png&quot;&gt;&lt;img src=&quot;http://cabargas.com/images/transmission.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -897,19 +897,19 @@ bash flashall.sh
 &lt;p&gt;Espero que este tip les haya sido tan útil como a mi. Un saludo a todos.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2013/05/verifying-local-data-on-transmission&quot;&gt;[OS X] Verify Local Data on Transmission for Mac&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on May 18, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/05/verifying-local-data-on-transmission&quot;&gt;[OS X] Verify Local Data on Transmission for Mac&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on May 18, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[[OS X] Install Python 2.7.4 & PyGame in Mountain Lion without Homebrew]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2013/05/install-python-274-and-pygame-without-homebrew" />
-  <id>https://blog.nondrivendevelopment.com/2013/05/install-python-274-and-pygame-without-homebrew</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/05/install-python-274-and-pygame-without-homebrew" />
+  <id>http://localhost:4000/2013/05/install-python-274-and-pygame-without-homebrew</id>
   <published>2013-05-15T00:00:00-04:00</published>
   <updated>2013-05-15T00:00:00-04:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://cabargas.com/images/pygame.png&quot;&gt;&lt;img src=&quot;http://cabargas.com/images/pygame.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -946,19 +946,19 @@ bash flashall.sh
 &lt;p&gt;Tras todo esto ya deberían poder hacer import del módulo ‘pygame’ normalmente. Pueden remover el directorio pygame-1.9.1release.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2013/05/install-python-274-and-pygame-without-homebrew&quot;&gt;[OS X] Install Python 2.7.4 & PyGame in Mountain Lion without Homebrew&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on May 15, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/05/install-python-274-and-pygame-without-homebrew&quot;&gt;[OS X] Install Python 2.7.4 & PyGame in Mountain Lion without Homebrew&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on May 15, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[[OS X] Install pygame on OS X with a Homebrew Python 2.7 install]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2013/05/install-pygame-mac-with-homebrew-python" />
-  <id>https://blog.nondrivendevelopment.com/2013/05/install-pygame-mac-with-homebrew-python</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/05/install-pygame-mac-with-homebrew-python" />
+  <id>http://localhost:4000/2013/05/install-pygame-mac-with-homebrew-python</id>
   <published>2013-05-14T00:00:00-04:00</published>
   <updated>2013-05-14T00:00:00-04:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://cabargas.com/images/pygame.png&quot;&gt;&lt;img src=&quot;http://cabargas.com/images/pygame.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -1001,19 +1001,19 @@ sudo python setup.py install
 &lt;p&gt;Tras todo esto ya deberían poder hacer import del módulo ‘pygame’ normalmente. Pueden remover el directorio pygame-1.9.1release.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2013/05/install-pygame-mac-with-homebrew-python&quot;&gt;[OS X] Install pygame on OS X with a Homebrew Python 2.7 install&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on May 14, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/05/install-pygame-mac-with-homebrew-python&quot;&gt;[OS X] Install pygame on OS X with a Homebrew Python 2.7 install&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on May 14, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[[PYTHON] Check existence of an element inside a list]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2013/04/search-for-element-not-in-a-list" />
-  <id>https://blog.nondrivendevelopment.com/2013/04/search-for-element-not-in-a-list</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/04/search-for-element-not-in-a-list" />
+  <id>http://localhost:4000/2013/04/search-for-element-not-in-a-list</id>
   <published>2013-04-16T00:00:00-03:00</published>
   <updated>2013-04-16T00:00:00-03:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://cabargas.com/images/tortuga.png&quot;&gt;&lt;img src=&quot;http://cabargas.com/images/tortuga.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -1051,19 +1051,19 @@ sudo python setup.py install
 &lt;/div&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2013/04/search-for-element-not-in-a-list&quot;&gt;[PYTHON] Check existence of an element inside a list&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on April 16, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/04/search-for-element-not-in-a-list&quot;&gt;[PYTHON] Check existence of an element inside a list&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on April 16, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Presenting LABS]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2013/03/presenting-labs" />
-  <id>https://blog.nondrivendevelopment.com/2013/03/presenting-labs</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/03/presenting-labs" />
+  <id>http://localhost:4000/2013/03/presenting-labs</id>
   <published>2013-03-30T00:00:00-03:00</published>
   <updated>2013-03-30T00:00:00-03:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://cabargas.com/images/labs.png&quot;&gt;&lt;img src=&quot;http://cabargas.com/images/labs.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -1077,19 +1077,19 @@ sudo python setup.py install
 &lt;p&gt;Un abrazo y (si tiene tiempo) péguese una vuelta por allá. Queda cordialmente invitado.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2013/03/presenting-labs&quot;&gt;Presenting LABS&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on March 30, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/03/presenting-labs&quot;&gt;Presenting LABS&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on March 30, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Introducing ASEO]]></title>
-  <link rel="alternate" type="text/html" href="https://blog.nondrivendevelopment.com/2013/03/introducing-aseo" />
-  <id>https://blog.nondrivendevelopment.com/2013/03/introducing-aseo</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/03/introducing-aseo" />
+  <id>http://localhost:4000/2013/03/introducing-aseo</id>
   <published>2013-03-22T00:00:00-03:00</published>
   <updated>2013-03-22T00:00:00-03:00</updated>
   <author>
     <name>Felipe Cabargas</name>
-    <uri>https://blog.nondrivendevelopment.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>felipe.cabargas@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://cabargas.com/images/aseo1.png&quot;&gt;&lt;img src=&quot;http://cabargas.com/images/aseo1.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -1109,7 +1109,7 @@ sudo python setup.py install
 &lt;p&gt;Espero les sirva. Siéntanse libres de modificarlo (porfavor con forks para hacer pull request de nuevas funciones o mejoras). Un abrazo!&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.nondrivendevelopment.com/2013/03/introducing-aseo&quot;&gt;Introducing ASEO&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;https://blog.nondrivendevelopment.com&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on March 22, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/03/introducing-aseo&quot;&gt;Introducing ASEO&lt;/a&gt; was originally published by Felipe Cabargas at &lt;a href=&quot;http://localhost:4000&quot;&gt;Felipe Cabargas's NDD&lt;/a&gt; on March 22, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>

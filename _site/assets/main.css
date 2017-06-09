@@ -79,8 +79,8 @@ body {
   position: absolute;
   max-width: 500px;
   max-height: 500px;
-  top: 133px;
-  left: 74px;
+  top: -55px;
+  left: 7px;
   z-index: -1;
   opacity: 0;
   transition: opacity 500ms; }
@@ -137,17 +137,17 @@ body {
     display: block;
     opacity: 0.5; }
   .row__post:nth-child(2n) .row__img {
-    top: 40px;
-    left: 217px; }
+    top: -2px;
+    left: 468px; }
   .row__post:nth-child(3n) .row__img {
-    top: -3px;
-    left: 233px; }
+    top: 175px;
+    left: 196px; }
   .row__post:nth-child(4n) .row__img {
-    top: -8px;
-    left: 52px; }
+    top: 66px;
+    left: 46px; }
   .row__post:nth-child(5n) .row__img {
-    top: 68px;
-    left: 383px; } }
+    top: -142px;
+    left: 61px; } }
 @media screen and (min-width: 600px) {
   .row__cols,
   .row__post {
