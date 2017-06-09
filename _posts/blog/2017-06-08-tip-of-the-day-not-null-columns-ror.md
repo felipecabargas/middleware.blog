@@ -1,6 +1,6 @@
 ---
 author: juanpintoduran
-title: Tip of the day #1 - How to force existing column to contain data in Rails
+title: [Daily Tip] #2 - How to force existing column to contain data in Rails
 excerpt:
 layout: post
 categories:
