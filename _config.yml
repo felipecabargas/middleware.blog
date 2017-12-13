@@ -1,12 +1,12 @@
 # Site wide configuration
-title: Felipe Cabargas's NDD
+title: NDD - Felipe Cabargas' Blog
 baseurl: ""
 url: "https://blog.nondrivendevelopment.com"
 favicon: "images/ndd-logo.png"
 g_analytics: UA-5897138-2
 
 # Bio
-header: Felipe Cabargas's NDD
+header: From the Desk of Felipe Cabargas
 desc: >
   A journey of missing semicolons.
 
