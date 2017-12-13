@@ -12,4 +12,4 @@ post_format: [ ]
 
 This might be the easiest-simpler tip ever. Just visit [Google Public DNS Cache Flush](https://developers.google.com/speed/public-dns/cache) and input your website URL.
 
-Simple & useful.
+Simple, yet useful.
