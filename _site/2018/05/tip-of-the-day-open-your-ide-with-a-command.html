@@ -5,15 +5,15 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
 
-  <title>[Daily Tip] How to force existing column to contain data in Rails</title>
-  <meta name="description" content="First, create an empty migration, either by hand or using bin/rails g. Then use the change_column_null handle:">
+  <title>[Daily Tip] How to open your IDE with `code` in macOS </title>
+  <meta name="description" content="Visual Studio Code lets you “install” the code command to open files in VSCode from the terminal… But how about doing it ourselves? alias as always to the re...">
 
   
   <link rel="icon" href="/images/ndd-logo.png" />
   
 
   <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/2017/06/tip-of-the-day-not-null-columns-ror">
+  <link rel="canonical" href="http://localhost:4000/2018/05/tip-of-the-day-open-your-ide-with-a-command">
   <link rel="alternate" type="application/rss+xml" title="NDD - Felipe Cabargas&#39; Blog" href="/feed.xml">
   
   
@@ -29,38 +29,40 @@
         </div>
 
         <div class="post__meta">
-          <div class="post__title">[Daily Tip] How to force existing column to contain data in Rails</div>
+          <div class="post__title">[Daily Tip] How to open your IDE with `code` in macOS </div>
           <div class="post__date">
             
-              06/08/2017
+              05/21/2018
             
           </div>
           <div class="post__cat">Tips</div>
         </div>
 
         <div class="post__body">
-          <p>First, create an empty migration, either by hand or using <code class="highlighter-rouge">bin/rails g</code>. Then use the <code class="highlighter-rouge">change_column_null</code> handle:</p>
+          <p>Visual Studio Code lets you “install” the <code class="highlighter-rouge">code</code> command to open files in VSCode from the terminal… But how about doing it ourselves? <code class="highlighter-rouge">alias</code> as always to the rescue. You just need to add the following to your <code class="highlighter-rouge">.bashrc</code> or <code class="highlighter-rouge">.zshrc</code> file</p>
 
-<div class="language-ruby highlighter-rouge"><pre class="highlight"><code><span class="k">class</span> <span class="nc">FieldNullOnModel</span> <span class="o">&lt;</span> <span class="no">ActiveRecord</span><span class="o">::</span><span class="no">Migration</span><span class="p">[</span><span class="mi">5</span><span class="o">.</span><span class="mi">1</span><span class="p">]</span>
-	<span class="k">def</span> <span class="nf">change</span>
-		<span class="n">change_column_null</span> <span class="ss">:table_name</span><span class="p">,</span> <span class="ss">:column_name</span><span class="p">,</span> <span class="kp">false</span>
-	<span class="k">end</span>
-<span class="k">end</span>
+<p>For VS Code:</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="nb">alias </span><span class="nv">code</span><span class="o">=</span><span class="s2">"open -a Visual</span><span class="se">\ </span><span class="s2">Studio</span><span class="se">\ </span><span class="s2">Code"</span>
 </code></pre>
 </div>
 
-<p>Save the changes and migrate (<code class="highlighter-rouge">bin/rails db:migrate</code>). Voila! The target column now requires content. Remember to update existing records to reflect this validation.</p>
+<p>For others:</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="nb">alias </span><span class="nv">code</span><span class="o">=</span><span class="s2">"open -a &lt;APPLICATION_NAME&gt;"</span>
+</code></pre>
+</div>
 
         </div>
 
         
           <div class="post__paginate">
             
-              <a class="post__paginate-left" href="http://localhost:4000/2017/06/tip-of-the-day-devise-to-accept-extra-fields">[Daily Tip] How to add extra fields during user registration with Devise</a>
+              <a class="post__paginate-left" href="http://localhost:4000/2017/12/tip-of-the-day-force-github-pages-to-rebuild">[Daily Tip] How to force GitHub pages to rebuild</a>
             
 
             
-              <a class="post__paginate-right" href="http://localhost:4000/2017/06/tip-of-the-day-update-dns-quicker">[Daily Tip] How to speed up the DNS expiring process after you DNS change</a>
+              <a class="post__paginate-right" href="http://localhost:4000/2018/07/tip-of-the-day-iterate-between-dates-in-ruby">[Daily Tip] Iterate between Date objects in ruby</a>
             
           </div>
         
@@ -124,15 +126,15 @@
     
       <li class="row__post">
         <a href="http://localhost:4000/2018/05/tip-of-the-day-open-your-ide-with-a-command">
-          <div class="row__title ">
+          <div class="row__title row__active">
             [Daily Tip] How to open your IDE with `code` in macOS 
           </div>
-          <div class="row__date ">
+          <div class="row__date row__active">
             
               05/21/2018
             
           </div>
-          <div class="row__cat ">
+          <div class="row__cat row__active">
             Tips
           </div>
         </a>
@@ -214,15 +216,15 @@
     
       <li class="row__post">
         <a href="http://localhost:4000/2017/06/tip-of-the-day-not-null-columns-ror">
-          <div class="row__title row__active">
+          <div class="row__title ">
             [Daily Tip] How to force existing column to contain data in Rails
           </div>
-          <div class="row__date row__active">
+          <div class="row__date ">
             
               06/08/2017
             
           </div>
-          <div class="row__cat row__active">
+          <div class="row__cat ">
             Tips
           </div>
         </a>

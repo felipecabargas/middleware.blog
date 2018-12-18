@@ -59,8 +59,6 @@ Now the fun part. Let’s add a `syncUsingLocalJSON()` function that parses our 
             completion(.success)
         }
     }
-}
-
 ```
 
 Remember to replace _`JSON-FILE`_ with the name of your `.json` file.
