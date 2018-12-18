@@ -11,7 +11,7 @@ tags:
 post_format: [ ]
 ---
 
-[Sync](https://github.com/3lvis/Sync) is a Swift library that uses a convention-over-configuration paradigm to facilitates JSON-2-CoreData operations.
+[Sync](https://github.com/3lvis/Sync) is a Swift library that uses a convention-over-configuration paradigm to facilitate JSON-2-CoreData operations.
 
 Sync uses a wrapper for CoreData called DataStack which allows us to skip dealing with NSPersistentStoreCoordinator and NSManageObjectContext.
 
