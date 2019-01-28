@@ -1,7 +1,7 @@
 # Site wide configuration
 title: NDD - Felipe Cabargas' Blog
 baseurl: ""
-url: "https://blog.nondrivendevelopment.com"
+url: "https://middleware.blog"
 favicon: "images/ndd-logo.png"
 g_analytics: UA-5897138-2
 
