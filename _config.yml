@@ -1,15 +1,14 @@
 # Site wide configuration
-title: NDD - Felipe Cabargas' Blog
+title: Middleware - Felipe Cabargas' Blog
 baseurl: ""
-url: "https://middleware.blog"
+url: "https://www.middleware.blog"
 favicon: "images/ndd-logo.png"
 g_analytics: UA-5897138-2
 
 # Bio
-header: From the Desk of Felipe Cabargas
+header: Middleware
 desc: >
-  A journey of missing semicolons.
-
+  Felipe Cabargas' Blog
 # Jekyll configuration
 theme: louie
 
