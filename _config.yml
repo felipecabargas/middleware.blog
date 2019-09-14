@@ -1,14 +1,14 @@
 # Site wide configuration
 title: Middleware - Felipe Cabargas' Blog
 baseurl: ""
-url: "https://www.middleware.blog"
+url: "https://middleware.blog"
 favicon: "images/ndd-logo.png"
 g_analytics: UA-5897138-2
 
 # Bio
 header: Middleware
 desc: >
-  Felipe Cabargas' Blog
+  Felipe Cabargas' Technical Blog
 # Jekyll configuration
 theme: louie
 
